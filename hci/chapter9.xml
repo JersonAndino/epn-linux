@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Data that can be expressed numerically is considered:</text>
+        </name>
+        <questiontext format="html">
+            <text>Data that can be expressed numerically is considered:</text>
+        </questiontext>
+        <answer fraction="0">Qualitative</answer>
+        <answer fraction="100.00">Quantitative</answer>
+        <answer fraction="0">Open-ended</answer>
+        <answer fraction="0">Narrative</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>Examining the size and amount of data falls under which type of analysis?</text>
+        </name>
+        <questiontext format="html">
+            <text>Examining the size and amount of data falls under which type of analysis?</text>
+        </questiontext>
+        <answer fraction="0">Thematic analysis</answer>
+        <answer fraction="0">Critical incident analysis</answer>
+        <answer fraction="100.00">Quantitative analysis</answer>
+        <answer fraction="0">Discourse analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the most common way to mislead with numbers?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the most common way to mislead with numbers?</text>
+        </questiontext>
+        <answer fraction="0">Using percentages</answer>
+        <answer fraction="0">Highlighting outliers</answer>
+        <answer fraction="100.00">Choosing an inappropriate scale</answer>
+        <answer fraction="0">Using the mean instead of the median</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>In the context of data analysis, what does "open question" refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>In the context of data analysis, what does "open question" refer to?</text>
+        </questiontext>
+        <answer fraction="0">A question with a limited set of answer choices</answer>
+        <answer fraction="0">A question with a yes/no answer</answer>
+        <answer fraction="100.00">A question that allows for detailed explanations</answer>
+        <answer fraction="0">A question with a specific format</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>Identifying recurring patterns in qualitative data is called:</text>
+        </name>
+        <questiontext format="html">
+            <text>Identifying recurring patterns in qualitative data is called:</text>
+        </questiontext>
+        <answer fraction="0">Categorization</answer>
+        <answer fraction="100.00">Theming</answer>
+        <answer fraction="0">Coding</answer>
+        <answer fraction="0">Critical incident analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing interview data, which framework focuses on the meaning behind the words used?</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing interview data, which framework focuses on the meaning behind the words used?</text>
+        </questiontext>
+        <answer fraction="0">Content analysis</answer>
+        <answer fraction="0">Interaction analysis</answer>
+        <answer fraction="0">Grounded theory</answer>
+        <answer fraction="100.00">Discourse analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>Nvivo is an example of a software tool used for:</text>
+        </name>
+        <questiontext format="html">
+            <text>Nvivo is an example of a software tool used for:</text>
+        </questiontext>
+        <answer fraction="0">Statistical analysis</answer>
+        <answer fraction="100.00">Qualitative data analysis</answer>
+        <answer fraction="0">Creating presentations</answer>
+        <answer fraction="0">Data visualization</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main advantage of presenting findings through stories?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main advantage of presenting findings through stories?</text>
+        </questiontext>
+        <answer fraction="0">Increased technical accuracy</answer>
+        <answer fraction="0">Improved data visualization</answer>
+        <answer fraction="100.00">Enhanced clarity and ease of understanding</answer>
+        <answer fraction="0">More formal structure</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>When researchers develop their own theory based on data analysis, they are likely using:</text>
+        </name>
+        <questiontext format="html">
+            <text>When researchers develop their own theory based on data analysis, they are likely using:</text>
+        </questiontext>
+        <answer fraction="0">Content analysis</answer>
+        <answer fraction="100.00">Grounded theory</answer>
+        <answer fraction="0">Interaction analysis</answer>
+        <answer fraction="0">Conversation analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>SPSS is a software package commonly used for:</text>
+        </name>
+        <questiontext format="html">
+            <text>SPSS is a software package commonly used for:</text>
+        </questiontext>
+        <answer fraction="0">Qualitative data analysis</answer>
+        <answer fraction="0">Spreadsheet calculations</answer>
+        <answer fraction="100.00">Statistical analysis</answer>
+        <answer fraction="0">Data visualization</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing data gathered through observation, what is the primary focus of Interaction Analysis?</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing data gathered through observation, what is the primary focus of Interaction Analysis?</text>
+        </questiontext>
+        <answer fraction="0">Identifying overall themes</answer>
+        <answer fraction="0">Classifying content into categories</answer>
+        <answer fraction="100.00">Understanding interactions between people and objects</answer>
+        <answer fraction="0">Developing a new theoretical framework</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>In a data set, the number that appears most frequently is called the:</text>
+        </name>
+        <questiontext format="html">
+            <text>In a data set, the number that appears most frequently is called the:</text>
+        </questiontext>
+        <answer fraction="0">Mean</answer>
+        <answer fraction="0">Median</answer>
+        <answer fraction="100.00">Mode</answer>
+        <answer fraction="0">Range</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>When researchers analyze data with a pre-determined set of categories, they are using a(n):</text>
+        </name>
+        <questiontext format="html">
+            <text>When researchers analyze data with a pre-determined set of categories, they are using a(n):</text>
+        </questiontext>
+        <answer fraction="0">Inductive approach</answer>
+        <answer fraction="100.00">Deductive approach</answer>
+        <answer fraction="0">Open-ended approach</answer>
+        <answer fraction="0">Thematic approach</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>When presenting findings, structured notations are useful for:</text>
+        </name>
+        <questiontext format="html">
+            <text>When presenting findings, structured notations are useful for:</text>
+        </questiontext>
+        <answer fraction="0">Engaging storytelling</answer>
+        <answer fraction="100.00">Clear and concise communication of a specific viewpoint</answer>
+        <answer fraction="0">Highlighting emotional impact</answer>
+        <answer fraction="0">Encouraging audience participation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing data, researchers should be cautious of:</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing data, researchers should be cautious of:</text>
+        </questiontext>
+        <answer fraction="0">Highlighting trends</answer>
+        <answer fraction="0">Looking for patterns</answer>
+        <answer fraction="0">Questioning assumptions</answer>
+        <answer fraction="100.00">Ignoring outliers</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>In the context of data analysis, what does "coding" refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>In the context of data analysis, what does "coding" refer to?</text>
+        </questiontext>
+        <answer fraction="0">Assigning numerical values to data points</answer>
+        <answer fraction="0">Transcribing audio recordings</answer>
+        <answer fraction="100.00">Categorizing qualitative data elements</answer>
+        <answer fraction="0">Calculating statistical measures</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing conversation data, Conversation Analysis focuses on:</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing conversation data, Conversation Analysis focuses on:</text>
+        </questiontext>
+        <answer fraction="0">Identifying overall themes</answer>
+        <answer fraction="100.00">Examining the structure of dialogue</answer>
+        <answer fraction="0">Developing a theoretical framework</answer>
+        <answer fraction="0">Understanding nonverbal cues</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>When presenting findings, researchers should strive to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When presenting findings, researchers should strive to:</text>
+        </questiontext>
+        <answer fraction="0">Emphasize personal opinions</answer>
+        <answer fraction="100.00">Present data in a clear and unbiased way</answer>
+        <answer fraction="0">Focus on negative aspects</answer>
+        <answer fraction="0">Use technical jargon extensively</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>When researchers use a combination of inductive and deductive approaches in qualitative analysis, it suggests:</text>
+        </name>
+        <questiontext format="html">
+            <text>When researchers use a combination of inductive and deductive approaches in qualitative analysis, it suggests:</text>
+        </questiontext>
+        <answer fraction="0">They are unsure of their research question.</answer>
+        <answer fraction="100.00">They are open to new themes emerging from the data, while also considering existing frameworks.</answer>
+        <answer fraction="0">They are prioritizing quantitative analysis.</answer>
+        <answer fraction="0">They are focusing solely on closed-ended questions.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>Grounded theory is a type of analysis that is:</text>
+        </name>
+        <questiontext format="html">
+            <text>Grounded theory is a type of analysis that is:</text>
+        </questiontext>
+        <answer fraction="0">Primarily used for large datasets.</answer>
+        <answer fraction="100.00">Particularly well-suited for interview data.</answer>
+        <answer fraction="0">Limited to analyzing quantitative data.</answer>
+        <answer fraction="0">Focused on pre-existing theoretical frameworks.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>When presenting data visually, what is a potential drawback of using pie charts?</text>
+        </name>
+        <questiontext format="html">
+            <text>When presenting data visually, what is a potential drawback of using pie charts?</text>
+        </questiontext>
+        <answer fraction="0">They are difficult to create.</answer>
+        <answer fraction="100.00">They are not effective for comparing multiple categories.</answer>
+        <answer fraction="0">They are best suited for very large datasets.</answer>
+        <answer fraction="0">They cannot be used to show trends over time.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>When researchers use a critical incident analysis approach, they are interested in:</text>
+        </name>
+        <questiontext format="html">
+            <text>When researchers use a critical incident analysis approach, they are interested in:</text>
+        </questiontext>
+        <answer fraction="0">Identifying broad themes across all data.</answer>
+        <answer fraction="100.00">Highlighting specific events that hold particular significance.</answer>
+        <answer fraction="0">Calculating averages and percentages.</answer>
+        <answer fraction="0">Analyzing the meaning behind participants' words.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following is NOT a common pitfall in data analysis?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following is NOT a common pitfall in data analysis?</text>
+        </questiontext>
+        <answer fraction="0">Focusing solely on confirming pre-existing beliefs.</answer>
+        <answer fraction="0">Failing to consider limitations of the data collection method.</answer>
+        <answer fraction="0">Using inappropriate statistical tests.</answer>
+        <answer fraction="100.00">Successfully identifying all potential trends in the data.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing data from questionnaires with multiple-choice questions, what type of analysis is most appropriate?</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing data from questionnaires with multiple-choice questions, what type of analysis is most appropriate?</text>
+        </questiontext>
+        <answer fraction="0">Thematic analysis</answer>
+        <answer fraction="0">Content analysis</answer>
+        <answer fraction="100.00">Quantitative analysis</answer>
+        <answer fraction="0">Interaction analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>When presenting findings, researchers should avoid using jargon when:</text>
+        </name>
+        <questiontext format="html">
+            <text>When presenting findings, researchers should avoid using jargon when:</text>
+        </questiontext>
+        <answer fraction="0">The audience is familiar with the technical terms.</answer>
+        <answer fraction="0">There is no clear and concise alternative explanation.</answer>
+        <answer fraction="0">The purpose is to impress the audience with expertise.</answer>
+        <answer fraction="100.00">Defining the jargon is included in the presentation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>When researchers collaborate to analyze qualitative data, it can help to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When researchers collaborate to analyze qualitative data, it can help to:</text>
+        </questiontext>
+        <answer fraction="0">Increase the potential for bias.</answer>
+        <answer fraction="100.00">Reduce the risk of overlooking important themes.</answer>
+        <answer fraction="0">Shorten the analysis time.</answer>
+        <answer fraction="0">Make the data collection process more efficient.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>When analyzing data, outliers can significantly impact which measure of central tendency?</text>
+        </name>
+        <questiontext format="html">
+            <text>When analyzing data, outliers can significantly impact which measure of central tendency?</text>
+        </questiontext>
+        <answer fraction="100.00">Median</answer>
+        <answer fraction="0">Mode</answer>
+        <answer fraction="0">Both Median and Mean</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following is an example of a good practice in data analysis?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following is an example of a good practice in data analysis?</text>
+        </questiontext>
+        <answer fraction="0">Failing to document the data cleaning process.</answer>
+        <answer fraction="0">Forcing data to fit a predetermined hypothesis.</answer>
+        <answer fraction="100.00">Triangulating findings from multiple data sources.</answer>
+        <answer fraction="0">Ignoring negative results.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>In the context of data analysis, what does "triangulation" refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>In the context of data analysis, what does "triangulation" refer to?</text>
+        </questiontext>
+        <answer fraction="100.00">The process of combining data from multiple sources to gain a more comprehensive understanding.</answer>
+        <answer fraction="0">Focusing on a specific aspect of the data for detailed analysis.</answer>
+        <answer fraction="0">Discarding data points that seem unreliable.</answer>
+        <answer fraction="0">Presenting findings in a visually appealing way.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>When data is collected through observation, what is the main benefit of using field notes?</text>
+        </name>
+        <questiontext format="html">
+            <text>When data is collected through observation, what is the main benefit of using field notes?</text>
+        </questiontext>
+        <answer fraction="0">To record the researcher's personal opinions and interpretations.</answer>
+        <answer fraction="100.00">To document detailed observations of the participants and their environment.</answer>
+        <answer fraction="0">To summarize the main points of the observation session.</answer>
+        <answer fraction="0">To organize interview questions for later use.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>none</answernumbering>
+    </question>
+
+    <!-- Rafa -->
+
+    <!-- Pregunta 1 -->
+<question type="multichoice">
+    <name>
+        <text>What are the main goals of the data analysis, interpretation, and presentation?</text>
+    </name>
+    <questiontext format="html">
+        <text>What are the main goals of the data analysis, interpretation, and presentation?</text>
+    </questiontext>
+    <answer fraction="0">To discuss the difference between qualitative and quantitative data</answer>
+    <answer fraction="0">To enable you to analyze data from questionnaires</answer>
+    <answer fraction="0">To make you aware of software packages for analysis</answer>
+    <answer fraction="100.00">All of the above</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 2 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of using a combination of qualitative and quantitative approaches in data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of using a combination of qualitative and quantitative approaches in data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">It provides a more comprehensive account of behavior or performance</answer>
+    <answer fraction="0">It simplifies the analysis process</answer>
+    <answer fraction="0">It reduces the need for data cleansing</answer>
+    <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 3 -->
+<question type="multichoice">
+    <name>
+        <text>What is the first step in data analysis, whether qualitative or quantitative?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the first step in data analysis, whether qualitative or quantitative?</text>
+    </questiontext>
+    <answer fraction="0">Data cleansing</answer>
+    <answer fraction="100.00">Identifying patterns or calculating simple numerical values</answer>
+    <answer fraction="0">Interpreting the findings</answer>
+    <answer fraction="0">Presenting the findings</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 4 -->
+<question type="multichoice">
+    <name>
+        <text>What is data cleansing?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is data cleansing?</text>
+    </questiontext>
+    <answer fraction="0">Identifying patterns in the data</answer>
+    <answer fraction="0">Calculating numerical values such as ratios or averages</answer>
+    <answer fraction="100.00">Checking for anomalies or errors in the data</answer>
+    <answer fraction="0">Presenting the data in a meaningful manner</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 5 -->
+<question type="multichoice">
+    <name>
+        <text>Why is it important to check for anomalies or errors in the data?</text>
+    </name>
+    <questiontext format="html">
+        <text>Why is it important to check for anomalies or errors in the data?</text>
+    </questiontext>
+    <answer fraction="0">To make the data more complex</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To limit the analysis process</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 6 -->
+<question type="multichoice">
+    <name>
+        <text>What is a common mistake in interpreting data?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is a common mistake in interpreting data?</text>
+    </questiontext>
+    <answer fraction="0">Using structured frameworks or theories</answer>
+    <answer fraction="100.00">Allowing existing beliefs or biases to influence the interpretation</answer>
+    <answer fraction="0">Checking for anomalies or errors</answer>
+    <answer fraction="0">Using digital tools for data analysis</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 7 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator ensure the conclusions are trusted?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator ensure the conclusions are trusted?</text>
+    </questiontext>
+    <answer fraction="0">By using words such as "many" or "often" in the conclusions</answer>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By making claims that go beyond what the data can support</answer>
+    <answer fraction="0">By avoiding data cleansing techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 8 -->
+<question type="multichoice">
+    <name>
+        <text>What is the importance of presentation in data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the importance of presentation in data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">It depends on the audience for whom the study was performed</answer>
+    <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+    <answer fraction="0">It simplifies the analysis process</answer>
+    <answer fraction="0">It reduces the need for qualitative data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 9 -->
+<question type="multichoice">
+    <name>
+        <text>What is the best way to present findings to a team of developers?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the best way to present findings to a team of developers?</text>
+    </questiontext>
+    <answer fraction="100.00">Using a formal notation</answer>
+    <answer fraction="0">Providing a summary of problems with video clips</answer>
+    <answer fraction="0">Using structured frameworks</answer>
+    <answer fraction="0">Avoiding quantitative data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 10 -->
+<question type="multichoice">
+    <name>
+        <text>What is the purpose of interpreting data findings?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the purpose of interpreting data findings?</text>
+    </questiontext>
+    <answer fraction="0">To make the data more complex</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To limit the analysis process</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 11 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator avoid making claims that go beyond what the data can support?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator avoid making claims that go beyond what the data can support?</text>
+    </questiontext>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By using words such as "many" or "often" in the conclusions</answer>
+    <answer fraction="0">By allowing existing beliefs or biases to influence the interpretation</answer>
+    <answer fraction="0">By avoiding data cleansing techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 12 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of using software packages for data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of using software packages for data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">They simplify the analysis process</answer>
+    <answer fraction="0">They limit the types of conclusions that can be drawn</answer>
+    <answer fraction="0">They reduce the need for data gathering</answer>
+    <answer fraction="0">They increase biases in the data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 13 -->
+<question type="multichoice">
+    <name>
+        <text>What is the difference between qualitative and quantitative data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the difference between qualitative and quantitative data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">Qualitative analysis involves identifying patterns; quantitative analysis involves calculating numerical values</answer>
+    <answer fraction="0">Qualitative analysis involves checking for anomalies; quantitative analysis involves interpreting findings</answer>
+    <answer fraction="0">Qualitative analysis involves using software packages; quantitative analysis involves data cleansing</answer>
+    <answer fraction="0">Qualitative analysis involves presenting findings; quantitative analysis involves identifying patterns</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 14 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator ensure the data supports any conclusions?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator ensure the data supports any conclusions?</text>
+    </questiontext>
+    <answer fraction="0">By using words such as "many" or "often" in the conclusions</answer>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By making claims that go beyond what the data can support</answer>
+    <answer fraction="0">By allowing existing beliefs or biases to influence the interpretation</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 15 -->
+<question type="multichoice">
+    <name>
+        <text>Why is it important to interpret and present findings in a meaningful and appropriate manner?</text>
+    </name>
+    <questiontext format="html">
+        <text>Why is it important to interpret and present findings in a meaningful and appropriate manner?</text>
+    </questiontext>
+    <answer fraction="0">To limit the types of conclusions that can be drawn</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <answer fraction="0">To make the data more complex</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 16 -->
+<question type="multichoice">
+    <name>
+        <text>What is the difference between qualitative and quantitative data?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the difference between qualitative and quantitative data?</text>
+    </questiontext>
+    <answer fraction="0">Qualitative data is numerical; quantitative data is descriptive</answer>
+    <answer fraction="100.00">Qualitative data is descriptive; quantitative data is numerical</answer>
+    <answer fraction="0">Qualitative data is complex; quantitative data is simple</answer>
+    <answer fraction="0">Qualitative data is simple; quantitative data is complex</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 17 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of using a structured framework for data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of using a structured framework for data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">It simplifies the analysis process</answer>
+    <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+    <answer fraction="0">It reduces the need for data cleansing</answer>
+    <answer fraction="0">It increases biases in the data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 18 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator avoid bias in data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator avoid bias in data analysis?</text>
+    </questiontext>
+    <answer fraction="0">By using a combination of qualitative and quantitative approaches</answer>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By making claims that go beyond what the data can support</answer>
+    <answer fraction="0">By avoiding data cleansing techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 19 -->
+<question type="multichoice">
+    <name>
+        <text>What is the purpose of checking for anomalies in the data?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the purpose of checking for anomalies in the data?</text>
+    </questiontext>
+    <answer fraction="0">To make the data more complex</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To limit the analysis process</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 20 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of presenting findings in a meaningful manner?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of presenting findings in a meaningful manner?</text>
+    </questiontext>
+    <answer fraction="0">It simplifies the analysis process</answer>
+    <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+    <answer fraction="100.00">It ensures the data supports any conclusions</answer>
+    <answer fraction="0">It makes the data more complex</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 21 -->
+<question type="multichoice">
+    <name>
+        <text>What is the importance of data interpretation in analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the importance of data interpretation in analysis?</text>
+    </questiontext>
+    <answer fraction="0">It ensures the data supports any conclusions</answer>
+    <answer fraction="0">It avoids data gathering techniques</answer>
+    <answer fraction="0">It makes the data more complex</answer>
+    <answer fraction="100.00">It allows for meaningful and appropriate presentation of findings</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 22 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator ensure the data is reliable for analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator ensure the data is reliable for analysis?</text>
+    </questiontext>
+    <answer fraction="0">By using a combination of qualitative and quantitative approaches</answer>
+    <answer fraction="0">By remaining impartial and objective</answer>
+    <answer fraction="0">By avoiding data cleansing techniques</answer>
+    <answer fraction="100.00">By checking for anomalies or errors in the data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 23 -->
+<question type="multichoice">
+    <name>
+        <text>What is the purpose of data cleansing in analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the purpose of data cleansing in analysis?</text>
+    </questiontext>
+    <answer fraction="0">To make the data more complex</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To limit the analysis process</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 24 -->
+<question type="multichoice">
+    <name>
+        <text>Why is it important to consider the audience when presenting findings?</text>
+    </name>
+    <questiontext format="html">
+        <text>Why is it important to consider the audience when presenting findings?</text>
+    </questiontext>
+    <answer fraction="0">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <answer fraction="0">To make the data more complex</answer>
+    <answer fraction="100.00">To ensure meaningful and appropriate presentation of findings</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 25 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of using multiple data gathering techniques?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of using multiple data gathering techniques?</text>
+    </questiontext>
+    <answer fraction="0">It simplifies the analysis process</answer>
+    <answer fraction="100.00">It ensures the data supports any conclusions</answer>
+    <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+    <answer fraction="0">It increases biases in the data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 26 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator ensure the conclusions are based on the data?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator ensure the conclusions are based on the data?</text>
+    </questiontext>
+    <answer fraction="0">By using a combination of qualitative and quantitative approaches</answer>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By avoiding data cleansing techniques</answer>
+    <answer fraction="0">By making claims that go beyond what the data can support</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 27 -->
+<question type="multichoice">
+    <name>
+        <text>What is the benefit of using software packages for data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the benefit of using software packages for data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">They simplify the analysis process</answer>
+    <answer fraction="0">They limit the types of conclusions that can be drawn</answer>
+    <answer fraction="0">They reduce the need for data gathering</answer>
+    <answer fraction="0">They increase biases in the data</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 28 -->
+<question type="multichoice">
+    <name>
+        <text>What is the difference between qualitative and quantitative data analysis?</text>
+    </name>
+    <questiontext format="html">
+        <text>What is the difference between qualitative and quantitative data analysis?</text>
+    </questiontext>
+    <answer fraction="100.00">Qualitative analysis involves identifying patterns; quantitative analysis involves calculating numerical values</answer>
+    <answer fraction="0">Qualitative analysis involves checking for anomalies; quantitative analysis involves interpreting findings</answer>
+    <answer fraction="0">Qualitative analysis involves using software packages; quantitative analysis involves data cleansing</answer>
+    <answer fraction="0">Qualitative analysis involves presenting findings; quantitative analysis involves identifying patterns</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 29 -->
+<question type="multichoice">
+    <name>
+        <text>How can an investigator ensure the data supports any conclusions?</text>
+    </name>
+    <questiontext format="html">
+        <text>How can an investigator ensure the data supports any conclusions?</text>
+    </questiontext>
+    <answer fraction="0">By using words such as "many" or "often" in the conclusions</answer>
+    <answer fraction="100.00">By remaining impartial and objective</answer>
+    <answer fraction="0">By making claims that go beyond what the data can support</answer>
+    <answer fraction="0">By allowing existing beliefs or biases to influence the interpretation</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+<!-- Pregunta 30 -->
+<question type="multichoice">
+    <name>
+        <text>Why is it important to interpret and present findings in a meaningful and appropriate manner?</text>
+    </name>
+    <questiontext format="html">
+        <text>Why is it important to interpret and present findings in a meaningful and appropriate manner?</text>
+    </questiontext>
+    <answer fraction="0">To limit the types of conclusions that can be drawn</answer>
+    <answer fraction="100.00">To ensure the data supports any conclusions</answer>
+    <answer fraction="0">To avoid data gathering techniques</answer>
+    <answer fraction="0">To make the data more complex</answer>
+    <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+</question>
+
+
+</quiz>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a prototype in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a prototype in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">A series of complex engineering drawings</answer>
+        <answer fraction="0">A lump of clay</answer>
+        <answer fraction="0">A single, highly detailed mockup of the final product</answer>
+        <answer fraction="100.00">A series of screen sketches</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an example of a low-fidelity prototype?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an example of a low-fidelity prototype?</text>
+        </questiontext>
+        <answer fraction="0">A fully functional software program</answer>
+        <answer fraction="100.00">A cardboard mockup</answer>
+        <answer fraction="0">A 3D printed model</answer>
+        <answer fraction="0">A high-quality marketing video</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a danger of high-fidelity prototypes?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a danger of high-fidelity prototypes?</text>
+        </questiontext>
+        <answer fraction="0">They are too expensive to create</answer>
+        <answer fraction="0">They may not be durable enough for testing</answer>
+        <answer fraction="100.00">Users may think they are interacting with a finished product and miss key flaws</answer>
+        <answer fraction="0">They cannot be easily modified</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What are two common types of compromise in prototyping?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are two common types of compromise in prototyping?</text>
+        </questiontext>
+        <answer fraction="0">Short vs. Long</answer>
+        <answer fraction="100.00">Horizontal vs. vertical</answer>
+        <answer fraction="0">Physical vs. Digital</answer>
+        <answer fraction="0">Simple vs. complex</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of a conceptual model?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of a conceptual model?</text>
+        </questiontext>
+        <answer fraction="0">To define the exact materials and manufacturing processes needed</answer>
+        <answer fraction="100.00">To outline the core functionalities and user interactions</answer>
+        <answer fraction="0">To create a marketing brochure</answer>
+        <answer fraction="0">To develop a detailed construction schedule</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>How can scenarios help with conceptual design?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can scenarios help with conceptual design?</text>
+        </questiontext>
+        <answer fraction="0">By identifying potential safety hazards</answer>
+        <answer fraction="100.00">By outlining the user experience in a narrative format</answer>
+        <answer fraction="0">By creating a cost estimate for production</answer>
+        <answer fraction="0">By generating 3D models for visualization</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>How can a storyboard be used to generate a card-based prototype?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can a storyboard be used to generate a card-based prototype?</text>
+        </questiontext>
+        <answer fraction="100.00">Each scene in the storyboard becomes a card in the prototype</answer>
+        <answer fraction="0">The storyboard is used to create a marketing video</answer>
+        <answer fraction="0">The storyboard is discarded after the prototype is built</answer>
+        <answer fraction="0">The storyboard is a separate step used for collecting user feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the benefits of using physical computing toolkits for prototyping?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the benefits of using physical computing toolkits for prototyping?</text>
+        </questiontext>
+        <answer fraction="0">They require a high level of coding expertise</answer>
+        <answer fraction="0">They are designed for professional engineers only</answer>
+        <answer fraction="100.00">They are relatively inexpensive and easy to learn</answer>
+        <answer fraction="0">They can only be used to create prototypes of very small objects</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main difference between conceptual and concrete design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main difference between conceptual and concrete design?</text>
+        </questiontext>
+        <answer fraction="0">Conceptual design focuses on aesthetics, while concrete design focuses on functionality.</answer>
+        <answer fraction="100.00">Conceptual design is a broad overview, while concrete design specifies details.</answer>
+        <answer fraction="0">Conceptual design requires user testing, while concrete design does not.</answer>
+        <answer fraction="0">Conceptual design is created with digital tools, while concrete design uses physical materials.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>When evaluating interface metaphors, which factor is NOT important?</text>
+        </name>
+        <questiontext format="html">
+            <text>When evaluating interface metaphors, which factor is NOT important?</text>
+        </questiontext>
+        <answer fraction="100.00">How easy it is for the target audience to understand the metaphor.</answer>
+        <answer fraction="0">How much structure and guidance the metaphor provides for users.</answer>
+        <answer fraction="0">How well the metaphor aligns with the product's core functionality.</answer>
+        <answer fraction="0">How visually appealing the metaphor is.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the considerations for cross-cultural design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the considerations for cross-cultural design?</text>
+        </questiontext>
+        <answer fraction="100.00">Color symbolism, iconography, and information architecture.</answer>
+        <answer fraction="0">Material selection and manufacturing processes.</answer>
+        <answer fraction="0">Target market demographics and income levels.</answer>
+        <answer fraction="0">Brand identity and marketing messaging.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>How can personas be used to explore the user experience?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can personas be used to explore the user experience?</text>
+        </questiontext>
+        <answer fraction="0">By conducting in-depth interviews with real users.</answer>
+        <answer fraction="100.00">By creating fictional characters that represent target user groups.</answer>
+        <answer fraction="0">By analyzing website traffic data and user behavior.</answer>
+        <answer fraction="0">By collecting user feedback through surveys and questionnaires.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between a design map and a timeline experience map?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between a design map and a timeline experience map?</text>
+        </questiontext>
+        <answer fraction="0">Design maps focus on physical products, while timeline maps are used for digital products.</answer>
+        <answer fraction="100.00">Design maps use a wheel representation, while timeline maps are linear.</answer>
+        <answer fraction="0">Design maps focus on user emotions, while timeline maps focus on actions.</answer>
+        <answer fraction="0">Design maps are more detailed, while timeline maps are a high-level overview.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a benefit of using Software Development Kits (SDKs) for prototyping?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a benefit of using Software Development Kits (SDKs) for prototyping?</text>
+        </questiontext>
+        <answer fraction="100.00">SDKs provide pre-written code that saves development time.</answer>
+        <answer fraction="0">SDKs are specifically designed for creating physical prototypes.</answer>
+        <answer fraction="0">SDKs are easy to learn and use, even for beginners with no coding experience.</answer>
+        <answer fraction="0">SDKs are most suitable for low-fidelity prototyping with paper and cardboard.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some examples of physical computing toolkits?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some examples of physical computing toolkits?</text>
+        </questiontext>
+        <answer fraction="0">Design software like Adobe Photoshop and Illustrator.</answer>
+        <answer fraction="100.00">Arduino, LilyPad, and BBC micro:bit.</answer>
+        <answer fraction="0">Online prototyping tools like InVision and Figma.</answer>
+        <answer fraction="0">3D printing software and hardware.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>When building a prototype with electronics, what is a key safety consideration?</text>
+        </name>
+        <questiontext format="html">
+            <text>When building a prototype with electronics, what is a key safety consideration?</text>
+        </questiontext>
+        <answer fraction="0">Using only brand-new batteries to avoid power fluctuations.</answer>
+        <answer fraction="100.00">Following recommended voltage and current limitations for components.</answer>
+        <answer fraction="0">Ensuring all connections are visually appealing and well-organized.</answer>
+        <answer fraction="0">Using the highest-quality materials available, regardless of cost.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of documentation in the construction phase?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of documentation in the construction phase?</text>
+        </questiontext>
+        <answer fraction="0">Documentation is not necessary for successful construction.</answer>
+        <answer fraction="100.00">Documentation clearly explains the design intent and technical specifications.</answer>
+        <answer fraction="0">Documentation focuses on marketing materials and user manuals.</answer>
+        <answer fraction="0">Documentation is primarily used for training customer support representatives.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>How does user testing throughout the design process contribute to a successful final product?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does user testing throughout the design process contribute to a successful final product?</text>
+        </questiontext>
+        <answer fraction="100.00">User testing identifies potential flaws and areas for improvement early on.</answer>
+        <answer fraction="0">User testing is unnecessary if the design team has a clear vision for the product.</answer>
+        <answer fraction="0">User testing should only be conducted after the product is fully manufactured.</answer>
+        <answer fraction="0">User testing is primarily a marketing tool to gauge user interest before launch.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of mood boards in conceptual design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of mood boards in conceptual design?</text>
+        </questiontext>
+        <answer fraction="0">To define the technical specifications and materials needed.</answer>
+        <answer fraction="100.00">To capture the desired feel and aesthetic of the product.</answer>
+        <answer fraction="0">To create a step-by-step user guide for the final product.</answer>
+        <answer fraction="0">To document user feedback and testing results.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>When considering interaction styles for a product, what are some options?</text>
+        </name>
+        <questiontext format="html">
+            <text>When considering interaction styles for a product, what are some options?</text>
+        </questiontext>
+        <answer fraction="100.00">Instructing, conversing, manipulating, exploring, and responding.</answer>
+        <answer fraction="0">Touchscreen, keyboard, voice control, and physical buttons.</answer>
+        <answer fraction="0">Simple, complex, elegant, and playful design aesthetics.</answer>
+        <answer fraction="0">Desktop application, mobile app, web-based platform, and wearable device.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some factors to consider when designing for accessibility?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some factors to consider when designing for accessibility?</text>
+        </questiontext>
+        <answer fraction="100.00">Color contrast, keyboard navigation, and screen reader compatibility.</answer>
+        <answer fraction="0">Target user demographics, income level, and geographic location.</answer>
+        <answer fraction="0">Brand identity guidelines, logo usage, and marketing messaging.</answer>
+        <answer fraction="0">Material selection, manufacturing processes, and production costs.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the advantage of using a wheel representation for an experience map?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the advantage of using a wheel representation for an experience map?</text>
+        </questiontext>
+        <answer fraction="0">It allows for a more detailed breakdown of each touchpoint in the user journey.</answer>
+        <answer fraction="100.00">It emphasizes the cyclical nature of user interactions with the product or service.</answer>
+        <answer fraction="0">It is a more linear and chronological representation of the user experience.</answer>
+        <answer fraction="0">It is better suited for showcasing user emotions and sentiment throughout the journey.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of storyboards in prototyping?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of storyboards in prototyping?</text>
+        </questiontext>
+        <answer fraction="0">To create a visually appealing marketing video for the product.</answer>
+        <answer fraction="100.00">To depict user interactions and test potential design flaws.</answer>
+        <answer fraction="0">To document technical specifications and construction details.</answer>
+        <answer fraction="0">To showcase the final product features and benefits to potential investors.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the limitations of low-fidelity prototypes?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the limitations of low-fidelity prototypes?</text>
+        </questiontext>
+        <answer fraction="0">They can be time-consuming and expensive to create.</answer>
+        <answer fraction="0">They may not be visually appealing or engaging for users.</answer>
+        <answer fraction="100.00">They are not suitable for testing complex interactions or functionalities.</answer>
+        <answer fraction="0">They are difficult to modify and iterate on based on user feedback.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the benefits of high-fidelity prototypes?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the benefits of high-fidelity prototypes?</text>
+        </questiontext>
+        <answer fraction="0">They are quick and inexpensive to produce.</answer>
+        <answer fraction="100.00">They provide a more realistic representation of the final product for user testing.</answer>
+        <answer fraction="0">They are not suitable for gathering user feedback on early design concepts.</answer>
+        <answer fraction="0">They are difficult to modify and iterate on based on user testing results.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the key difference between horizontal and vertical prototyping compromises?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the key difference between horizontal and vertical prototyping compromises?</text>
+        </questiontext>
+        <answer fraction="100.00">Horizontal prototypes offer a broad range of features with limited detail, while vertical prototypes focus on a few features in high detail.</answer>
+        <answer fraction="0">Horizontal prototypes are more user-friendly for testing, while vertical prototypes are more technically complex.</answer>
+        <answer fraction="0">Horizontal prototypes are better suited for low-fidelity approaches, while vertical prototypes are used for high-fidelity prototypes.</answer>
+        <answer fraction="0">Horizontal prototypes are created using physical materials, while vertical prototypes are digital representations.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the ethical considerations when using user personas?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the ethical considerations when using user personas?</text>
+        </questiontext>
+        <answer fraction="100.00">Personas should be based on real user data and avoid stereotypes.</answer>
+        <answer fraction="0">Personas should be used to promote a specific brand identity or marketing message.</answer>
+        <answer fraction="0">Personas should only represent users with the highest income levels and purchasing power.</answer>
+        <answer fraction="0">Personas should be presented as factual representations of all potential users.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>How can user feedback throughout the design process be most effectively incorporated?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can user feedback throughout the design process be most effectively incorporated?</text>
+        </questiontext>
+        <answer fraction="0">By making minor cosmetic changes based on user preferences.</answer>
+        <answer fraction="100.00">By carefully analyzing feedback to identify common themes and areas for improvement.</answer>
+        <answer fraction="0">By prioritizing feedback from the most vocal or critical users.</answer>
+        <answer fraction="0">By disregarding user feedback and focusing on the designer's original vision.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary function of a user journey map?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary function of a user journey map?</text>
+        </questiontext>
+        <answer fraction="0">To define the technical specifications and functionalities of the product.</answer>
+        <answer fraction="100.00">To visualize the steps users take when interacting with a product or service.</answer>
+        <answer fraction="0">To showcase the product's features and benefits to potential investors.</answer>
+        <answer fraction="0">To document the design process and decision-making behind the final product.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the benefits of using physical computing toolkits in education?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the benefits of using physical computing toolkits in education?</text>
+        </questiontext>
+        <answer fraction="100.00">They encourage hands-on learning and experimentation with technology.</answer>
+        <answer fraction="0">They require a high level of coding expertise and are not suitable for beginners.</answer>
+        <answer fraction="0">They are primarily used for rapid prototyping of industrial products.</answer>
+        <answer fraction="0">They are too expensive and complex for use in educational settings.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

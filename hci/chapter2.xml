@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of conceptualizing ideas in a design project?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of conceptualizing ideas in a design project?</text>
+        </questiontext>
+        <answer fraction="0">To create a proof of concept</answer>
+        <answer fraction="100.00">To scrutinize feasibility and desirability</answer>
+        <answer fraction="0">To entertain customers with new ideas</answer>
+        <answer fraction="0">To avoid the use of interface metaphors</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one reason for creating a proof of concept in the double diamond framework?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one reason for creating a proof of concept in the double diamond framework?</text>
+        </questiontext>
+        <answer fraction="0">To entertain customers</answer>
+        <answer fraction="100.00">To explore solutions</answer>
+        <answer fraction="0">To avoid articulating basic building blocks</answer>
+        <answer fraction="0">To neglect the feasibility of proposed products</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to generate a set of research questions in the early stages of a design project?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to generate a set of research questions in the early stages of a design project?</text>
+        </questiontext>
+        <answer fraction="0">To avoid unknowns in the design process</answer>
+        <answer fraction="0">To show sources of inspiration</answer>
+        <answer fraction="100.00">To transform wishful thinking into concrete models</answer>
+        <answer fraction="0">To prioritize feasibility over desirability</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>How should you begin if you’re tasked with designing a user-friendly file sharing service?</text>
+        </name>
+        <questiontext format="html">
+            <text>How should you begin if you’re tasked with designing a user-friendly file sharing service?</text>
+        </questiontext>
+        <answer fraction="0">Sketch interface ideas.</answer>
+        <answer fraction="0">Code the functionalities right away.</answer>
+        <answer fraction="100.00">Examine existing services and conduct user research.</answer>
+        <answer fraction="0">Design the system architecture first.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>The "double diamond" of design refers to which of the following processes?</text>
+        </name>
+        <questiontext format="html">
+            <text>The "double diamond" of design refers to which of the following processes?</text>
+        </questiontext>
+        <answer fraction="0">User research and testing phases.</answer>
+        <answer fraction="0">Ideation and development phases of design.</answer>
+        <answer fraction="0">User interface and user experience design.</answer>
+        <answer fraction="100.00">Iterative design process with four phases (Discover, Define, Develop, Deliver).</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>Which core principle underlines the interaction design approach?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which core principle underlines the interaction design approach?</text>
+        </questiontext>
+        <answer fraction="0">Prioritizing aesthetics over functionality.</answer>
+        <answer fraction="0">Focusing solely on technical feasibility.</answer>
+        <answer fraction="100.00">Designing the product with users in mind throughout the process.</answer>
+        <answer fraction="0">Rushing from concept to launch without user testing.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>In interaction design, what is the process focused on?</text>
+        </name>
+        <questiontext format="html">
+            <text>In interaction design, what is the process focused on?</text>
+        </questiontext>
+        <answer fraction="0">Writing code</answer>
+        <answer fraction="100.00">Discovering requirements, designing, producing prototypes, and evaluating</answer>
+        <answer fraction="0">Marketing strategies</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>How is the user-centered approach in interaction design characterized?</text>
+        </name>
+        <questiontext format="html">
+            <text>How is the user-centered approach in interaction design characterized?</text>
+        </questiontext>
+        <answer fraction="0">Ignoring users until the end of the process</answer>
+        <answer fraction="100.00">Early focus on users and tasks, empirical measurement, and iterative design</answer>
+        <answer fraction="0">Ignoring tasks and focusing only on users</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the key to user-centered design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the key to user-centered design?</text>
+        </questiontext>
+        <answer fraction="0">Ignoring users' feedback</answer>
+        <answer fraction="100.00">Iterative design</answer>
+        <answer fraction="0">Avoiding trade-offs</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of the double diamond of design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of the double diamond of design?</text>
+        </questiontext>
+        <answer fraction="0">To confuse designers</answer>
+        <answer fraction="0">To represent two conflicting design approaches</answer>
+        <answer fraction="100.00">To illustrate the design process stages</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>In understanding the problem space, what is the team supposed to explore?</text>
+        </name>
+        <questiontext format="html">
+            <text>In understanding the problem space, what is the team supposed to explore?</text>
+        </questiontext>
+        <answer fraction="0">Coding techniques</answer>
+        <answer fraction="100.00">Current user experience, reasons for change, and improvement expectations</answer>
+        <answer fraction="0">Marketing strategies</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the focus of the user-centered design approach?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the focus of the user-centered design approach?</text>
+        </questiontext>
+        <answer fraction="0">Designers' preferences</answer>
+        <answer fraction="100.00">Early focus on users and tasks, empirical measurement, and iterative design</answer>
+        <answer fraction="0">Strict adherence to requirements</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>How are alternative designs generated in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>How are alternative designs generated in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">By randomly selecting ideas</answer>
+        <answer fraction="100.00">Through flair and creativity, cross-fertilization of ideas, user input, and product evolution</answer>
+        <answer fraction="0">Ignoring design alternatives</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>According to the text, what is essential for interaction design to be successful?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to the text, what is essential for interaction design to be successful?</text>
+        </questiontext>
+        <answer fraction="0">Ignoring user needs</answer>
+        <answer fraction="100.00">Quality thresholds and technical feasibility</answer>
+        <answer fraction="0">Continuous integration</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is A/B testing in the context of interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is A/B testing in the context of interaction design?</text>
+        </questiontext>
+        <answer fraction="0">A coding technique</answer>
+        <answer fraction="100.00">An online method to inform choice between alternatives</answer>
+        <answer fraction="0">A design philosophy</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>How does interaction design handle integration with other lifecycle models?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does interaction design handle integration with other lifecycle models?</text>
+        </questiontext>
+        <answer fraction="0">It does not integrate with other models</answer>
+        <answer fraction="0">It requires no planning</answer>
+        <answer fraction="100.00">Requires careful planning, especially with agile software development</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the significance of identifying stakeholders in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the significance of identifying stakeholders in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">It is not necessary</answer>
+        <answer fraction="100.00">Helps identify groups to include in design activities</answer>
+        <answer fraction="0">Adds unnecessary complexity</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>How does user involvement impact the acceptance and success of a product?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does user involvement impact the acceptance and success of a product?</text>
+        </questiontext>
+        <answer fraction="0">It has no impact</answer>
+        <answer fraction="0">Users tend to reject products with high involvement</answer>
+        <answer fraction="100.00">Users are more likely to forgive or accept problems</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the degrees of user involvement?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the degrees of user involvement?</text>
+        </questiontext>
+        <answer fraction="0">Full time, part time, long term, short term</answer>
+        <answer fraction="0">Face-to-face, online, post-release</answer>
+        <answer fraction="100.00">Low, medium, high</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary focus of interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary focus of interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Internal system processes</answer>
+        <answer fraction="100.00">Externally-visible and measurable behavior</answer>
+        <answer fraction="0">Marketing strategies</answer>
+        <answer fraction="0">Ignoring user needs</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of the Google Design Sprints lifecycle model?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of the Google Design Sprints lifecycle model?</text>
+        </questiontext>
+        <answer fraction="0">To confuse designers</answer>
+        <answer fraction="0">To illustrate the double diamond of design</answer>
+        <answer fraction="100.00">To inform the choice between design alternatives</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>In understanding the problem space, why is it important to explore different perspectives?</text>
+        </name>
+        <questiontext format="html">
+            <text>In understanding the problem space, why is it important to explore different perspectives?</text>
+        </questiontext>
+        <answer fraction="0">To confuse the team</answer>
+        <answer fraction="0">To avoid team effort</answer>
+        <answer fraction="100.00">To make informed decisions and avoid incorrect assumptions</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the significance of ownership in user involvement?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the significance of ownership in user involvement?</text>
+        </questiontext>
+        <answer fraction="0">It adds unnecessary complexity</answer>
+        <answer fraction="0">It makes users passive stakeholders</answer>
+        <answer fraction="100.00">Making users active stakeholders can lead to forgiveness and acceptance of problems</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>How does interaction design balance conflicting requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does interaction design balance conflicting requirements?</text>
+        </questiontext>
+        <answer fraction="0">By ignoring them</answer>
+        <answer fraction="100.00">Through trade-offs</answer>
+        <answer fraction="0">By sticking to a rigid set of requirements</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of prototypes in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of prototypes in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">They are static documentation</answer>
+        <answer fraction="0">They are used for marketing purposes</answer>
+        <answer fraction="100.00">They help in evaluating the product and its user experience</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the Research in the Wild lifecycle model focus on?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the Research in the Wild lifecycle model focus on?</text>
+        </questiontext>
+        <answer fraction="0">Online feedback exchange</answer>
+        <answer fraction="100.00">A framework for research studies</answer>
+        <answer fraction="0">The double diamond of design</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is A/B testing used in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is A/B testing used in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To confuse designers</answer>
+        <answer fraction="0">To set quality thresholds</answer>
+        <answer fraction="100.00">To inform the choice between alternatives through online methods</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the significance of realistic expectations in user involvement?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the significance of realistic expectations in user involvement?</text>
+        </questiontext>
+        <answer fraction="0">It leads to disappointments</answer>
+        <answer fraction="100.00">It promotes acceptance and success of the product</answer>
+        <answer fraction="0">It delays the design process</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>According to the text, what are the four approaches in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to the text, what are the four approaches in interaction design?</text>
+        </questiontext>
+        <answer fraction="100.00">User-centered design, activity-centered design, systems design, and genius design</answer>
+        <answer fraction="0">Coding, testing, debugging, and deploying</answer>
+        <answer fraction="0">Marketing, research, synthesis, and usability criteria</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of quality thresholds in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of quality thresholds in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">They are not relevant</answer>
+        <answer fraction="0">They help in setting stakeholder goals</answer>
+        <answer fraction="100.00">Different stakeholder groups have different quality thresholds</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

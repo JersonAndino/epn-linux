@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the MAIN goal of planning a data gathering program?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the MAIN goal of planning a data gathering program?</text>
+        </questiontext>
+        <answer fraction="0">To create a visually appealing report</answer>
+        <answer fraction="100.00">To define research questions</answer>
+        <answer fraction="0">To choose the most expensive equipment</answer>
+        <answer fraction="0">To collect data as quickly as possible</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of these is NOT a key issue in data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of these is NOT a key issue in data gathering?</text>
+        </questiontext>
+        <answer fraction="0">Setting clear goals</answer>
+        <answer fraction="0">Choosing interview questions</answer>
+        <answer fraction="0">Finding participants</answer>
+        <answer fraction="100.00">Ignoring ethical considerations</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of triangulation in data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of triangulation in data gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">To analyze data from a single source</answer>
+        <answer fraction="0">To choose the most time-consuming method</answer>
+        <answer fraction="0">To ignore conflicting data points</answer>
+        <answer fraction="0">To collect data only from experts</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>Pilot studies are used to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Pilot studies are used to:</text>
+        </questiontext>
+        <answer fraction="100.00">Test the feasibility of a main study</answer>
+        <answer fraction="0">Gather large amounts of data quickly</answer>
+        <answer fraction="0">Finalize the research questions</answer>
+        <answer fraction="0">Reduce the cost of data collection</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of data recording can capture body language and expressions?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of data recording can capture body language and expressions?</text>
+        </questiontext>
+        <answer fraction="0">Handwritten notes</answer>
+        <answer fraction="100.00">Audio recording</answer>
+        <answer fraction="0">Likert scale</answer>
+        <answer fraction="0">Open-ended questions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>Unstructured interviews are:</text>
+        </name>
+        <questiontext format="html">
+            <text>Unstructured interviews are:</text>
+        </questiontext>
+        <answer fraction="100.00">Highly scripted and controlled</answer>
+        <answer fraction="0">Brief and to the point</answer>
+        <answer fraction="0">Ideal for gathering quantitative data</answer>
+        <answer fraction="0">Not recommended for research</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>Semi-structured interviews offer a balance between:</text>
+        </name>
+        <questiontext format="html">
+            <text>Semi-structured interviews offer a balance between:</text>
+        </questiontext>
+        <answer fraction="100.00">Cost and time and richness and replicability</answer>
+        <answer fraction="0">Brief and to the point</answer>
+        <answer fraction="0">Open and closed-ended questions</answer>
+        <answer fraction="0">Interviews and questionnaires</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an advantage of conducting interviews online?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an advantage of conducting interviews online?</text>
+        </questiontext>
+        <answer fraction="0">Participants need to travel</answer>
+        <answer fraction="100.00">Interviewer bias is more likely</answer>
+        <answer fraction="0">Data analysis is more complex</answer>
+        <answer fraction="0">It is a formal setting</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>Props in interviews can be used to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Props in interviews can be used to:</text>
+        </questiontext>
+        <answer fraction="0">Shorten the interview time</answer>
+        <answer fraction="100.00">Prompt the interviewee</answer>
+        <answer fraction="0">Control the conversation flow</answer>
+        <answer fraction="0">Test the participant's memory</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>Closed-ended questions are:</text>
+        </name>
+        <questiontext format="html">
+            <text>Closed-ended questions are:</text>
+        </questiontext>
+        <answer fraction="100.00">Difficult to analyze</answer>
+        <answer fraction="0">More likely to lead to bias</answer>
+        <answer fraction="0">Best for gathering opinions</answer>
+        <answer fraction="0">Not recommended in questionnaires</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a challenge of online questionnaires?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a challenge of online questionnaires?</text>
+        </questiontext>
+        <answer fraction="100.00">High response rates</answer>
+        <answer fraction="0">Easy data organization</answer>
+        <answer fraction="0">Clear question formatting</answer>
+        <answer fraction="0">Short questionnaire length</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>When designing a questionnaire, it's important to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When designing a questionnaire, it's important to:</text>
+        </questiontext>
+        <answer fraction="0">Use unclear and lengthy questions</answer>
+        <answer fraction="100.00">Avoid white space for a compact look and offer incentives for participation</answer>
+        <answer fraction="0">Phrase all questions negatively</answer>
+        <answer fraction="0">Not offer incentives for participation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>Likert scales are used to measure:</text>
+        </name>
+        <questiontext format="html">
+            <text>Likert scales are used to measure:</text>
+        </questiontext>
+        <answer fraction="0">Open-ended responses</answer>
+        <answer fraction="100.00">Levels of agreement</answer>
+        <answer fraction="0">Demographic information</answer>
+        <answer fraction="0">Time spent on a task</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>Direct observation allows researchers to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Direct observation allows researchers to:</text>
+        </questiontext>
+        <answer fraction="0">Analyze existing data sets</answer>
+        <answer fraction="100.00">Observe behavior in real time</answer>
+        <answer fraction="0">Conduct interviews remotely</answer>
+        <answer fraction="0">Remain anonymous</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>Ethnography is a research method that involves:</text>
+        </name>
+        <questiontext format="html">
+            <text>Ethnography is a research method that involves:</text>
+        </questiontext>
+        <answer fraction="0">Short surveys and questionnaires</answer>
+        <answer fraction="100.00">In-depth immersion in a culture</answer>
+        <answer fraction="0">Analyzing online interactions</answer>
+        <answer fraction="0">Limited participant involvement</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a disadvantage of online ethnography?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a disadvantage of online ethnography?</text>
+        </questiontext>
+        <answer fraction="100.00">Rich data collection</answer>
+        <answer fraction="0">Remain anonymous</answer>
+        <answer fraction="0">Face-to-face interaction</answer>
+        <answer fraction="0">Easy data analysis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>When conducting observations, researchers should consider:</text>
+        </name>
+        <questiontext format="html">
+            <text>When conducting observations, researchers should consider:</text>
+        </questiontext>
+        <answer fraction="0">Ignoring ethical considerations</answer>
+        <answer fraction="100.00">Gaining acceptance from participants</answer>
+        <answer fraction="0">Avoiding data collection methods</answer>
+        <answer fraction="0">Focusing solely on the researcher's goals</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>Workflow diagrams are used to represent:</text>
+        </name>
+        <questiontext format="html">
+            <text>Workflow diagrams are used to represent:</text>
+        </questiontext>
+        <answer fraction="0">The physical layout of a space</answer>
+        <answer fraction="100.00">The sequence of tasks in a process</answer>
+        <answer fraction="0">Demographic information of participants</answer>
+        <answer fraction="0">Open-ended interview responses</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of observation involves participants keeping track of their activities?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of observation involves participants keeping track of their activities?</text>
+        </questiontext>
+        <answer fraction="0">Direct observation</answer>
+        <answer fraction="100.00">Indirect observation</answer>
+        <answer fraction="0">Focus group interviews</answer>
+        <answer fraction="0">Online questionnaires</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>Choosing the right data gathering technique depends on:</text>
+        </name>
+        <questiontext format="html">
+            <text>Choosing the right data gathering technique depends on:</text>
+        </questiontext>
+        <answer fraction="0">Budget only</answer>
+        <answer fraction="100.00">Research focus and resources</answer>
+        <answer fraction="0">Participant availability alone</answer>
+        <answer fraction="0">Speed of data collection</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>When writing interview questions, it's important to avoid:</text>
+        </name>
+        <questiontext format="html">
+            <text>When writing interview questions, it's important to avoid:</text>
+        </questiontext>
+        <answer fraction="0">Open-ended questions</answer>
+        <answer fraction="100.00">Leading questions</answer>
+        <answer fraction="0">Short and clear questions</answer>
+        <answer fraction="0">Neutral language</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of an informed consent form in research?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of an informed consent form in research?</text>
+        </questiontext>
+        <answer fraction="0">To waive participant confidentiality</answer>
+        <answer fraction="100.00">To explain the research goals and risks</answer>
+        <answer fraction="0">To collect demographic data</answer>
+        <answer fraction="0">To shorten the interview process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>During an interview, a cool-off period allows the participant to:</text>
+        </name>
+        <questiontext format="html">
+            <text>During an interview, a cool-off period allows the participant to:</text>
+        </questiontext>
+        <answer fraction="0">Ask clarifying questions</answer>
+        <answer fraction="0">Review their recorded responses</answer>
+        <answer fraction="0">Introduce new topics</answer>
+        <answer fraction="100.00">Provide additional information</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential challenge of focus groups?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential challenge of focus groups?</text>
+        </questiontext>
+        <answer fraction="100.00">Gathering rich qualitative data</answer>
+        <answer fraction="0">Ensuring participant anonymity</answer>
+        <answer fraction="0">Analyzing large datasets</answer>
+        <answer fraction="0">Controlling the conversation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>Distributing questionnaires online allows researchers to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Distributing questionnaires online allows researchers to:</text>
+        </questiontext>
+        <answer fraction="100.00">Reduce data entry errors</answer>
+        <answer fraction="0">Limit the number of participants</answer>
+        <answer fraction="0">Control the order of questions</answer>
+        <answer fraction="0">Ensure a high response rate</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>When observing a physical space, researchers might consider:</text>
+        </name>
+        <questiontext format="html">
+            <text>When observing a physical space, researchers might consider:</text>
+        </questiontext>
+        <answer fraction="0">Ignoring the layout and furniture</answer>
+        <answer fraction="100.00">Noting the arrangement and objects</answer>
+        <answer fraction="0">Focusing solely on participant actions</answer>
+        <answer fraction="0">Excluding any background noise</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>Web analytics is a form of:</text>
+        </name>
+        <questiontext format="html">
+            <text>Web analytics is a form of:</text>
+        </questiontext>
+        <answer fraction="100.00">Direct observation and indirect observation</answer>
+        <answer fraction="0">Ensure a high response rate</answer>
+        <answer fraction="0">Open-ended questionnaires</answer>
+        <answer fraction="0">Semi-structured interviews</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>Combining different data gathering techniques can be used to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Combining different data gathering techniques can be used to:</text>
+        </questiontext>
+        <answer fraction="0">Reduce the research budget</answer>
+        <answer fraction="100.00">Gain a more comprehensive understanding</answer>
+        <answer fraction="0">Shorten the data collection timeframe</answer>
+        <answer fraction="0">Limit the number of research questions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>When reporting research findings, it's important to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When reporting research findings, it's important to:</text>
+        </questiontext>
+        <answer fraction="0">Ignore limitations of the chosen methods</answer>
+        <answer fraction="100.00">Acknowledge ethical considerations</answer>
+        <answer fraction="0">Focus solely on positive results</answer>
+        <answer fraction="0">Exclude any data that contradicts the hypothesis</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>When designing a questionnaire, it's important to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When designing a questionnaire, it's important to:</text>
+        </questiontext>
+        <answer fraction="0">Use technical jargon</answer>
+        <answer fraction="100.00">Provide clear instructions</answer>
+        <answer fraction="0">Limit the use of white space</answer>
+        <answer fraction="0">Avoid offering incentives</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!--Rafa-->
+
+    <!-- Pregunta 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is data gathering, and why is it important in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is data gathering, and why is it important in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Data gathering is the process of collecting numbers only.</answer>
+        <answer fraction="100.00">Data gathering is the process of collecting any information useful for understanding design, user needs, and behavior.</answer>
+        <answer fraction="0">Data gathering is the process of analyzing data after it has been collected.</answer>
+        <answer fraction="0">Data gathering is not important in interaction design.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What are examples of quantitative data in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are examples of quantitative data in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Comments and sketches</answer>
+        <answer fraction="0">Photos and films</answer>
+        <answer fraction="100.00">Time taken to complete a task and number of clicks</answer>
+        <answer fraction="0">User opinions and feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What are examples of qualitative data in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are examples of qualitative data in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Time taken to complete a task and number of clicks</answer>
+        <answer fraction="100.00">User opinions and feedback</answer>
+        <answer fraction="0">Measurements and descriptions</answer>
+        <answer fraction="0">None of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of data gathering in the requirements activity of interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of data gathering in the requirements activity of interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To collect data that is irrelevant to the design process</answer>
+        <answer fraction="100.00">To collect data that is sufficient, accurate, and relevant for design</answer>
+        <answer fraction="0">To avoid the need for design</answer>
+        <answer fraction="0">To collect data that is not useful for design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the main techniques for gathering data introduced in the chapter?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the main techniques for gathering data introduced in the chapter?</text>
+        </questiontext>
+        <answer fraction="0">Interviews, surveys, and focus groups</answer>
+        <answer fraction="100.00">Interviews, questionnaires, and observation</answer>
+        <answer fraction="0">Surveys, observations, and usability testing</answer>
+        <answer fraction="0">Usability testing, focus groups, and interviews</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 6 -->
+    <question type="multichoice">
+        <name>
+            <text>How can interviews be conducted in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can interviews be conducted in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Only face-to-face</answer>
+        <answer fraction="0">Only via teleconferencing systems</answer>
+        <answer fraction="0">Only on the phone</answer>
+        <answer fraction="100.00">Face-to-face, via teleconferencing systems, or on the phone</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between direct and indirect observation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between direct and indirect observation?</text>
+        </questiontext>
+        <answer fraction="0">Direct observation is conducted in person, while indirect observation is done remotely.</answer>
+        <answer fraction="100.00">Direct observation involves recording the user's activity for later study, while indirect observation involves observing activities as they happen.</answer>
+        <answer fraction="0">Direct observation is synchronous, while indirect observation is asynchronous.</answer>
+        <answer fraction="0">Direct observation involves asking questions, while indirect observation does not.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 8 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to use a combination of data gathering techniques?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to use a combination of data gathering techniques?</text>
+        </questiontext>
+        <answer fraction="0">To focus on just one approach</answer>
+        <answer fraction="100.00">To avoid biases inherent in any one approach</answer>
+        <answer fraction="0">To limit the amount of data collected</answer>
+        <answer fraction="0">To make the data collection process more complex</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the next step after data gathering in the interaction design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the next step after data gathering in the interaction design process?</text>
+        </questiontext>
+        <answer fraction="100.00">Data analysis and interpretation</answer>
+        <answer fraction="0">Prototype development</answer>
+        <answer fraction="0">Usability testing</answer>
+        <answer fraction="0">User feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 10 -->
+    <question type="multichoice">
+        <name>
+            <text>Which chapter discusses techniques for managing large amounts of data from online activities?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which chapter discusses techniques for managing large amounts of data from online activities?</text>
+        </questiontext>
+        <answer fraction="0">Chapter 1: Introduction to Data Gathering</answer>
+        <answer fraction="0">Chapter 3: Data Gathering Techniques</answer>
+        <answer fraction="0">Chapter 5: Data Analysis and Interpretation</answer>
+        <answer fraction="100.00">Chapter 10: Data at Scale</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between synchronous and asynchronous data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between synchronous and asynchronous data gathering?</text>
+        </questiontext>
+        <answer fraction="0">Synchronous data gathering involves face-to-face interaction, while asynchronous data gathering does not.</answer>
+        <answer fraction="0">Synchronous data gathering is done remotely, while asynchronous data gathering is done in person.</answer>
+        <answer fraction="100.00">Synchronous data gathering is real-time, while asynchronous data gathering is not.</answer>
+        <answer fraction="0">Synchronous data gathering is qualitative, while asynchronous data gathering is quantitative.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 12 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to collect accurate and relevant data in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to collect accurate and relevant data in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To make the design process more complicated</answer>
+        <answer fraction="100.00">To ensure that design decisions are based on valid information</answer>
+        <answer fraction="0">To limit the amount of data collected</answer>
+        <answer fraction="0">To avoid user involvement</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 13 -->
+    <question type="multichoice">
+        <name>
+            <text>How has technology impacted data gathering in recent years?</text>
+        </name>
+        <questiontext format="html">
+            <text>How has technology impacted data gathering in recent years?</text>
+        </questiontext>
+        <answer fraction="0">By making it more difficult to collect data</answer>
+        <answer fraction="0">By limiting the types of data that can be collected</answer>
+        <answer fraction="100.00">By providing new tools and techniques for data collection</answer>
+        <answer fraction="0">By reducing the need for data gathering</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What role do interviews play in data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What role do interviews play in data gathering?</text>
+        </questiontext>
+        <answer fraction="0">Interviews are used to collect quantitative data</answer>
+        <answer fraction="100.00">Interviews are used to collect qualitative data</answer>
+        <answer fraction="0">Interviews are not used in data gathering</answer>
+        <answer fraction="0">Interviews are used to avoid biases in data collection</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of observation in data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of observation in data gathering?</text>
+        </questiontext>
+        <answer fraction="0">To collect data asynchronously</answer>
+        <answer fraction="0">To collect data without the presence of the investigator</answer>
+        <answer fraction="100.00">To collect data about user reactions and performance</answer>
+        <answer fraction="0">To avoid using questionnaires</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 16 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following is not a form of data in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following is not a form of data in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Numbers</answer>
+        <answer fraction="0">Words</answer>
+        <answer fraction="0">Measurements</answer>
+        <answer fraction="100.00">Colors</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of using a combination of data gathering techniques?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of using a combination of data gathering techniques?</text>
+        </questiontext>
+        <answer fraction="0">It simplifies the data collection process.</answer>
+        <answer fraction="100.00">It allows for a more comprehensive understanding of the problem.</answer>
+        <answer fraction="0">It reduces the amount of data collected.</answer>
+        <answer fraction="0">It increases biases in the data.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 18 -->
+    <question type="multichoice">
+        <name>
+            <text>How can questionnaires be distributed?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can questionnaires be distributed?</text>
+        </questiontext>
+        <answer fraction="0">Only via email</answer>
+        <answer fraction="0">Only in person</answer>
+        <answer fraction="100.00">Both paper-based and online</answer>
+        <answer fraction="0">Only through social media</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of data gathering in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of data gathering in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To collect as much data as possible</answer>
+        <answer fraction="100.00">To inform design decisions with relevant and accurate data</answer>
+        <answer fraction="0">To avoid user involvement in the design process</answer>
+        <answer fraction="0">To limit the types of data collected</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 31 -->
+    <question type="multichoice">
+        <name>
+            <text>Which technique involves making a record of the user's activity to be studied later?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which technique involves making a record of the user's activity to be studied later?</text>
+        </questiontext>
+        <answer fraction="0">Interview</answer>
+        <answer fraction="100.00">Observation</answer>
+        <answer fraction="0">Questionnaire</answer>
+        <answer fraction="0">Usability testing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 32 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between quantitative and qualitative data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between quantitative and qualitative data?</text>
+        </questiontext>
+        <answer fraction="0">Quantitative data is more useful than qualitative data.</answer>
+        <answer fraction="100.00">Quantitative data involves numbers, while qualitative data involves descriptions.</answer>
+        <answer fraction="0">Quantitative data is easier to collect than qualitative data.</answer>
+        <answer fraction="0">Qualitative data is more reliable than quantitative data.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 33 -->
+    <question type="multichoice">
+        <name>
+            <text>How can interviews be conducted?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can interviews be conducted?</text>
+        </questiontext>
+        <answer fraction="0">Only face-to-face</answer>
+        <answer fraction="0">Only via telepathy</answer>
+        <answer fraction="100.00">Face-to-face, via teleconferencing, or on the phone</answer>
+        <answer fraction="0">Only through written correspondence</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 34 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of indirect observation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of indirect observation?</text>
+        </questiontext>
+        <answer fraction="0">To observe activities as they happen</answer>
+        <answer fraction="100.00">To record the user's activity for later study</answer>
+        <answer fraction="0">To avoid biases in data collection</answer>
+        <answer fraction="0">To study the user's emotions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 35 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to collect relevant data in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to collect relevant data in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To make the data collection process more complex</answer>
+        <answer fraction="100.00">To ensure that design decisions are based on valid information</answer>
+        <answer fraction="0">To limit the amount of data collected</answer>
+        <answer fraction="0">To avoid user involvement</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 36 -->
+    <question type="multichoice">
+        <name>
+            <text>How can questionnaires be designed?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can questionnaires be designed?</text>
+        </questiontext>
+        <answer fraction="0">With only open-ended questions</answer>
+        <answer fraction="0">With only closed-ended questions</answer>
+        <answer fraction="100.00">With a mix of open-ended and closed-ended questions</answer>
+        <answer fraction="0">With no questions at all</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 37 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of using data gathering techniques that require little to no programming or technical skills?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of using data gathering techniques that require little to no programming or technical skills?</text>
+        </questiontext>
+        <answer fraction="0">It makes the data less reliable</answer>
+        <answer fraction="100.00">It allows for a wider range of people to collect data</answer>
+        <answer fraction="0">It limits the types of data that can be collected</answer>
+        <answer fraction="0">It increases biases in the data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 38 -->
+    <question type="multichoice">
+        <name>
+            <text>How has technology impacted data gathering in recent years?</text>
+        </name>
+        <questiontext format="html">
+            <text>How has technology impacted data gathering in recent years?</text>
+        </questiontext>
+        <answer fraction="0">By making it more difficult to collect data</answer>
+        <answer fraction="0">By limiting the types of data that can be collected</answer>
+        <answer fraction="100.00">By providing new tools and techniques for data collection</answer>
+        <answer fraction="0">By reducing the need for data gathering</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 39 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the next step after data gathering in the interaction design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the next step after data gathering in the interaction design process?</text>
+        </questiontext>
+        <answer fraction="100.00">Data analysis and interpretation</answer>
+        <answer fraction="0">Prototype development</answer>
+        <answer fraction="0">Usability testing</answer>
+        <answer fraction="0">User feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 40 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of interviews in data gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of interviews in data gathering?</text>
+        </questiontext>
+        <answer fraction="0">To collect quantitative data</answer>
+        <answer fraction="100.00">To collect qualitative data</answer>
+        <answer fraction="0">To avoid biases in data collection</answer>
+        <answer fraction="0">To limit the amount of data collected</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 41 -->
+    <question type="multichoice">
+        <name>
+            <text>How can observation be conducted?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can observation be conducted?</text>
+        </questiontext>
+        <answer fraction="0">Only in person</answer>
+        <answer fraction="0">Only through video recording</answer>
+        <answer fraction="100.00">Directly or indirectly</answer>
+        <answer fraction="0">Only through written correspondence</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

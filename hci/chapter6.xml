@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What does HCI traditionally focus on?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does HCI traditionally focus on?</text>
+        </questiontext>
+        <answer fraction="0">Designing interfaces that look good</answer>
+        <answer fraction="100.00">Designing efficient and effective systems</answer>
+        <answer fraction="0">Designing persuasive technologies</answer>
+        <answer fraction="0">Recognizing and expressing emotions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is emotional interaction concerned with?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is emotional interaction concerned with?</text>
+        </questiontext>
+        <answer fraction="0">The mechanics of using a product</answer>
+        <answer fraction="100.00">How we feel when interacting with technology</answer>
+        <answer fraction="0">The appearance of a product</answer>
+        <answer fraction="0">How to design robots with emotions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some aspects of emotional design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some aspects of emotional design?</text>
+        </questiontext>
+        <answer fraction="0">Usability and learnability</answer>
+        <answer fraction="0">Efficiency and effectiveness</answer>
+        <answer fraction="100.00">Why people get attached to products and how interfaces can change emotions</answer>
+        <answer fraction="0">Color recognition and facial expressions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one way emotions can affect behavior?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one way emotions can affect behavior?</text>
+        </questiontext>
+        <answer fraction="100.00">When happy, we might be more likely to take risks</answer>
+        <answer fraction="0">Interfaces can always improve how we feel</answer>
+        <answer fraction="0">Our moods never change</answer>
+        <answer fraction="0">Color is the most important design element</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What are automatic emotions?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are automatic emotions?</text>
+        </questiontext>
+        <answer fraction="0">Develop slowly and take a long time to go away</answer>
+        <answer fraction="100.00">Rapid and dissipate quickly (e.g., a fit of anger)</answer>
+        <answer fraction="0">Caused by cultural background</answer>
+        <answer fraction="0">Only recognized through facial expressions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What are three levels of design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are three levels of design?</text>
+        </questiontext>
+        <answer fraction="0">Simple, complex, and frustrating</answer>
+        <answer fraction="100.00">Visceral, behavioral, and reflective</answer>
+        <answer fraction="0">Emotional, functional, and social</answer>
+        <answer fraction="0">Aesthetic, usable, and meaningful</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What does visceral design refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does visceral design refer to?</text>
+        </questiontext>
+        <answer fraction="0">How interfaces make us feel</answer>
+        <answer fraction="0">How easy it is to use an interface</answer>
+        <answer fraction="0">The cultural meaning of a product</answer>
+        <answer fraction="100.00">Making products look, feel, and sound good</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>How can expressive interfaces be intrusive?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can expressive interfaces be intrusive?</text>
+        </questiontext>
+        <answer fraction="0">By being too complex and difficult to use</answer>
+        <answer fraction="0">By not matching the user's cultural background</answer>
+        <answer fraction="100.00">By causing annoyance or even anger</answer>
+        <answer fraction="0">By having a minimalist aesthetic</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one example of a frustrating interface?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one example of a frustrating interface?</text>
+        </questiontext>
+        <answer fraction="0">A thermostat with a friendly cartoon character</answer>
+        <answer fraction="0">An interface with a beachball icon indicating waiting</answer>
+        <answer fraction="100.00">An interface with vague or condemning error messages</answer>
+        <answer fraction="0">An interface that requires too many steps to complete a task</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the ethical concern regarding emotional AI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the ethical concern regarding emotional AI?</text>
+        </questiontext>
+        <answer fraction="0">AI may not understand the context of user emotions.</answer>
+        <answer fraction="0">AI may not be able to express emotions sincerely.</answer>
+        <answer fraction="100.00">AI can read emotions from facial expressions.</answer>
+        <answer fraction="0">AI is not creative enough to design interfaces.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a technique used in persuasive technology?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a technique used in persuasive technology?</text>
+        </questiontext>
+        <answer fraction="0">Complicated error messages</answer>
+        <answer fraction="100.00">Encouraging social comparison</answer>
+        <answer fraction="0">Using overly technical language</answer>
+        <answer fraction="0">Providing minimal feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the Tidy Street project an example of?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the Tidy Street project an example of?</text>
+        </questiontext>
+        <answer fraction="0">Facial expression recognition software</answer>
+        <answer fraction="0">Designing robots with personalities</answer>
+        <answer fraction="100.00">Sustainable HCI</answer>
+        <answer fraction="0">Phishing email scams</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is anthropomorphism used for in HCI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is anthropomorphism used for in HCI?</text>
+        </questiontext>
+        <answer fraction="0">To make interfaces more complex</answer>
+        <answer fraction="100.00">To reduce user anxiety</answer>
+        <answer fraction="0">To improve processing speed</answer>
+        <answer fraction="0">To make interfaces more sterile</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>Why might some users prefer a personalized welcome message?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why might some users prefer a personalized welcome message?</text>
+        </questiontext>
+        <answer fraction="0">It feels more formal and professional.</answer>
+        <answer fraction="100.00">It makes them feel like the system recognizes them.</answer>
+        <answer fraction="0">It provides more technical information.</answer>
+        <answer fraction="0">It takes less time to display.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main point of feedback messages?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main point of feedback messages?</text>
+        </questiontext>
+        <answer fraction="0">To make the user feel bad about mistakes.</answer>
+        <answer fraction="100.00">To help the user learn and improve.</answer>
+        <answer fraction="0">To punish the user for incorrect actions.</answer>
+        <answer fraction="0">There is no benefit to feedback messages.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What impact can positive feedback have on users?</text>
+        </name>
+        <questiontext format="html">
+            <text>What impact can positive feedback have on users?</text>
+        </questiontext>
+        <answer fraction="0">It can make them feel less motivated.</answer>
+        <answer fraction="0">It can make them more likely to give up.</answer>
+        <answer fraction="100.00">It can encourage users to continue.</answer>
+        <answer fraction="0">It has no effect on user behavior.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is affective computing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is affective computing?</text>
+        </questiontext>
+        <answer fraction="0">The study of computer viruses.</answer>
+        <answer fraction="100.00">The ability of computers to recognize and express emotions.</answer>
+        <answer fraction="0">A type of persuasive technology.</answer>
+        <answer fraction="0">A method for improving internet download speeds.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What technologies are used in affective computing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What technologies are used in affective computing?</text>
+        </questiontext>
+        <answer fraction="0">GPS and gyroscopes</answer>
+        <answer fraction="100.00">Facial recognition software and biosensors</answer>
+        <answer fraction="0">Advanced encryption algorithms</answer>
+        <answer fraction="0">Virtual reality headsets</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a criticism of emotional AI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a criticism of emotional AI?</text>
+        </questiontext>
+        <answer fraction="0">It is not powerful enough to be useful.</answer>
+        <answer fraction="100.00">It can be used to manipulate people.</answer>
+        <answer fraction="0">It is too expensive to implement.</answer>
+        <answer fraction="0">It requires users to wear special equipment.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>How can voice assistants like Alexa be a problem for children?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can voice assistants like Alexa be a problem for children?</text>
+        </questiontext>
+        <answer fraction="0">They can cause physical harm.</answer>
+        <answer fraction="100.00">They can encourage poor manners.</answer>
+        <answer fraction="0">They cannot understand complex questions.</answer>
+        <answer fraction="0">They are not visually stimulating enough.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some techniques used in persuasive technology?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some techniques used in persuasive technology?</text>
+        </questiontext>
+        <answer fraction="0">Confusing error messages</answer>
+        <answer fraction="100.00">Pop-up ads and personalized recommendations</answer>
+        <answer fraction="0">Complex registration processes</answer>
+        <answer fraction="0">Providing limited customer support</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the goal of sustainable HCI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the goal of sustainable HCI?</text>
+        </questiontext>
+        <answer fraction="0">To make technology more affordable.</answer>
+        <answer fraction="100.00">To encourage responsible use of resources.</answer>
+        <answer fraction="0">To improve the speed of internet connections.</answer>
+        <answer fraction="0">To create more visually appealing interfaces.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What can be a powerful tool for sustainable HCI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What can be a powerful tool for sustainable HCI?</text>
+        </questiontext>
+        <answer fraction="0">Complex data visualizations</answer>
+        <answer fraction="100.00">Simple infographics and emoticons</answer>
+        <answer fraction="0">In-depth written reports</answer>
+        <answer fraction="0">Technical specifications guides</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What is phishing email attempt to do?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is phishing email attempt to do?</text>
+        </questiontext>
+        <answer fraction="0">Spread computer viruses.</answer>
+        <answer fraction="100.00">Trick people into revealing personal information</answer>
+        <answer fraction="0">Overload a user's inbox with spam.</answer>
+        <answer fraction="0">Gain unauthorized access to computer systems.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is anthropomorphism used for in advertising?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is anthropomorphism used for in advertising?</text>
+        </questiontext>
+        <answer fraction="0">To make products appear more technical.</answer>
+        <answer fraction="0">To create a sense of nostalgia.</answer>
+        <answer fraction="100.00">To evoke positive emotions and make products relatable.</answer>
+        <answer fraction="0">To emphasize the product's manufacturing process.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>Why might some users prefer a more encouraging feedback message?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why might some users prefer a more encouraging feedback message?</text>
+        </questiontext>
+        <answer fraction="0">It feels more impersonal and professional.</answer>
+        <answer fraction="0">It helps them identify the specific mistake made.</answer>
+        <answer fraction="100.00">It motivates them to keep trying.</answer>
+        <answer fraction="0">It is easier to understand.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of emotional design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of emotional design?</text>
+        </questiontext>
+        <answer fraction="0">To make interfaces more complex and challenging.</answer>
+        <answer fraction="100.00">To create user experiences that evoke specific emotions.</answer>
+        <answer fraction="0">To prioritize technical functionality over aesthetics.</answer>
+        <answer fraction="0">To ensure all interfaces follow a uniform design standard.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one benefit of well-designed interfaces?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one benefit of well-designed interfaces?</text>
+        </questiontext>
+        <answer fraction="0">They can make users feel anxious and stressed.</answer>
+        <answer fraction="100.00">They can be a pleasure to use.</answer>
+        <answer fraction="0">They are always difficult to learn.</answer>
+        <answer fraction="0">They require minimal user input.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>How can frustration with technology impact users?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can frustration with technology impact users?</text>
+        </questiontext>
+        <answer fraction="0">It can lead to a feeling of accomplishment.</answer>
+        <answer fraction="100.00">It can cause feelings of annoyance or anger.</answer>
+        <answer fraction="0">It motivates users to learn more about technology.</answer>
+        <answer fraction="0">It has no significant effect on user emotions.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a challenge in designing for emotional response?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a challenge in designing for emotional response?</text>
+        </questiontext>
+        <answer fraction="0">It is easy to predict how users will feel.</answer>
+        <answer fraction="100.00">User moods and emotions are constantly changing.</answer>
+        <answer fraction="0">There is no technology to measure user emotions.</answer>
+        <answer fraction="0">All users respond to design elements in the same way.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+</quiz>

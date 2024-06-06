@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Agile development cycles are typically how long?</text>
+        </name>
+        <questiontext format="html">
+            <text>Agile development cycles are typically how long?</text>
+        </questiontext>
+        <answer fraction="0">One day</answer>
+        <answer fraction="0">One week</answer>
+        <answer fraction="100.00">One to three weeks</answer>
+        <answer fraction="0">One month</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the term for prioritizing work based on user feedback in Agile?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the term for prioritizing work based on user feedback in Agile?</text>
+        </questiontext>
+        <answer fraction="0">Rapid iteration</answer>
+        <answer fraction="100.00">Re-prioritization</answer>
+        <answer fraction="0">User experience</answer>
+        <answer fraction="0">Technical debt</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an example of an Agile methodology?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an example of an Agile methodology?</text>
+        </questiontext>
+        <answer fraction="0">Waterfall</answer>
+        <answer fraction="100.00">Scrum</answer>
+        <answer fraction="0">Design Thinking</answer>
+        <answer fraction="0">Lean UX</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is technical debt in UX caused by?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is technical debt in UX caused by?</text>
+        </questiontext>
+        <answer fraction="0">Spending too much time on research</answer>
+        <answer fraction="100.00">Making short-term compromises</answer>
+        <answer fraction="0">Lack of user feedback</answer>
+        <answer fraction="0">Poor design patterns</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>AgileUX focuses on what as the deliverable?</text>
+        </name>
+        <questiontext format="html">
+            <text>AgileUX focuses on what as the deliverable?</text>
+        </questiontext>
+        <answer fraction="0">Design documentation</answer>
+        <answer fraction="0">User personas</answer>
+        <answer fraction="100.00">The product itself</answer>
+        <answer fraction="0">A detailed research report</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of user research in UX design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of user research in UX design?</text>
+        </questiontext>
+        <answer fraction="0">User satisfaction surveys</answer>
+        <answer fraction="100.00">Understanding users, tasks, and context</answer>
+        <answer fraction="0">Creating high-fidelity mockups</answer>
+        <answer fraction="0">Implementing design patterns</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the core principle behind Lean UX?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the core principle behind Lean UX?</text>
+        </questiontext>
+        <answer fraction="0">Extensive user research before development</answer>
+        <answer fraction="100.00">Building and testing products quickly</answer>
+        <answer fraction="0">Creating detailed design specifications</answer>
+        <answer fraction="0">Focusing on technical feasibility</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of using a parallel tracks approach in AgileUX?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of using a parallel tracks approach in AgileUX?</text>
+        </questiontext>
+        <answer fraction="0">Reduces the need for user research</answer>
+        <answer fraction="100.00">Avoids wasted design effort</answer>
+        <answer fraction="0">Slows down the development process</answer>
+        <answer fraction="0">Requires more upfront documentation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>Agile principles encourage what type of documentation?</text>
+        </name>
+        <questiontext format="html">
+            <text>Agile principles encourage what type of documentation?</text>
+        </questiontext>
+        <answer fraction="0">Extensive and detailed</answer>
+        <answer fraction="100.00">Minimal and focused</answer>
+        <answer fraction="0">High-fidelity prototypes</answer>
+        <answer fraction="0">User story repositories</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between low fidelity and high fidelity prototypes?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between low fidelity and high fidelity prototypes?</text>
+        </questiontext>
+        <answer fraction="100.00">Interactivity</answer>
+        <answer fraction="0">Design aesthetics</answer>
+        <answer fraction="0">Level of detail</answer>
+        <answer fraction="0">User research focus</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>Design patterns capture what kind of knowledge?</text>
+        </name>
+        <questiontext format="html">
+            <text>Design patterns capture what kind of knowledge?</text>
+        </questiontext>
+        <answer fraction="0">User needs and preferences</answer>
+        <answer fraction="100.00">Solutions to design problems in a context</answer>
+        <answer fraction="0">Coding best practices</answer>
+        <answer fraction="0">Agile development methodologies</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an anti-pattern in design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an anti-pattern in design?</text>
+        </questiontext>
+        <answer fraction="0">A well-established design solution</answer>
+        <answer fraction="100.00">A solution to avoid</answer>
+        <answer fraction="0">A user research technique</answer>
+        <answer fraction="0">An open-source design library</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an advantage of open-source resources in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an advantage of open-source resources in interaction design?</text>
+        </questiontext>
+        <answer fraction="100.00">Lower cost</answer>
+        <answer fraction="0">Limited functionality</answer>
+        <answer fraction="0">Proprietary software license</answer>
+        <answer fraction="0">Lack of community support</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What tool can be used to create interactive wireframes?</text>
+        </name>
+        <questiontext format="html">
+            <text>What tool can be used to create interactive wireframes?</text>
+        </questiontext>
+        <answer fraction="0">User testing software</answer>
+        <answer fraction="100.00">Balsamiq</answer>
+        <answer fraction="0">User research survey platform</answer>
+        <answer fraction="0">Code editor</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the core concept behind AgileUX?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the core concept behind AgileUX?</text>
+        </questiontext>
+        <answer fraction="0">Prioritizing aesthetics over usability</answer>
+        <answer fraction="100.00">Balancing research with rapid iterations</answer>
+        <answer fraction="0">Focusing on design tools and libraries</answer>
+        <answer fraction="0">Replacing user research with user testing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>Agile development encourages what to avoid?</text>
+        </name>
+        <questiontext format="html">
+            <text>Agile development encourages what to avoid?</text>
+        </questiontext>
+        <answer fraction="0">User feedback</answer>
+        <answer fraction="100.00">Wasted effort</answer>
+        <answer fraction="0">Detailed design specifications</answer>
+        <answer fraction="0">Short development cycles</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>How does user research help with re-prioritization in Agile?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does user research help with re-prioritization in Agile?</text>
+        </questiontext>
+        <answer fraction="0">Provides data to validate design decisions</answer>
+        <answer fraction="100.00">Helps identify user needs and pain points</answer>
+        <answer fraction="0">Creates design documentation</answer>
+        <answer fraction="0">Reduces the need for user testing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of linking interactive wireframes to design pattern libraries?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of linking interactive wireframes to design pattern libraries?</text>
+        </questiontext>
+        <answer fraction="0">Improves design aesthetics</answer>
+        <answer fraction="100.00">Enables creation of higher-fidelity prototypes</answer>
+        <answer fraction="0">Reduces the need for user testing</answer>
+        <answer fraction="0">Simplifies the coding process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>Open-source resources for interaction design can include what?</text>
+        </name>
+        <questiontext format="html">
+            <text>Open-source resources for interaction design can include what?</text>
+        </questiontext>
+        <answer fraction="0">Pre-built design templates</answer>
+        <answer fraction="100.00">Design pattern libraries</answer>
+        <answer fraction="0">User research tools</answer>
+        <answer fraction="0">Project management software</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>AgileUX is all about what?</text>
+        </name>
+        <questiontext format="html">
+            <text>AgileUX is all about what?</text>
+        </questiontext>
+        <answer fraction="0">Replacing UX design with rapid development</answer>
+        <answer fraction="100.00">Balancing research and reflection with rapid iterations incorporating user feedback</answer>
+        <answer fraction="0">Focusing solely on high-fidelity prototypes for user testing</answer>
+        <answer fraction="0">Eliminating the need for user research in the design process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>Scrum is an Agile methodology, but what is its specific role?</text>
+        </name>
+        <questiontext format="html">
+            <text>Scrum is an Agile methodology, but what is its specific role?</text>
+        </questiontext>
+        <answer fraction="100.00">Prioritizing user research activities</answer>
+        <answer fraction="0">Defining user interface elements</answer>
+        <answer fraction="0">Creating high-fidelity mockups</answer>
+        <answer fraction="0">Managing design handoffs to developers</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>How can technical debt in UX lead to problems?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can technical debt in UX lead to problems?</text>
+        </questiontext>
+        <answer fraction="0">Increased user satisfaction</answer>
+        <answer fraction="100.00">Difficulty making future changes</answer>
+        <answer fraction="0">Faster development cycles</answer>
+        <answer fraction="0">More user testing opportunities</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the iterative process in Agile development called?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the iterative process in Agile development called?</text>
+        </questiontext>
+        <answer fraction="0">Parallel tracks</answer>
+        <answer fraction="0">Re-prioritization</answer>
+        <answer fraction="100.00">Sprint</answer>
+        <answer fraction="0">User research cycle</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>Lean UX focuses on building products quickly. What does MVP stand for in this context?</text>
+        </name>
+        <questiontext format="html">
+            <text>Lean UX focuses on building products quickly. What does MVP stand for in this context?</text>
+        </questiontext>
+        <answer fraction="100.00">Minimum Viable Product</answer>
+        <answer fraction="0">Most Valuable Pattern</answer>
+        <answer fraction="0">Multi-phase Verification</answer>
+        <answer fraction="0">Meticulous Validation Process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>When might some upfront design work be necessary in AgileUX?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might some upfront design work be necessary in AgileUX?</text>
+        </questiontext>
+        <answer fraction="0">Never, to avoid wasting time</answer>
+        <answer fraction="100.00">For complex technical considerations</answer>
+        <answer fraction="0">Only after extensive user research</answer>
+        <answer fraction="0">To create a detailed style guide</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing is a form of what type of research?</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing is a form of what type of research?</text>
+        </questiontext>
+        <answer fraction="0">Quantitative data analysis</answer>
+        <answer fraction="100.00">User experience evaluation</answer>
+        <answer fraction="0">Competitive analysis</answer>
+        <answer fraction="0">User persona development</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>How does Agile address the challenge of changing requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does Agile address the challenge of changing requirements?</text>
+        </questiontext>
+        <answer fraction="0">By avoiding user feedback until later stages</answer>
+        <answer fraction="100.00">By allowing for re-prioritization within iterations</answer>
+        <answer fraction="0">By requiring all requirements upfront</answer>
+        <answer fraction="0">By focusing on a single development track</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential drawback of minimal documentation in AgileUX?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential drawback of minimal documentation in AgileUX?</text>
+        </questiontext>
+        <answer fraction="0">Reduced development time</answer>
+        <answer fraction="100.00">Difficulty onboarding new team members</answer>
+        <answer fraction="0">Improved communication with stakeholders</answer>
+        <answer fraction="0">More user involvement in the process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>High-fidelity prototypes are typically used for what purpose?</text>
+        </name>
+        <questiontext format="html">
+            <text>High-fidelity prototypes are typically used for what purpose?</text>
+        </questiontext>
+        <answer fraction="0">Gathering initial user feedback</answer>
+        <answer fraction="100.00">Refining design details and interactions</answer>
+        <answer fraction="0">User research interviews</answer>
+        <answer fraction="0">Documenting design decisions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between anti-patterns and dark patterns in design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between anti-patterns and dark patterns in design?</text>
+        </questiontext>
+        <answer fraction="100.00">Anti-patterns are less common, dark patterns are unethical</answer>
+        <answer fraction="0">Anti-patterns are for mobile design, dark patterns are for web design</answer>
+        <answer fraction="0">Anti-patterns are for usability, dark patterns are for aesthetics</answer>
+        <answer fraction="0">There is no practical difference</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

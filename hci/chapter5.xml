@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question type="multichoice">
+        <name>
+            <text>Social technologies, according to the passage, are designed to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social technologies, according to the passage, are designed to:</text>
+        </questiontext>
+        <answer fraction="0">Replace face-to-face communication.</answer>
+        <answer fraction="100.00">Support and enhance social interaction, even remotely.</answer>
+        <answer fraction="0">Limit the ways people connect with each other.</answer>
+        <answer fraction="0">Work only for professional settings.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Communication technologies have changed how people:</text>
+        </name>
+        <questiontext format="html">
+            <text>Communication technologies have changed how people:</text>
+        </questiontext>
+        <answer fraction="0">Shop online.</answer>
+        <answer fraction="100.00">Keep in touch with each other.</answer>
+        <answer fraction="0">Watch movies.</answer>
+        <answer fraction="0">Travel long distances.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>How are face-to-face conversation mechanisms adapted for computer-based interactions?</text>
+        </name>
+        <questiontext format="html">
+            <text>How are face-to-face conversation mechanisms adapted for computer-based interactions?</text>
+        </questiontext>
+        <answer fraction="0">They are completely replaced with new methods.</answer>
+        <answer fraction="100.00">They are studied to inform the design of online communication.</answer>
+        <answer fraction="0">They are not relevant for remote communication.</answer>
+        <answer fraction="0">They are considered outdated for modern social interaction.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social phenomena emerging from large-scale social engagement MIGHT include:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social phenomena emerging from large-scale social engagement MIGHT include:</text>
+        </questiontext>
+        <answer fraction="0">More efficient traffic flow.</answer>
+        <answer fraction="100.00">The spread of new online trends.</answer>
+        <answer fraction="0">A decrease in the need for physical communities.</answer>
+        <answer fraction="0">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>The social technologies:</text>
+        </name>
+        <questiontext format="html">
+            <text>The social technologies:</text>
+        </questiontext>
+        <answer fraction="0">Are a perfect replacement for face-to-face interaction.</answer>
+        <answer fraction="100.00">Can be valuable tools to support and extend social connection.</answer>
+        <answer fraction="0">Eliminate the need for physical proximity in social life.</answer>
+        <answer fraction="0">Mostly have negative impacts on how we socialize.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>What is social interaction?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is social interaction?</text>
+        </questiontext>
+        <answer fraction="0">Social media is the best way to connect with others.</answer>
+        <answer fraction="0">Social technologies perfectly replace face-to-face interaction.</answer>
+        <answer fraction="100.00">Social interaction is a core part of human life, and technology is changing how we do it.</answer>
+        <answer fraction="0">There are strict rules for online and offline conversation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social technologies are designed for:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social technologies are designed for:</text>
+        </questiontext>
+        <answer fraction="0">Limited social interaction.</answer>
+        <answer fraction="0">Replacing social interaction altogether.</answer>
+        <answer fraction="100.00">Supporting and extending social connections, even remotely.</answer>
+        <answer fraction="0">Making online communication impersonal.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Face-to-face conversation mechanisms are studied to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Face-to-face conversation mechanisms are studied to:</text>
+        </questiontext>
+        <answer fraction="0">Discourage them in favor of online communication.</answer>
+        <answer fraction="100.00">Improve the design of online communication tools.</answer>
+        <answer fraction="0">Prove that online interaction is superior.</answer>
+        <answer fraction="0">Show how different they are from online communication.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social media platforms can:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social media platforms can:</text>
+        </questiontext>
+        <answer fraction="100.00">Have a negative impact on everyday conversations.</answer>
+        <answer fraction="0">Completely replace the need for face-to-face interaction.</answer>
+        <answer fraction="0">Ensure all your online friends are also real-life friends.</answer>
+        <answer fraction="0">Have no effect on how we interact with others.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Conversational analysis proposes three basic rules. Which is NOT one of them?</text>
+        </name>
+        <questiontext format="html">
+            <text>Conversational analysis proposes three basic rules. Which is NOT one of them?</text>
+        </questiontext>
+        <answer fraction="0">The current speaker chooses the next speaker.</answer>
+        <answer fraction="0">Only one person can speak at a time.</answer>
+        <answer fraction="0">Anyone can decide to start speaking at any point.</answer>
+        <answer fraction="100.00">The current speaker should continue talking until someone else begins.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Back-channeling in conversation is used to signal:</text>
+        </name>
+        <questiontext format="html">
+            <text>Back-channeling in conversation is used to signal:</text>
+        </questiontext>
+        <answer fraction="0">Disagreement with the speaker.</answer>
+        <answer fraction="0">A desire to interrupt and take over the conversation.</answer>
+        <answer fraction="100.00">Encouragement for the speaker to continue.</answer>
+        <answer fraction="0">Confusion about what the speaker is saying.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>When a conversation breaks down, speakers might use:</text>
+        </name>
+        <questiontext format="html">
+            <text>When a conversation breaks down, speakers might use:</text>
+        </questiontext>
+        <answer fraction="100.00">Explicit cues like "Look at the time, I must go."</answer>
+        <answer fraction="0">More technical language to ensure clarity.</answer>
+        <answer fraction="0">Ignoring the misunderstanding and continuing the conversation.</answer>
+        <answer fraction="0">Ending the conversation abruptly without explanation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Videoconferencing and telepresence rooms aim to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Videoconferencing and telepresence rooms aim to:</text>
+        </questiontext>
+        <answer fraction="100.00">Minimize the feeling of being remote in a conversation.</answer>
+        <answer fraction="0">How do people repair misunderstandings in emails</answer>
+        <answer fraction="0">Only allow communication between two people at a time.</answer>
+        <answer fraction="0">Simulate virtual reality experiences.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Telepresence robots allow people to attend events remotely by controlling the robot. An example of their use is:</text>
+        </name>
+        <questiontext format="html">
+            <text>Telepresence robots allow people to attend events remotely by controlling the robot. An example of their use is:</text>
+        </questiontext>
+        <answer fraction="0">Monitoring traffic flow in a city.</answer>
+        <answer fraction="100.00">Participating in conferences or museum visits.</answer>
+        <answer fraction="0">Delivering packages to homes.</answer>
+        <answer fraction="0">Providing customer service in stores.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Telepresence focuses on being present with someone in a physical space, while social presence refers to feeling like someone is there with you in:</text>
+        </name>
+        <questiontext format="html">
+            <text>Telepresence focuses on being present with someone in a physical space, while social presence refers to feeling like someone is there with you in:</text>
+        </questiontext>
+        <answer fraction="0">A video call.</answer>
+        <answer fraction="0">A text message exchange.</answer>
+        <answer fraction="100.00">Virtual reality.</answer>
+        <answer fraction="0">An email exchange.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Co-presence refers to groups working together in the same location. What technologies are designed to support this?</text>
+        </name>
+        <questiontext format="html">
+            <text>Co-presence refers to groups working together in the same location. What technologies are designed to support this?</text>
+        </questiontext>
+        <answer fraction="0">Video conferencing software</answer>
+        <answer fraction="100.00">Technologies like tabletops and whiteboards.</answer>
+        <answer fraction="0">Social media platforms.</answer>
+        <answer fraction="0">Email and instant messaging.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Coordination mechanisms are necessary for groups to function well. An example is:</text>
+        </name>
+        <questiontext format="html">
+            <text>Coordination mechanisms are necessary for groups to function well. An example is:</text>
+        </questiontext>
+        <answer fraction="100.00">Sharing documents on a cloud storage platform.</answer>
+        <answer fraction="0">Using emojis to express emotions in chats.</answer>
+        <answer fraction="0">Having a like button on social media posts.</answer>
+        <answer fraction="0">Following different people on social media.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Non-verbal communication is important in face-to-face coordination. Examples include:</text>
+        </name>
+        <questiontext format="html">
+            <text>Non-verbal communication is important in face-to-face coordination. Examples include:</text>
+        </questiontext>
+        <answer fraction="100.00">Facial expressions, gestures, and body language.</answer>
+        <answer fraction="0">Using punctuation and emojis in text messages.</answer>
+        <answer fraction="0">Using italics and bold font in emails.</answer>
+        <answer fraction="0">Sharing reaction GIFs in online chats.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Awareness mechanisms allow people to know what is happening around them and who is talking to whom. An example is:</text>
+        </name>
+        <questiontext format="html">
+            <text>Awareness mechanisms allow people to know what is happening around them and who is talking to whom. An example is:</text>
+        </questiontext>
+        <answer fraction="0">Using private messages on social media platforms.</answer>
+        <answer fraction="100.00">Peripheral awareness, like noticing someone walk into a room.</answer>
+        <answer fraction="0">Explicitly mentioning who you are replying to in an email thread.</answer>
+        <answer fraction="0">Using @ symbols to mention people in social media posts.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Sharable interfaces are designed to capitalize on existing forms of coordination and awareness. Studies have found they can lead to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Sharable interfaces are designed to capitalize on existing forms of coordination and awareness. Studies have found they can lead to:</text>
+        </questiontext>
+        <answer fraction="0">More hierarchy and leadership within groups.</answer>
+        <answer fraction="0">More isolation and less social interaction.</answer>
+        <answer fraction="100.00">More equitable participation and a more natural work style.</answer>
+        <answer fraction="0">A preference for working remotely over being in the same physical space.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social engagement refers to participating in activities with a social group. An example of social exchange is:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social engagement refers to participating in activities with a social group. An example of social exchange is:</text>
+        </questiontext>
+        <answer fraction="0">Online shopping transactions.</answer>
+        <answer fraction="100.00">Liking and sharing posts on social media.</answer>
+        <answer fraction="0">Using a search engine to find information.</answer>
+        <answer fraction="0">Reading news articles online.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social technologies can be:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social technologies can be:</text>
+        </questiontext>
+        <answer fraction="100.00">A useful tool to enhance social interaction, even remotely.</answer>
+        <answer fraction="0">A complete replacement for face-to-face communication.</answer>
+        <answer fraction="0">A negative influence that isolates people from real-life connections.</answer>
+        <answer fraction="0">Equally effective for all social situations, regardless of context.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social media can have negative impacts on everyday conversations. Can you name one example?</text>
+        </name>
+        <questiontext format="html">
+            <text>Social media can have negative impacts on everyday conversations. Can you name one example?</text>
+        </questiontext>
+        <answer fraction="0">Social media encourages people to share their thoughts and feelings openly.</answer>
+        <answer fraction="100.00">Social media can lead to shorter attention spans and difficulty focusing on in-depth conversations.</answer>
+        <answer fraction="0">Social media allows people to connect with friends and family who live far away.</answer>
+        <answer fraction="0">Social media platforms provide a space for learning new things and discussing current events.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>What does "Peripheral awareness” refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does "Peripheral awareness” refer to?</text>
+        </questiontext>
+        <answer fraction="0">The ability to remember details from past conversations.</answer>
+        <answer fraction="0">The skill of actively listening and giving nonverbal cues.</answer>
+        <answer fraction="100.00">The awareness of what is happening around you in your immediate environment, without needing to explicitly look.</answer>
+        <answer fraction="0">The understanding of social cues and etiquette in online communication.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social media platforms like Twitter can be used for "retweeting" content. What is the main purpose of retweeting?</text>
+        </name>
+        <questiontext format="html">
+            <text>Social media platforms like Twitter can be used for "retweeting" content. What is the main purpose of retweeting?</text>
+        </questiontext>
+        <answer fraction="0">To start a private conversation with another user.</answer>
+        <answer fraction="100.00">To share content you find interesting or important with your followers.</answer>
+        <answer fraction="0">To express your disagreement with the content you are sharing.</answer>
+        <answer fraction="0">To mark a post as something you want to revisit later.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social media can be a powerful tool for social engagement. There are websites acting as hubs to connect people. An example of social engagement on these platforms could be:</text>
+        </name>
+        <questiontext format="html">
+            <text>Social media can be a powerful tool for social engagement. There are websites acting as hubs to connect people. An example of social engagement on these platforms could be:</text>
+        </questiontext>
+        <answer fraction="0">Online banking and managing personal finances.</answer>
+        <answer fraction="100.00">Joining a group dedicated to a shared hobby or interest.</answer>
+        <answer fraction="0">Reading news articles and leaving comments.</answer>
+        <answer fraction="0">Shopping online for clothes and accessories.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Why are the conversational rules important for turn-taking in conversations?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why are the conversational rules important for turn-taking in conversations?</text>
+        </questiontext>
+        <answer fraction="0">To ensure everyone gets a chance to speak an equal amount of time.</answer>
+        <answer fraction="100.00">To show respect and avoid interrupting others.</answer>
+        <answer fraction="0">To maintain a strict order within a conversation.</answer>
+        <answer fraction="0">To make conversations more interesting and engaging.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Videoconferencing software allows remote interaction. The passage mentions a potential downside to using video conferencing. What is it?</text>
+        </name>
+        <questiontext format="html">
+            <text>Videoconferencing software allows remote interaction. The passage mentions a potential downside to using video conferencing. What is it?</text>
+        </questiontext>
+        <answer fraction="0">Video calls can be expensive and require a lot of technical knowledge.</answer>
+        <answer fraction="0">Video can be grainy and difficult to see clearly, hindering communication.</answer>
+        <answer fraction="100.00">People may focus more on the technology itself than on the conversation.</answer>
+        <answer fraction="0">They make social interaction more complex and challenging.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social media can be a tool for social connection, but the passage also mentions it can have negative impacts. What is one negative impact of social media mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>Social media can be a tool for social connection, but the passage also mentions it can have negative impacts. What is one negative impact of social media mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Social media can provide a platform for positive social movements and activism.</answer>
+        <answer fraction="100.00">Social media can create unrealistic expectations about other people's lives.</answer>
+        <answer fraction="0">Social media can be a valuable resource for learning and sharing information.</answer>
+        <answer fraction="0">Social media can help people stay connected with friends and family who live far away.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <question type="multichoice">
+        <name>
+            <text>Social interaction is fundamental to human life. Exist various technologies influencing how we interact. What is the main impact of these technologies?</text>
+        </name>
+        <questiontext format="html">
+            <text>Social interaction is fundamental to human life. Exist various technologies influencing how we interact. What is the main impact of these technologies?</text>
+        </questiontext>
+        <answer fraction="0">They eliminate the need for face-to-face interaction altogether.</answer>
+        <answer fraction="0">They create entirely new ways of socializing that weren't possible before.</answer>
+        <answer fraction="100.00">They change the nature and dynamics of social interaction.</answer>
+        <answer fraction="0">They restrict social engagement to specific demographic groups.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+</quiz>

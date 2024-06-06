@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of iterative design and evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of iterative design and evaluation?</text>
+        </questiontext>
+        <answer fraction="0">To minimize costs throughout the design process</answer>
+        <answer fraction="100.00">To consistently produce successful design results</answer>
+        <answer fraction="0">To ensure users like the final product</answer>
+        <answer fraction="0">To confirm users’ requirements only</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>When can evaluation be conducted throughout the design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>When can evaluation be conducted throughout the design process?</text>
+        </questiontext>
+        <answer fraction="0">When evaluating finished products for future iterations only</answer>
+        <answer fraction="100.00">Throughout the design process, including finished products</answer>
+        <answer fraction="0">Only in the initial stages of design</answer>
+        <answer fraction="0">Only after a conceptual model is finalized</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>The passage mentions Bruce Tognazzini. What is his point about user testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>The passage mentions Bruce Tognazzini. What is his point about user testing?</text>
+        </questiontext>
+        <answer fraction="0">User testing is not always necessary in design.</answer>
+        <answer fraction="0">User testing is a good way to save money.</answer>
+        <answer fraction="100.00">User testing is an essential part of successful design.</answer>
+        <answer fraction="0">User testing should only be done in controlled settings.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>In which setting is there the least control over user behavior during evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>In which setting is there the least control over user behavior during evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Controlled labs</answer>
+        <answer fraction="100.00">Natural settings</answer>
+        <answer fraction="0">Living labs</answer>
+        <answer fraction="0">All settings offer similar control.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an advantage of using living labs for evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an advantage of using living labs for evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Evaluators can easily predict user behavior.</answer>
+        <answer fraction="0">Users can be closely monitored in a controlled environment.</answer>
+        <answer fraction="100.00">Technology can be evaluated in a realistic everyday setting.</answer>
+        <answer fraction="0">Living labs are less expensive to set up than traditional labs.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the term used to describe the agreement between participants and researchers regarding data collection and usage?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the term used to describe the agreement between participants and researchers regarding data collection and usage?</text>
+        </questiontext>
+        <answer fraction="0">Institutional Review Board approval</answer>
+        <answer fraction="100.00">Informed consent form</answer>
+        <answer fraction="0">Heuristic evaluation</answer>
+        <answer fraction="0">Usability testing script</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>How does ecological validity relate to evaluation methods?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does ecological validity relate to evaluation methods?</text>
+        </questiontext>
+        <answer fraction="0">It refers to the cost-effectiveness of the chosen method.</answer>
+        <answer fraction="0">It measures how enjoyable the evaluation process is for participants.</answer>
+        <answer fraction="100.00">It reflects how well the evaluation setting represents real-world use.</answer>
+        <answer fraction="0">It indicates the level of control researchers have over the evaluation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one way to mitigate bias in evaluation data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one way to mitigate bias in evaluation data?</text>
+        </questiontext>
+        <answer fraction="0">Choosing a familiar environment for user testing</answer>
+        <answer fraction="0">Using a small, homogenous participant group</answer>
+        <answer fraction="100.00">Employing a variety of evaluation methods</answer>
+        <answer fraction="0">Focusing on positive user feedback only</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some examples of data gathering methods used in both evaluation and requirement gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some examples of data gathering methods used in both evaluation and requirement gathering?</text>
+        </questiontext>
+        <answer fraction="0">User testing and focus groups</answer>
+        <answer fraction="0">Cost-benefit analysis and prototyping</answer>
+        <answer fraction="100.00">Observation, interviews, and questionnaires</answer>
+        <answer fraction="0">Data modeling and user interface design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of evaluation focuses on identifying usability problems in a design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of evaluation focuses on identifying usability problems in a design?</text>
+        </questiontext>
+        <answer fraction="0">Summative evaluation</answer>
+        <answer fraction="100.00">Formative evaluation</answer>
+        <answer fraction="0">Predictive evaluation</answer>
+        <answer fraction="0">Expert review</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary purpose of a usability lab?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary purpose of a usability lab?</text>
+        </questiontext>
+        <answer fraction="0">To evaluate user experience in a natural setting</answer>
+        <answer fraction="0">To conduct large-scale surveys with a broad audience</answer>
+        <answer fraction="100.00">To provide a controlled environment for usability testing.</answer>
+        <answer fraction="0">To collect physiological data from participants</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some potential limitations of using controlled settings for evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some potential limitations of using controlled settings for evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Difficulty recruiting a large number of participants</answer>
+        <answer fraction="0">Increased cost compared to other methods</answer>
+        <answer fraction="100.00">Less realistic representation of how users interact with the design in real-world situations.</answer>
+        <answer fraction="0">Inability to collect qualitative data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>How can combining different evaluation methods be beneficial?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can combining different evaluation methods be beneficial?</text>
+        </questiontext>
+        <answer fraction="0">It reduces the overall time needed for evaluation.</answer>
+        <answer fraction="100.00">It provides a more comprehensive understanding of the design.</answer>
+        <answer fraction="0">It allows researchers to focus on specific user demographics.</answer>
+        <answer fraction="0">It minimizes the cost of conducting the evaluation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>When interpreting evaluation results, why is it important to consider generalizability?</text>
+        </name>
+        <questiontext format="html">
+            <text>When interpreting evaluation results, why is it important to consider generalizability?</text>
+        </questiontext>
+        <answer fraction="100.00">To determine if the findings apply to a broader user population.</answer>
+        <answer fraction="0">To assess the overall cost-effectiveness of the evaluation method.</answer>
+        <answer fraction="0">To identify any technical errors in the data collection process.</answer>
+        <answer fraction="0">To evaluate the emotional state of the participants during the study.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the abbreviation "UX" typically refer to in the field of Human-Computer Interaction (HCI)?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the abbreviation "UX" typically refer to in the field of Human-Computer Interaction (HCI)?</text>
+        </questiontext>
+        <answer fraction="100.00">User Experience</answer>
+        <answer fraction="0">Usability Testing</answer>
+        <answer fraction="0">User Interface Design</answer>
+        <answer fraction="0">Universal Design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>When might an evaluator choose to conduct a heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might an evaluator choose to conduct a heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="0">When a large number of participants are needed for feedback.</answer>
+        <answer fraction="100.00">To assess a design based on established usability principles.</answer>
+        <answer fraction="0">To observe users interacting with a prototype in a natural setting.</answer>
+        <answer fraction="0">To collect physiological data on user responses to a design.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main advantage of using an expert review for evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main advantage of using an expert review for evaluation?</text>
+        </questiontext>
+        <answer fraction="100.00">Experts can provide insights based on broad user experience knowledge.</answer>
+        <answer fraction="0">Expert reviews are typically less expensive than other evaluation methods.</answer>
+        <answer fraction="0">Experts can offer unbiased feedback on the design's aesthetics.</answer>
+        <answer fraction="0">Expert reviews allow for real-time observation of user behavior.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the key difference between formative and summative evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the key difference between formative and summative evaluation?</text>
+        </questiontext>
+        <answer fraction="100.00">Formative evaluation is conducted before a design is finalized, while summative evaluation happens after.</answer>
+        <answer fraction="0">Formative evaluation focuses on user experience, while summative evaluation looks at technical aspects.</answer>
+        <answer fraction="0">Formative evaluation requires a controlled setting, while summative evaluation can be done in natural settings.</answer>
+        <answer fraction="0">Formative evaluation is more expensive than summative evaluation.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the term "ecological validity" emphasize in evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the term "ecological validity" emphasize in evaluation?</text>
+        </questiontext>
+        <answer fraction="0">The validity of the evaluation method itself.</answer>
+        <answer fraction="0">The generalizability of the findings to a broader population.</answer>
+        <answer fraction="0">The ethical treatment of participants during the evaluation.</answer>
+        <answer fraction="100.00">The degree to which the evaluation setting reflects real-world use.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>When might a researcher choose to conduct a crowdsourcing evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might a researcher choose to conduct a crowdsourcing evaluation?</text>
+        </questiontext>
+        <answer fraction="0">To gather in-depth feedback from a small group of users.</answer>
+        <answer fraction="100.00">To collect a large volume of data from a geographically dispersed audience.</answer>
+        <answer fraction="0">To observe user behavior in a controlled laboratory setting.</answer>
+        <answer fraction="0">To conduct a cost-benefit analysis of the design.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential drawback of relying solely on expert reviews for evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential drawback of relying solely on expert reviews for evaluation?</text>
+        </questiontext>
+        <answer fraction="100.00">Experts may not have experience with the target user population.</answer>
+        <answer fraction="0">Expert reviews can be time-consuming and expensive to conduct.</answer>
+        <answer fraction="0">The evaluation may not capture user emotions or subjective experiences.</answer>
+        <answer fraction="0">Expert reviews are not suitable for evaluating complex design features.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>How can usability testing help to improve the design of a website?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can usability testing help to improve the design of a website?</text>
+        </questiontext>
+        <answer fraction="100.00">By identifying areas where users struggle to find information.</answer>
+        <answer fraction="0">By ensuring the website is visually appealing to a broad audience.</answer>
+        <answer fraction="0">By measuring the website's loading speed and performance.</answer>
+        <answer fraction="0">By analyzing user demographics and online behavior patterns.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary goal of a heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary goal of a heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="100.00">To identify usability problems based on established design principles.</answer>
+        <answer fraction="0">To gather user feedback on the overall aesthetics of the design.</answer>
+        <answer fraction="0">To collect quantitative data on user task completion times.</answer>
+        <answer fraction="0">To assess the emotional impact of the design on users.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the term "bias" refer to in the context of evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the term "bias" refer to in the context of evaluation?</text>
+        </questiontext>
+        <answer fraction="100.00">A systematic error that can distort the evaluation results.</answer>
+        <answer fraction="0">The specific evaluation method chosen for the study.</answer>
+        <answer fraction="0">The level of control researchers have over the evaluation setting.</answer>
+        <answer fraction="0">The expertise of the evaluator conducting the study.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>How can researchers mitigate bias in evaluation data?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can researchers mitigate bias in evaluation data?</text>
+        </questiontext>
+        <answer fraction="0">By using a single evaluation method throughout the design process.</answer>
+        <answer fraction="0">By recruiting participants who are already familiar with the design.</answer>
+        <answer fraction="100.00">By employing a variety of evaluation methods and triangulation of results.</answer>
+        <answer fraction="0">By focusing on positive user feedback and ignoring negative comments.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing is a type of:</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing is a type of:</text>
+        </questiontext>
+        <answer fraction="100.00">Controlled evaluation</answer>
+        <answer fraction="0">Naturalistic evaluation</answer>
+        <answer fraction="0">Expert-based evaluation</answer>
+        <answer fraction="0">Crowdsourced evaluation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>When designing an informed consent form, what is a crucial step according?</text>
+        </name>
+        <questiontext format="html">
+            <text>When designing an informed consent form, what is a crucial step according?</text>
+        </questiontext>
+        <answer fraction="0">Including technical jargon to impress participants</answer>
+        <answer fraction="100.00">Obtaining approval from a relevant ethics committee.</answer>
+        <answer fraction="0">Keeping the form as brief as possible</answer>
+        <answer fraction="0">Highlighting potential benefits to the participant</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a benefit of using living labs for evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a benefit of using living labs for evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Living labs offer a sterile and controlled environment for user testing.</answer>
+        <answer fraction="0">Researchers can easily manipulate user behavior in a living lab setting.</answer>
+        <answer fraction="100.00">Living labs allow for the evaluation of technology in a more realistic everyday context.</answer>
+        <answer fraction="0">Living labs are typically less expensive to set up than traditional usability labs.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one ethical obligation researchers have towards participants in an evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one ethical obligation researchers have towards participants in an evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Offering participants financial compensation</answer>
+        <answer fraction="0">Keeping participant identities completely anonymous.</answer>
+        <answer fraction="100.00">Ensuring participants understand their rights and can withdraw at any time.</answer>
+        <answer fraction="0">Providing participants with the final evaluation report.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the relationship between evaluation and design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the relationship between evaluation and design?</text>
+        </questiontext>
+        <answer fraction="0">Evaluation is a separate process that occurs after design is complete.</answer>
+        <answer fraction="0">Evaluation and design are completely independent activities.</answer>
+        <answer fraction="100.00">Evaluation and design are closely integrated processes.</answer>
+        <answer fraction="0">Evaluation is only necessary for complex design projects.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary purpose of the requirements gathering activity?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary purpose of the requirements gathering activity?</text>
+        </questiontext>
+        <answer fraction="0">To create a marketing brochure for the new product</answer>
+        <answer fraction="100.00">To explore the problem space and define what will be developed</answer>
+        <answer fraction="0">To choose the programming language for the project</answer>
+        <answer fraction="0">To assign tasks to the development team</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>Why are requirements important?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why are requirements important?</text>
+        </questiontext>
+        <answer fraction="0">To impress stakeholders</answer>
+        <answer fraction="100.00">To avoid miscommunication between developers and users</answer>
+        <answer fraction="0">To win design awards</answer>
+        <answer fraction="0">To meet arbitrary deadlines</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What are different forms that requirements can take?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are different forms that requirements can take?</text>
+        </questiontext>
+        <answer fraction="0">Sketches and wireframes only</answer>
+        <answer fraction="100.00">User stories, functional requirements, and more</answer>
+        <answer fraction="0">Code snippets</answer>
+        <answer fraction="0">Marketing materials</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an example of a functional requirement?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an example of a functional requirement?</text>
+        </questiontext>
+        <answer fraction="100.00">The system should be easy to use for people with disabilities.</answer>
+        <answer fraction="0">The product should be visually appealing.</answer>
+        <answer fraction="0">The target audience is young professionals.</answer>
+        <answer fraction="0">The marketing campaign should focus on social media.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some techniques for gathering data on requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some techniques for gathering data on requirements?</text>
+        </questiontext>
+        <answer fraction="100.00">Studying existing documentation and similar products</answer>
+        <answer fraction="0">Watching competitor commercials</answer>
+        <answer fraction="0">Writing assumptions</answer>
+        <answer fraction="0">Relying on guesswork</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the different user characteristics that can be considered in requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the different user characteristics that can be considered in requirements?</text>
+        </questiontext>
+        <answer fraction="100.00">Age and technical expertise</answer>
+        <answer fraction="0">Preferred brand of clothing</answer>
+        <answer fraction="0">Favorite color scheme</answer>
+        <answer fraction="0">Spending habits on entertainment</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the focus of use cases in capturing requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the focus of use cases in capturing requirements?</text>
+        </questiontext>
+        <answer fraction="0">User interface design</answer>
+        <answer fraction="0">User emotions</answer>
+        <answer fraction="100.00">Functional interactions between user and product</answer>
+        <answer fraction="0">Marketing messages</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of using people in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of using people in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="0">To create a specific user to test the product</answer>
+        <answer fraction="100.00">To understand the needs and goals of typical users</answer>
+        <answer fraction="0">To assign blame if the project fails</answer>
+        <answer fraction="0">To save time by avoiding user research</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between a scenario and design fiction in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between a scenario and design fiction in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Scenarios are real-world, while design fiction is futuristic</answer>
+        <answer fraction="0">Scenarios are about user experience, while design fiction is about functionality</answer>
+        <answer fraction="0">Scenarios use text only, while design fiction can include multimedia</answer>
+        <answer fraction="0">There is no difference; they are the same.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the overall goal of articulating requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the overall goal of articulating requirements?</text>
+        </questiontext>
+        <answer fraction="0">To win a design award</answer>
+        <answer fraction="100.00">To avoid misunderstandings between developers and users</answer>
+        <answer fraction="0">To create a marketing brochure</answer>
+        <answer fraction="0">To shorten the development timeline</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the limitations of studying documentation for requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the limitations of studying documentation for requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Documentation may not be up-to-date</answer>
+        <answer fraction="0">Documentation can't capture user opinions</answer>
+        <answer fraction="0">Documentation is always too expensive</answer>
+        <answer fraction="0">Documentation is too time-consuming to create</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the benefits of combining different data gathering techniques for requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the benefits of combining different data gathering techniques for requirements?</text>
+        </questiontext>
+        <answer fraction="100.00">Provides a more complete picture of user needs</answer>
+        <answer fraction="0">Saves time and resources</answer>
+        <answer fraction="0">Makes the process more confusing for stakeholders</answer>
+        <answer fraction="0">Limits the creativity of the design team</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of a "cool concept" in contextual inquiry?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of a "cool concept" in contextual inquiry?</text>
+        </questiontext>
+        <answer fraction="0">To introduce a specific technical feature</answer>
+        <answer fraction="100.00">To spark conversation about user needs and experiences</answer>
+        <answer fraction="0">To prioritize design aesthetics</answer>
+        <answer fraction="0">To test the user's knowledge of the product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of using people in design decisions?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of using people in design decisions?</text>
+        </questiontext>
+        <answer fraction="0">To create a photorealistic image of a target user</answer>
+        <answer fraction="100.00">To remind the team who they are designing for</answer>
+        <answer fraction="0">To replace the need for user testing</answer>
+        <answer fraction="0">To create a marketing persona</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the best practices for brainstorming requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the best practices for brainstorming requirements?</text>
+        </questiontext>
+        <answer fraction="0">Limit participation to senior designers only</answer>
+        <answer fraction="100.00">Encourage wild ideas and avoid criticism</answer>
+        <answer fraction="0">Focus on technical feasibility from the beginning</answer>
+        <answer fraction="0">Discourage participation from people outside the design team</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between an essential use case and a use case with alternative courses?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between an essential use case and a use case with alternative courses?</text>
+        </questiontext>
+        <answer fraction="100.00">Essential use cases focus on happy paths, while alternative courses handle errors</answer>
+        <answer fraction="0">Essential use cases are written in code, while alternative courses are in plain language</answer>
+        <answer fraction="0">Essential use cases focus on user interface design, while alternative courses focus on functionality</answer>
+        <answer fraction="0">There is no difference; they are the same.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the potential drawbacks of using user stories in capturing requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the potential drawbacks of using user stories in capturing requirements?</text>
+        </questiontext>
+        <answer fraction="100.00">User stories can be too technical for non-designers</answer>
+        <answer fraction="0">User stories take too long to write</answer>
+        <answer fraction="0">User stories are not detailed enough for complex systems</answer>
+        <answer fraction="0">User stories are not relevant for agile development</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>When might contextual inquiry be a good choice for requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might contextual inquiry be a good choice for requirements gathering?</text>
+        </questiontext>
+        <answer fraction="0">When the target users are geographically dispersed</answer>
+        <answer fraction="0">When the budget for user research is limited</answer>
+        <answer fraction="0">When the product is already in a late stage of development</answer>
+        <answer fraction="100.00">When the target users are geographically dispersed</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of using scenarios to explore user behavior in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of using scenarios to explore user behavior in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Scenarios can predict future user trends</answer>
+        <answer fraction="0">Scenarios are a more efficient way to gather user data than interviews</answer>
+        <answer fraction="0">Scenarios can only be used for testing existing products</answer>
+        <answer fraction="0">Scenarios are a better alternative to user personas</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the characteristics that a good person should include?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the characteristics that a good person should include?</text>
+        </questiontext>
+        <answer fraction="0">Educational background and hobbies only</answer>
+        <answer fraction="0">A photo and a list of favorite brands</answer>
+        <answer fraction="0">A unique nickname and a fictional life story</answer>
+        <answer fraction="100.00">Age, technical expertise, and goals relevant to the product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>How can using people help to avoid misunderstandings in the design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can using people help to avoid misunderstandings in the design process?</text>
+        </questiontext>
+        <answer fraction="0">Personas can translate technical jargon for stakeholders</answer>
+        <answer fraction="100.00">Personas can ensure the product matches current fashion trends</answer>
+        <answer fraction="0">Personas can write user manuals</answer>
+        <answer fraction="0">Personas can code the product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between usability goals and user experience goals in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between usability goals and user experience goals in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Usability goals focus on aesthetics, while user experience goals focus on functionality</answer>
+        <answer fraction="0">Usability goals are for experienced users, while user experience goals are for beginners</answer>
+        <answer fraction="0">Usability goals apply to physical products, while user experience goals apply to digital products</answer>
+        <answer fraction="0">There is no difference; they are the same.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>When might ethnography be a useful tool for requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might ethnography be a useful tool for requirements gathering?</text>
+        </questiontext>
+        <answer fraction="0">When time and resources are limited</answer>
+        <answer fraction="100.00">When the product is in a very early stage of development</answer>
+        <answer fraction="0">When user needs are already well-defined</answer>
+        <answer fraction="0">When a quick A/B test is needed</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the key difference between a scenario and a use case in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the key difference between a scenario and a use case in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Scenarios are more user-focused, while use cases are more technical</answer>
+        <answer fraction="0">Scenarios are written in the future tense, while use cases are written in the present tense</answer>
+        <answer fraction="0">Scenarios describe existing behavior, while use cases describe desired behavior</answer>
+        <answer fraction="0">There is no difference; they are the same.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of user observation in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of user observation in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="0">To collect user opinions through surveys</answer>
+        <answer fraction="100.00">To understand user behavior in their natural environment</answer>
+        <answer fraction="0">To validate design decisions made by the development team</answer>
+        <answer fraction="0">To gather user feedback on existing product prototypes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the limitations of using interviews for requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the limitations of using interviews for requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Interviews can be time-consuming to conduct</answer>
+        <answer fraction="0">Interviews always require expensive equipment</answer>
+        <answer fraction="0">Interviewers can introduce bias through their questioning</answer>
+        <answer fraction="0">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the ethical considerations when using questionnaires for requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the ethical considerations when using questionnaires for requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Ensure the questionnaire is clear and easy to understand</answer>
+        <answer fraction="0">Guarantee anonymity for participants</answer>
+        <answer fraction="0">Offer an incentive to complete the questionnaire, regardless of its value</answer>
+        <answer fraction="0">Design questions that are biased towards a particular outcome</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between data requirements and functional requirements?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between data requirements and functional requirements?</text>
+        </questiontext>
+        <answer fraction="100.00">Data requirements specify what information the system needs to store, while functional requirements specify what the system should do</answer>
+        <answer fraction="0">Data requirements are more important for physical products, while functional requirements are more important for digital products</answer>
+        <answer fraction="0">Data requirements focus on user experience, while functional requirements focus on technical details</answer>
+        <answer fraction="0">There is no difference; they are the same.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the challenges of using design fiction in requirements gathering?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the challenges of using design fiction in requirements gathering?</text>
+        </questiontext>
+        <answer fraction="100.00">Design fiction can be too expensive to produce</answer>
+        <answer fraction="0">Design fiction may not be relevant to the product being developed</answer>
+        <answer fraction="0">Design fiction must always be based on real-world data</answer>
+        <answer fraction="0">Design fiction is not creative enough for effective requirements gathering</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the benefit of thoroughly understanding requirements before design and development?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the benefit of thoroughly understanding requirements before design and development?</text>
+        </questiontext>
+        <answer fraction="0">It shortens the development timeline</answer>
+        <answer fraction="0">It reduces the need for user testing later</answer>
+        <answer fraction="100.00">It lays a strong foundation for a successful product</answer>
+        <answer fraction="0">It allows designers more creative freedom</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+    
+</quiz>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Heuristic evaluation is a review guided by a set of:</text>
+        </name>
+        <questiontext format="html">
+            <text>Heuristic evaluation is a review guided by a set of:</text>
+        </questiontext>
+        <answer fraction="0">Design principles</answer>
+        <answer fraction="100.00">Usability best practices</answer>
+        <answer fraction="0">User personas</answer>
+        <answer fraction="0">Wireframes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the estimated percentage of usability problems identified by 5 evaluators using heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the estimated percentage of usability problems identified by 5 evaluators using heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="0">20-30%</answer>
+        <answer fraction="0">40-50%</answer>
+        <answer fraction="100.00">75-80%</answer>
+        <answer fraction="0">90-100%</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Nielsen and Mack (1994), the number of evaluators needed to find most usability problems depends on:</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Nielsen and Mack (1994), the number of evaluators needed to find most usability problems depends on:</text>
+        </questiontext>
+        <answer fraction="0">The size of the screen</answer>
+        <answer fraction="0">The complexity of the task</answer>
+        <answer fraction="100.00">The budget for evaluation</answer>
+        <answer fraction="0">The color scheme used</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following is NOT an advantage of heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following is NOT an advantage of heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Few ethical and practical considerations</answer>
+        <answer fraction="100.00">Relatively inexpensive</answer>
+        <answer fraction="0">Can be conducted by usability experts</answer>
+        <answer fraction="0">Provides a structured approach for identifying problems</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Granollers (2018), which question is NOT helpful when turning design guidelines into heuristics?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Granollers (2018), which question is NOT helpful when turning design guidelines into heuristics?</text>
+        </questiontext>
+        <answer fraction="0">Does the user always know where they are located?</answer>
+        <answer fraction="100.00">Can all actions be visualized directly?</answer>
+        <answer fraction="0">Does the application include a visible title page?</answer>
+        <answer fraction="0">Are the links clearly defined?</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>Web Content Accessibility Guidelines (WCAG) can be used as heuristics for evaluating:</text>
+        </name>
+        <questiontext format="html">
+            <text>Web Content Accessibility Guidelines (WCAG) can be used as heuristics for evaluating:</text>
+        </questiontext>
+        <answer fraction="0">Mobile apps</answer>
+        <answer fraction="0">Software applications</answer>
+        <answer fraction="100.00">Websites</answer>
+        <answer fraction="0">Design mockups</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>Cognitive walkthroughs focus on evaluating:</text>
+        </name>
+        <questiontext format="html">
+            <text>Cognitive walkthroughs focus on evaluating:</text>
+        </questiontext>
+        <answer fraction="0">User satisfaction</answer>
+        <answer fraction="100.00">Ease of learning</answer>
+        <answer fraction="0">Visual aesthetics</answer>
+        <answer fraction="0">Information architecture</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>In a pluralistic walkthrough, a team of experts:</text>
+        </name>
+        <questiontext format="html">
+            <text>In a pluralistic walkthrough, a team of experts:</text>
+        </questiontext>
+        <answer fraction="0">Works together from the beginning</answer>
+        <answer fraction="100.00">Begins by working separately</answer>
+        <answer fraction="0">Focuses solely on identifying accessibility issues</answer>
+        <answer fraction="0">Primarily uses A/B testing methods</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>Web analytics enable designers to track:</text>
+        </name>
+        <questiontext format="html">
+            <text>Web analytics enable designers to track:</text>
+        </questiontext>
+        <answer fraction="0">User demographics</answer>
+        <answer fraction="100.00">User behavior on their site</answer>
+        <answer fraction="0">User preferences for color schemes</answer>
+        <answer fraction="0">User opinions on the design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>A/B testing is a large-scale experiment that compares:</text>
+        </name>
+        <questiontext format="html">
+            <text>A/B testing is a large-scale experiment that compares:</text>
+        </questiontext>
+        <answer fraction="0">User personas</answer>
+        <answer fraction="0">Design mockups</answer>
+        <answer fraction="100.00">Two versions of a design</answer>
+        <answer fraction="0">Heuristic evaluation methods</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>A potential ethical dilemma associated with A/B testing involves:</text>
+        </name>
+        <questiontext format="html">
+            <text>A potential ethical dilemma associated with A/B testing involves:</text>
+        </questiontext>
+        <answer fraction="0">The cost of conducting the test</answer>
+        <answer fraction="0">The time required for users to complete tasks</answer>
+        <answer fraction="100.00">Users not knowing they are part of the test</answer>
+        <answer fraction="0">The complexity of the design changes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>Predictive models can be used to evaluate products or designs:</text>
+        </name>
+        <questiontext format="html">
+            <text>Predictive models can be used to evaluate products or designs:</text>
+        </questiontext>
+        <answer fraction="0">With a wide range of complex tasks</answer>
+        <answer fraction="100.00">Without directly involving users</answer>
+        <answer fraction="0">Primarily for evaluating websites</answer>
+        <answer fraction="0">Only for products with physical components</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>Fitts' Law predicts the time to point at an object based on:</text>
+        </name>
+        <questiontext format="html">
+            <text>Fitts' Law predicts the time to point at an object based on:</text>
+        </questiontext>
+        <answer fraction="0">User experience with the device</answer>
+        <answer fraction="0">The object's color and shape</answer>
+        <answer fraction="100.00">Distance and size of the object</answer>
+        <answer fraction="0">The overall complexity of the interface</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>Walkthroughs are most suitable for evaluating:</text>
+        </name>
+        <questiontext format="html">
+            <text>Walkthroughs are most suitable for evaluating:</text>
+        </questiontext>
+        <answer fraction="0">Large-scale website functionality</answer>
+        <answer fraction="100.00">Specific parts of a product</answer>
+        <answer fraction="0">User satisfaction with the overall design</answer>
+        <answer fraction="0">The effectiveness of marketing campaigns</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>Which factors can limit the usefulness of predictive models in evaluating products?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which factors can limit the usefulness of predictive models in evaluating products?</text>
+        </questiontext>
+        <answer fraction="0">The expertise of the evaluators</answer>
+        <answer fraction="0">The cost of user testing</answer>
+        <answer fraction="100.00">The complexity and variety of tasks</answer>
+        <answer fraction="0">The size and resolution of the screen</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What does Fitts' Law suggest about the placement of buttons on a mobile device screen?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does Fitts' Law suggest about the placement of buttons on a mobile device screen?</text>
+        </questiontext>
+        <answer fraction="0">Buttons should be all the same size and color.</answer>
+        <answer fraction="100.00">Frequently used buttons should be larger and closer to the user's thumb.</answer>
+        <answer fraction="0">Buttons should be placed randomly to encourage exploration.</answer>
+        <answer fraction="0">The size and placement of buttons don't affect user performance.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>When compared to user testing, inspections like heuristic evaluation generally:</text>
+        </name>
+        <questiontext format="html">
+            <text>When compared to user testing, inspections like heuristic evaluation generally:</text>
+        </questiontext>
+        <answer fraction="0">Are more time-consuming</answer>
+        <answer fraction="0">Provide a more in-depth analysis</answer>
+        <answer fraction="100.00">Involve fewer ethical considerations</answer>
+        <answer fraction="0">Reveal a wider range of usability problems</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following best describes the purpose of A/B testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following best describes the purpose of A/B testing?</text>
+        </questiontext>
+        <answer fraction="0">To identify user preferences for design aesthetics</answer>
+        <answer fraction="0">To measure the effectiveness of marketing campaigns</answer>
+        <answer fraction="100.00">To compare the usability of two design variations</answer>
+        <answer fraction="0">To gather user feedback on information architecture</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>Web analytics data can be used to identify:</text>
+        </name>
+        <questiontext format="html">
+            <text>Web analytics data can be used to identify:</text>
+        </questiontext>
+        <answer fraction="100.00">User pain points and areas of confusion</answer>
+        <answer fraction="0">The specific devices users prefer to access the website</answer>
+        <answer fraction="0">The emotional response users have to the design</answer>
+        <answer fraction="0">The qualifications and experience of the website's developers</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability experts recommend against using walkthroughs to evaluate:</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability experts recommend against using walkthroughs to evaluate:</text>
+        </questiontext>
+        <answer fraction="0">The overall information architecture of a website</answer>
+        <answer fraction="100.00">The clarity and conciseness of error messages</answer>
+        <answer fraction="0">The ease of completing a specific task flow</answer>
+        <answer fraction="0">The consistency of visual design elements</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some potential limitations of heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some potential limitations of heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="0">Requires a large number of evaluators to be effective</answer>
+        <answer fraction="100.00">Can be difficult to find qualified usability experts</answer>
+        <answer fraction="0">Data analysis can be complex and time-consuming</answer>
+        <answer fraction="0">Not suitable for evaluating websites with complex features</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>When designing a website for users with disabilities, it's important to consider the principles of:</text>
+        </name>
+        <questiontext format="html">
+            <text>When designing a website for users with disabilities, it's important to consider the principles of:</text>
+        </questiontext>
+        <answer fraction="0">Visual hierarchy and information density</answer>
+        <answer fraction="100.00">Accessibility and keyboard navigation</answer>
+        <answer fraction="0">Emotional design and user delight</answer>
+        <answer fraction="0">Responsive design and mobile optimization</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>Which of the following is NOT a core concept of WCAG?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which of the following is NOT a core concept of WCAG?</text>
+        </questiontext>
+        <answer fraction="0">Users with disabilities can perceive the content.</answer>
+        <answer fraction="100.00">The website is operable with a keyboard or other assistive technology.</answer>
+        <answer fraction="0">The content is understandable and readable.</answer>
+        <answer fraction="0">The website is reliable and predictable in its behavior.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>A/B testing allows designers to make data-driven decisions about:</text>
+        </name>
+        <questiontext format="html">
+            <text>A/B testing allows designers to make data-driven decisions about:</text>
+        </questiontext>
+        <answer fraction="0">The color scheme of the website</answer>
+        <answer fraction="100.00">The layout and functionality of design elements</answer>
+        <answer fraction="0">The choice of fonts used throughout the website</answer>
+        <answer fraction="0">The overall brand voice and messaging</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>When conducting a cognitive walkthrough, experts should primarily focus on:</text>
+        </name>
+        <questiontext format="html">
+            <text>When conducting a cognitive walkthrough, experts should primarily focus on:</text>
+        </questiontext>
+        <answer fraction="0">The visual appeal and aesthetics of the design</answer>
+        <answer fraction="100.00">The user's mental model and task completion</answer>
+        <answer fraction="0">The technical specifications of the underlying system</answer>
+        <answer fraction="0">The overall brand image and messaging</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>Web analytics can be used to track all of the following EXCEPT:</text>
+        </name>
+        <questiontext format="html">
+            <text>Web analytics can be used to track all of the following EXCEPT:</text>
+        </questiontext>
+        <answer fraction="0">The number of visitors to a website</answer>
+        <answer fraction="100.00">The keywords users enter to find the website</answer>
+        <answer fraction="0">The time users spend on each page</answer>
+        <answer fraction="0">The conversion rate for specific actions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Nielsen and Mack (1994), what is the main benefit of using multiple evaluators in heuristic evaluation?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Nielsen and Mack (1994), what is the main benefit of using multiple evaluators in heuristic evaluation?</text>
+        </questiontext>
+        <answer fraction="0">To reduce the overall cost of the evaluation</answer>
+        <answer fraction="100.00">To identify a wider range of usability problems</answer>
+        <answer fraction="0">To ensure consistency in the evaluation process</answer>
+        <answer fraction="0">To validate the expertise of the individual evaluators</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>When interpreting web analytics data, it's important to consider:</text>
+        </name>
+        <questiontext format="html">
+            <text>When interpreting web analytics data, it's important to consider:</text>
+        </questiontext>
+        <answer fraction="0">Only the most recent data points</answer>
+        <answer fraction="100.00">Trends and patterns over time</answer>
+        <answer fraction="0">The website's design aesthetics in isolation</answer>
+        <answer fraction="0">User feedback independently of the data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing is a form of:</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing is a form of:</text>
+        </questiontext>
+        <answer fraction="0">Predictive modeling</answer>
+        <answer fraction="100.00">User-centered evaluation</answer>
+        <answer fraction="0">Data analysis and reporting</answer>
+        <answer fraction="0">Design prototyping and iteration</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the advantages of using web analytics data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the advantages of using web analytics data?</text>
+        </questiontext>
+        <answer fraction="0">Provides a complete picture of user behavior</answer>
+        <answer fraction="100.00">Relatively inexpensive and easy to collect</answer>
+        <answer fraction="0">Offers deep insights into user motivations</answer>
+        <answer fraction="0">Can directly replace the need for user testing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

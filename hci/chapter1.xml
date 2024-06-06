@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Why do some interactive products, like smartphones and fitness trackers, tend to be easy and enjoyable to use, while others, like stoves, may be more challenging?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why do some interactive products, like smartphones and fitness trackers, tend to be easy and enjoyable to use, while others, like stoves, may be more challenging?</text>
+        </questiontext>
+        <answer fraction="0">Due to their advanced technology</answer>
+        <answer fraction="100.00">Because they prioritize user experience in design</answer>
+        <answer fraction="0">Random engineering decisions</answer>
+        <answer fraction="0">Lack of features</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference in user experience between products like the iPad and those like a ticket machine?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference in user experience between products like the iPad and those like a ticket machine?</text>
+        </questiontext>
+        <answer fraction="0">The color of the product</answer>
+        <answer fraction="0">The number of features</answer>
+        <answer fraction="100.00">The ease and enjoyment of use</answer>
+        <answer fraction="0">The price of the product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of user experience designers, and what is their impact on the design of interactive products?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of user experience designers, and what is their impact on the design of interactive products?</text>
+        </questiontext>
+        <answer fraction="0">UX designers focus on hardware design</answer>
+        <answer fraction="0">UX designers ensure compliance with legal regulations</answer>
+        <answer fraction="0">UX designers primarily design software systems</answer>
+        <answer fraction="100.00">UX designers play a key role in creating products with positive user experiences</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Alan Cooper, what is a significant issue with many interfaces of new products today, and why does he find it inexplicable and unforgivable?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Alan Cooper, what is a significant issue with many interfaces of new products today, and why does he find it inexplicable and unforgivable?</text>
+        </questiontext>
+        <answer fraction="0">Lack of features</answer>
+        <answer fraction="100.00">Ignoring basic UX principles, like offering an "undo" option</answer>
+        <answer fraction="0">Overemphasis on aesthetics</answer>
+        <answer fraction="0">High manufacturing costs</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the challenge in terms of achieving good user experiences with all new products, and what needs to be understood to address this challenge?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the challenge in terms of achieving good user experiences with all new products, and what needs to be understood to address this challenge?</text>
+        </questiontext>
+        <answer fraction="0">The challenge is a lack of technology</answer>
+        <answer fraction="100.00">Understanding how to reduce negative aspects and enhance positive ones in the user experience</answer>
+        <answer fraction="0">The challenge is a lack of user demand</answer>
+        <answer fraction="0">Improving marketing strategies</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the central concern of interaction design, and what aspects of user experience does it aim to enhance or reduce?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the central concern of interaction design, and what aspects of user experience does it aim to enhance or reduce?</text>
+        </questiontext>
+        <answer fraction="0">Central concern is product cost; aims to reduce functionality</answer>
+        <answer fraction="0">Central concern is visual appeal; aims to enhance aesthetics</answer>
+        <answer fraction="100.00">Central concern is user experience; aims to enhance usability and reduce negative aspects</answer>
+        <answer fraction="0">Central concern is product lifespan; aims to reduce maintenance costs</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What factors need to be considered when designing interactive products?</text>
+        </name>
+        <questiontext format="html">
+            <text>What factors need to be considered when designing interactive products?</text>
+        </questiontext>
+        <answer fraction="0">Who the users are</answer>
+        <answer fraction="0">Where interaction is taking place</answer>
+        <answer fraction="0">What activities are being carried out</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the goal of interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the goal of interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Developing complicated products</answer>
+        <answer fraction="100.00">Developing usable products with a good user experience</answer>
+        <answer fraction="0">Ignoring user input</answer>
+        <answer fraction="0">Focusing solely on aesthetics</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the benefits of working in multidisciplinary teams?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the benefits of working in multidisciplinary teams?</text>
+        </questiontext>
+        <answer fraction="0">Limited perspectives</answer>
+        <answer fraction="0">Difficulty in communication</answer>
+        <answer fraction="100.00">More ideas and designs generated</answer>
+        <answer fraction="0">Slow progress in design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>How does the text define the user experience?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does the text define the user experience?</text>
+        </questiontext>
+        <answer fraction="0">The way people feel about a product</answer>
+        <answer fraction="0">The physical appearance of a product</answer>
+        <answer fraction="0">The number of features a product has</answer>
+        <answer fraction="100.00">The way people feel about a product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Garrett (2010), what products have a user experience?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Garrett (2010), what products have a user experience?</text>
+        </questiontext>
+        <answer fraction="0">Only electronic devices</answer>
+        <answer fraction="0">Only high-end luxury items</answer>
+        <answer fraction="100.00">Every product used by someone</answer>
+        <answer fraction="0">Only digital products</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>Why was the iPod user experience considered a success?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why was the iPod user experience considered a success?</text>
+        </questiontext>
+        <answer fraction="0">It was the first digital music player</answer>
+        <answer fraction="0">It had a high price tag</answer>
+        <answer fraction="100.00">It had a quality user experience from the start</answer>
+        <answer fraction="0">It had a complex design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the core characteristics of interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the core characteristics of interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Involving users only in the testing phase</answer>
+        <answer fraction="0">Identifying usability goals at the end of the project</answer>
+        <answer fraction="100.00">Users should be involved throughout the development</answer>
+        <answer fraction="0">Ignoring user feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to consider accessibility and inclusiveness in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to consider accessibility and inclusiveness in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">To limit the number of users</answer>
+        <answer fraction="0">To comply with regulations</answer>
+        <answer fraction="100.00">To make products available to as many people as possible</answer>
+        <answer fraction="0">To increase the cost of production</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>How does the text define accessibility in the context of interactive products?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does the text define accessibility in the context of interactive products?</text>
+        </questiontext>
+        <answer fraction="0">The popularity of a product</answer>
+        <answer fraction="0">The extent to which a product is available online</answer>
+        <answer fraction="100.00">The degree to which a product is usable by as many people as possible</answer>
+        <answer fraction="0">The exclusivity of a product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>When choosing between alternative designs, what factors should be considered?</text>
+        </name>
+        <questiontext format="html">
+            <text>When choosing between alternative designs, what factors should be considered?</text>
+        </questiontext>
+        <answer fraction="0">Designer preference only</answer>
+        <answer fraction="100.00">A combination of user evaluation, technical feasibility, and quality thresholds</answer>
+        <answer fraction="0">Focusing solely on how visually appealing the design is</answer>
+        <answer fraction="0">User needs are not a major consideration</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is integrating interaction design activities with agile software development promising?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is integrating interaction design activities with agile software development promising?</text>
+        </questiontext>
+        <answer fraction="0">Because it focuses on creating complex user interfaces</answer>
+        <answer fraction="0">Because it prioritizes aesthetics over functionality</answer>
+        <answer fraction="100.00">Because it emphasizes early feedback and iterative design</answer>
+        <answer fraction="0">Because it requires a long development lifecycle</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the three core principles user-centered design rests on?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the three core principles user-centered design rests on?</text>
+        </questiontext>
+        <answer fraction="0">Early user focus, technical feasibility, and beautiful design</answer>
+        <answer fraction="100.00">Early user focus, iterative design, and quantifiable evaluation</answer>
+        <answer fraction="0">Designer intuition, user feedback, and rapid prototyping</answer>
+        <answer fraction="0">Technical expertise, usability testing, and marketing strategy</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>When evaluating design alternatives with users, why are prototypes more useful than static documentation?</text>
+        </name>
+        <questiontext format="html">
+            <text>When evaluating design alternatives with users, why are prototypes more useful than static documentation?</text>
+        </questiontext>
+        <answer fraction="0">Because prototypes showcase the final product look and feel</answer>
+        <answer fraction="100.00">Because users can provide feedback on the interaction behavior</answer>
+        <answer fraction="0">Because prototypes are faster to create</answer>
+        <answer fraction="0">There is no difference between prototypes and static documentation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>A/B testing is an online method used for what purpose in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>A/B testing is an online method used for what purpose in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">User recruitment for usability testing</answer>
+        <answer fraction="100.00">Comparing the effectiveness of two design alternatives</answer>
+        <answer fraction="0">Gathering user feedback on prototypes</answer>
+        <answer fraction="0">Evaluating technical feasibility of designs</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>When integrating interaction design activities with other lifecycle models, what is crucial for success?</text>
+        </name>
+        <questiontext format="html">
+            <text>When integrating interaction design activities with other lifecycle models, what is crucial for success?</text>
+        </questiontext>
+        <answer fraction="0">Focusing on completing tasks quickly</answer>
+        <answer fraction="100.00">Careful planning and consideration of potential challenges</answer>
+        <answer fraction="0">Prioritizing technical development over user needs</answer>
+        <answer fraction="0">There is no need for careful planning</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>Why might agile software development be a good fit for integrating interaction design activities?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why might agile software development be a good fit for integrating interaction design activities?</text>
+        </questiontext>
+        <answer fraction="0">Because it uses complex coding practices</answer>
+        <answer fraction="100.00">Because it emphasizes flexibility and user feedback</answer>
+        <answer fraction="0">Because it has a long development timeline</answer>
+        <answer fraction="0">Because it prioritizes aesthetics over usability</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the wider part at the beginning of the Double Diamond likely represent?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the wider part at the beginning of the Double Diamond likely represent?</text>
+        </questiontext>
+        <answer fraction="0">The final stages of product development</answer>
+        <answer fraction="100.00">Divergent thinking and exploring a broad problem space</answer>
+        <answer fraction="0">Convergent thinking and narrowing down to a single solution</answer>
+        <answer fraction="0">User testing and evaluating prototypes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is user involvement crucial throughout the interaction design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is user involvement crucial throughout the interaction design process?</text>
+        </questiontext>
+        <answer fraction="0">To ensure users like the final product color scheme</answer>
+        <answer fraction="100.00">To gain insights into user needs, behaviors, and goals</answer>
+        <answer fraction="0">To replace the role of designers with user feedback</answer>
+        <answer fraction="0">User involvement is not essential for successful design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is "usability" in Interaction Design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is "usability" in Interaction Design?</text>
+        </questiontext>
+        <answer fraction="0">The ease with which a user can learn to use a product.</answer>
+        <answer fraction="0">The satisfaction a user experiences when using a product.</answer>
+        <answer fraction="0">The number of functionalities a product has.</answer>
+        <answer fraction="100.00">The speed at which a product can perform a task.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the "double diamond" in Interaction Design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the "double diamond" in Interaction Design?</text>
+        </questiontext>
+        <answer fraction="100.00">A life cycle model for the design process.</answer>
+        <answer fraction="0">A tool for product usability evaluation.</answer>
+        <answer fraction="0">A technique for generating design ideas.</answer>
+        <answer fraction="0">A method for managing design projects.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a prototype in the context of Interaction Design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a prototype in the context of Interaction Design?</text>
+        </questiontext>
+        <answer fraction="100.00">A simplified representation of the final product.</answer>
+        <answer fraction="0">A document describing the product's functionalities.</answer>
+        <answer fraction="0">A set of rules defining the product's aesthetics.</answer>
+        <answer fraction="0">Code defining the software logic of the product.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the four fundamental activities of Interaction Design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the four fundamental activities of Interaction Design?</text>
+        </questiontext>
+        <answer fraction="0">Interface design, software development, marketing, and sales.</answer>
+        <answer fraction="100.00">Discovering requirements, designing alternatives, prototyping, and evaluating.</answer>
+        <answer fraction="0">Market research, data analysis, project management, and quality control.</answer>
+        <answer fraction="0">Writing code, creating wireframes, conducting user tests, and launching the product.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a user-centered approach?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a user-centered approach?</text>
+        </questiontext>
+        <answer fraction="100.00">An approach that involves users throughout the design process.</answer>
+        <answer fraction="0">An approach that is based on the designer's intuition.</answer>
+        <answer fraction="0">An approach that prioritizes the opinions of the stakeholders.</answer>
+        <answer fraction="0">An approach that is based on the latest design trends.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What are stakeholders in Interaction Design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are stakeholders in Interaction Design?</text>
+        </questiontext>
+        <answer fraction="0">The end users of the product.</answer>
+        <answer fraction="100.00">Any person or group that can be affected by the product.</answer>
+        <answer fraction="0">The design and development team of the product.</answer>
+        <answer fraction="0">The investors and financiers of the product.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

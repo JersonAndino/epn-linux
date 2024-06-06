@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What does cognition involve?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does cognition involve?</text>
+        </questiontext>
+        <answer fraction="0">Seeing and hearing</answer>
+        <answer fraction="100.00">Thinking and remembering</answer>
+        <answer fraction="0">Walking and running</answer>
+        <answer fraction="0">Eating and drinking</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Norman (1993), how can cognition be classified?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Norman (1993), how can cognition be classified?</text>
+        </questiontext>
+        <answer fraction="0">Fast vs slow thinking</answer>
+        <answer fraction="100.00">Experiential vs reflective cognition</answer>
+        <answer fraction="0">Active vs passive thinking</answer>
+        <answer fraction="0">Visual vs auditory thinking</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What cognitive aspect involves selecting things to concentrate on at a given time?</text>
+        </name>
+        <questiontext format="html">
+            <text>What cognitive aspect involves selecting things to concentrate on at a given time?</text>
+        </questiontext>
+        <answer fraction="0">Memory</answer>
+        <answer fraction="100.00">Attention</answer>
+        <answer fraction="0">Learning</answer>
+        <answer fraction="0">Perception</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>How can understanding cognition help in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can understanding cognition help in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">By making interfaces colorful</answer>
+        <answer fraction="100.00">By identifying and explaining user problems</answer>
+        <answer fraction="0">By increasing the complexity of products</answer>
+        <answer fraction="0">By providing more features</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What do theoretical frameworks like mental models and external cognition provide ways of understanding?</text>
+        </name>
+        <questiontext format="html">
+            <text>What do theoretical frameworks like mental models and external cognition provide ways of understanding?</text>
+        </questiontext>
+        <answer fraction="0">Information processing stages</answer>
+        <answer fraction="0">Verbal and non-verbal behavior</answer>
+        <answer fraction="100.00">How and why people interact with products</answer>
+        <answer fraction="0">Embodied interaction</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>Which experiment found that spacing affects search efficiency?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which experiment found that spacing affects search efficiency?</text>
+        </questiontext>
+        <answer fraction="0">Lotteridge et al. (2015)</answer>
+        <answer fraction="100.00">Tullis (1987)</answer>
+        <answer fraction="0">Ophir et al. (2009)</answer>
+        <answer fraction="0">Gardner and Davis (2013)</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>Which type of learning is described as intentional?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which type of learning is described as intentional?</text>
+        </questiontext>
+        <answer fraction="0">Incidental learning</answer>
+        <answer fraction="0">Experiential learning</answer>
+        <answer fraction="0">Reflective learning</answer>
+        <answer fraction="100.00">Intentional learning</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main implication for designing interfaces that encourage learning?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main implication for designing interfaces that encourage learning?</text>
+        </questiontext>
+        <answer fraction="0">Increase complexity</answer>
+        <answer fraction="100.00">Promote exploration</answer>
+        <answer fraction="0">Provide detailed instructions</answer>
+        <answer fraction="0">Limit user interactions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the gulf of evaluation represent?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the gulf of evaluation represent?</text>
+        </questiontext>
+        <answer fraction="0">Distance from the user to the physical system</answer>
+        <answer fraction="100.00">Distance from the physical system to the user</answer>
+        <answer fraction="0">Distance from one cognitive process to another</answer>
+        <answer fraction="0">Distance from the user to other users</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>How does the text recommend reducing cognitive load in personal information management?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does the text recommend reducing cognitive load in personal information management?</text>
+        </questiontext>
+        <answer fraction="0">Increasing the number of folders</answer>
+        <answer fraction="100.00">Using a single folder</answer>
+        <answer fraction="0">Avoiding any labeling</answer>
+        <answer fraction="0">Naming most common means</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of haptic feedback?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of haptic feedback?</text>
+        </questiontext>
+        <answer fraction="0">To distract users</answer>
+        <answer fraction="0">To provide auditory signals</answer>
+        <answer fraction="0">To improve memory</answer>
+        <answer fraction="100.00">To enhance touch interactions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Norman (1983), what kind of mental models do users often have?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Norman (1983), what kind of mental models do users often have?</text>
+        </questiontext>
+        <answer fraction="0">Accurate and complete</answer>
+        <answer fraction="100.00">Inappropriate analogies and superstition</answer>
+        <answer fraction="0">Clear and concise</answer>
+        <answer fraction="0">Complex and sophisticated</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of the gulf of execution?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of the gulf of execution?</text>
+        </questiontext>
+        <answer fraction="0">To evaluate user performance</answer>
+        <answer fraction="0">To identify design flaws</answer>
+        <answer fraction="0">To measure cognitive load</answer>
+        <answer fraction="100.00">To represent the gap between the user and the system</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>Which cognitive aspect involves recalling knowledge for appropriate action?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which cognitive aspect involves recalling knowledge for appropriate action?</text>
+        </questiontext>
+        <answer fraction="0">Learning</answer>
+        <answer fraction="100.00">Memory</answer>
+        <answer fraction="0">Attention</answer>
+        <answer fraction="0">Perception</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the gulf of execution explicate?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the gulf of execution explicate?</text>
+        </questiontext>
+        <answer fraction="0">Gaps between different cognitive processes</answer>
+        <answer fraction="0">Gaps in user knowledge</answer>
+        <answer fraction="100.00">Gaps between the user and the system</answer>
+        <answer fraction="0">Gaps in the design process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What does perception involve?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does perception involve?</text>
+        </questiontext>
+        <answer fraction="0">Deciding what information to keep</answer>
+        <answer fraction="0">Retrieving stored knowledge</answer>
+        <answer fraction="100.00">Transforming information into experiences</answer>
+        <answer fraction="0">Determining how information is interpreted</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>How should be design interfaces for learning?</text>
+        </name>
+        <questiontext format="html">
+            <text>How should be design interfaces for learning?</text>
+        </questiontext>
+        <answer fraction="0">Providing complex instructions</answer>
+        <answer fraction="0">Restricting user exploration</answer>
+        <answer fraction="100.00">Dynamically linking concepts and representations</answer>
+        <answer fraction="0">Avoiding multimedia and VR</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>According to Bergman and Whittaker (2016), what are the three interdependent processes in personal information management?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to Bergman and Whittaker (2016), what are the three interdependent processes in personal information management?</text>
+        </questiontext>
+        <answer fraction="0">Encoding, retrieving, naming</answer>
+        <answer fraction="100.00">Deciding, organizing, retrieving</answer>
+        <answer fraction="0">Learning, memorizing, recalling</answer>
+        <answer fraction="0">Searching, browsing, listing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>Which experiment found that people took less time to locate items when information was grouped?</text>
+        </name>
+        <questiontext format="html">
+            <text>Which experiment found that people took less time to locate items when information was grouped?</text>
+        </questiontext>
+        <answer fraction="0">Lotteridge et al. (2015)</answer>
+        <answer fraction="0">Tullis (1987)</answer>
+        <answer fraction="100.00">Weller (2004)</answer>
+        <answer fraction="0">Ophir et al. (2009)</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>How should be designed interfaces for attention?</text>
+        </name>
+        <questiontext format="html">
+            <text>How should be designed interfaces for attention?</text>
+        </questiontext>
+        <answer fraction="0">Cluttering visual interfaces with information</answer>
+        <answer fraction="0">Using minimal color contrast</answer>
+        <answer fraction="100.00">Using perceptual boundaries and sound</answer>
+        <answer fraction="0">Ignoring visual cues</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the primary focus of mental models?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the primary focus of mental models?</text>
+        </questiontext>
+        <answer fraction="100.00">How to use a system</answer>
+        <answer fraction="0">The complexity of a system</answer>
+        <answer fraction="0">The physical design of a system</answer>
+        <answer fraction="0">The popularity of a system</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What limitation is mentioned regarding the modeling of mental activities?</text>
+        </name>
+        <questiontext format="html">
+            <text>What limitation is mentioned regarding the modeling of mental activities?</text>
+        </questiontext>
+        <answer fraction="100.00">Adequately accounting for real-world interactions</answer>
+        <answer fraction="0">Exclusively focusing on external representations</answer>
+        <answer fraction="0">Ignoring verbal and non-verbal behavior</answer>
+        <answer fraction="0">Considering distributed cognition</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>According to the text, what is distributed cognition concerned with?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to the text, what is distributed cognition concerned with?</text>
+        </questiontext>
+        <answer fraction="0">Internal cognitive processes</answer>
+        <answer fraction="0">Verbal and non-verbal behavior</answer>
+        <answer fraction="100.00">Cognitive phenomena across individuals and artifacts</answer>
+        <answer fraction="0">Information processing stages</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What does external cognition explain?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does external cognition explain?</text>
+        </questiontext>
+        <answer fraction="0">Distributed problem-solving</answer>
+        <answer fraction="100.00">Interaction with external representations</answer>
+        <answer fraction="0">Coordinating mechanisms</answer>
+        <answer fraction="0">Internal cognitive processes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is externalizing to reduce memory load?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is externalizing to reduce memory load?</text>
+        </questiontext>
+        <answer fraction="0">Using diaries and reminders</answer>
+        <answer fraction="0">Marking emails</answer>
+        <answer fraction="0">Playing Scrabble or cards</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What term is used to describe the use of a tool in conjunction with an external representation to carry out a computation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What term is used to describe the use of a tool in conjunction with an external representation to carry out a computation?</text>
+        </questiontext>
+        <answer fraction="0">Cognitive tracing</answer>
+        <answer fraction="100.00">Computational offloading</answer>
+        <answer fraction="0">External cognition</answer>
+        <answer fraction="0">Information processing</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What does annotation involve?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does annotation involve?</text>
+        </questiontext>
+        <answer fraction="100.00">Crossing off, ticking, and underlining</answer>
+        <answer fraction="0">Problem-solving</answer>
+        <answer fraction="0">Internal cognitive processes</answer>
+        <answer fraction="0">Verbal behavior</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>According to the design implication, what can reduce memory load and facilitate computational offloading at the interface?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to the design implication, what can reduce memory load and facilitate computational offloading at the interface?</text>
+        </questiontext>
+        <answer fraction="0">Mental models</answer>
+        <answer fraction="100.00">External representations</answer>
+        <answer fraction="0">Rules and procedures</answer>
+        <answer fraction="0">Verbal behavior</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What does embodied interaction involve?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does embodied interaction involve?</text>
+        </questiontext>
+        <answer fraction="0">Cognitive tracing</answer>
+        <answer fraction="100.00">Creating, manipulating, and making meaning through interaction</answer>
+        <answer fraction="0">External cognition</answer>
+        <answer fraction="0">Mental models</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is emphasized as the practical engagement with the social and physical environment?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is emphasized as the practical engagement with the social and physical environment?</text>
+        </questiontext>
+        <answer fraction="0">External cognition</answer>
+        <answer fraction="0">Information processing stages</answer>
+        <answer fraction="100.00">Embodied interaction</answer>
+        <answer fraction="0">Distributed cognition</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

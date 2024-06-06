@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is another term for data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is another term for data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Large information</answer>
+        <answer fraction="0">Classified documents</answer>
+        <answer fraction="100.00">Big data</answer>
+        <answer fraction="0">Encoded messages</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>Data at scale can include all of the following EXCEPT:</text>
+        </name>
+        <questiontext format="html">
+            <text>Data at scale can include all of the following EXCEPT:</text>
+        </questiontext>
+        <answer fraction="0">Images</answer>
+        <answer fraction="0">Numbers</answer>
+        <answer fraction="100.00">Passwords</answer>
+        <answer fraction="0">Sensor data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential danger of data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential danger of data at scale?</text>
+        </questiontext>
+        <answer fraction="0">System overload</answer>
+        <answer fraction="100.00">Privacy violations</answer>
+        <answer fraction="0">Data loss</answer>
+        <answer fraction="0">Inaccurate findings</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an example of scraping data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an example of scraping data?</text>
+        </questiontext>
+        <answer fraction="0">Downloading a research paper</answer>
+        <answer fraction="0">Manually entering survey responses</answer>
+        <answer fraction="100.00">Extracting data from a website</answer>
+        <answer fraction="0">Uploading photos to social media</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of data is collected through crowdsourcing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of data is collected through crowdsourcing?</text>
+        </questiontext>
+        <answer fraction="0">Financial transactions</answer>
+        <answer fraction="100.00">Publicly available information</answer>
+        <answer fraction="0">Highly confidential data</answer>
+        <answer fraction="0">Personal medical records</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What information can social network analysis reveal?</text>
+        </name>
+        <questiontext format="html">
+            <text>What information can social network analysis reveal?</text>
+        </questiontext>
+        <answer fraction="0">User locations</answer>
+        <answer fraction="0">User preferences</answer>
+        <answer fraction="100.00">User relationships</answer>
+        <answer fraction="0">User browsing history</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>Citizen science data collection may raise concerns about:</text>
+        </name>
+        <questiontext format="html">
+            <text>Citizen science data collection may raise concerns about:</text>
+        </questiontext>
+        <answer fraction="0">Cost</answer>
+        <answer fraction="100.00">Data accuracy and privacy</answer>
+        <answer fraction="0">Participant safety</answer>
+        <answer fraction="0">Locations</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>Probing reactions to personal tracking is a study of:</text>
+        </name>
+        <questiontext format="html">
+            <text>Probing reactions to personal tracking is a study of:</text>
+        </questiontext>
+        <answer fraction="100.00">Data ethics</answer>
+        <answer fraction="0">Data compression techniques</answer>
+        <answer fraction="0">Data storage capacity</answer>
+        <answer fraction="0">Data encryption methods</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of data visualization?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of data visualization?</text>
+        </questiontext>
+        <answer fraction="0">To encrypt data</answer>
+        <answer fraction="100.00">To make data understandable</answer>
+        <answer fraction="0">To compress data</answer>
+        <answer fraction="0">To delete old data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>The market map is an example of a visualization for:</text>
+        </name>
+        <questiontext format="html">
+            <text>The market map is an example of a visualization for:</text>
+        </questiontext>
+        <answer fraction="0">Weather patterns</answer>
+        <answer fraction="100.00">Stock market trends</answer>
+        <answer fraction="0">Social media sentiment</answer>
+        <answer fraction="0">Scientific research data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of data might be visualized using a spectrogram?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of data might be visualized using a spectrogram?</text>
+        </questiontext>
+        <answer fraction="0">Sales figures</answer>
+        <answer fraction="100.00">Audio recordings</answer>
+        <answer fraction="0">User demographics</answer>
+        <answer fraction="0">Text documents</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>An interactive graphic using D3 is most likely used for:</text>
+        </name>
+        <questiontext format="html">
+            <text>An interactive graphic using D3 is most likely used for:</text>
+        </questiontext>
+        <answer fraction="0">Data storage</answer>
+        <answer fraction="100.00">Data exploration</answer>
+        <answer fraction="0">Data encryption</answer>
+        <answer fraction="0">Data deletion</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main concern regarding weather data visualizations?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main concern regarding weather data visualizations?</text>
+        </questiontext>
+        <answer fraction="0">Information overload</answer>
+        <answer fraction="100.00">Data accuracy</answer>
+        <answer fraction="0">Software compatibility</answer>
+        <answer fraction="0">User interface design</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>DeepCam’s face-tracking software is an example of using data at scale for:</text>
+        </name>
+        <questiontext format="html">
+            <text>DeepCam’s face-tracking software is an example of using data at scale for:</text>
+        </questiontext>
+        <answer fraction="0">Social media analysis</answer>
+        <answer fraction="100.00">Security and surveillance</answer>
+        <answer fraction="0">E-commerce recommendations</answer>
+        <answer fraction="0">Online advertising</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the “A” in the FATE data ethics principles?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the “A” in the FATE data ethics principles?</text>
+        </questiontext>
+        <answer fraction="0">Accuracy</answer>
+        <answer fraction="100.00">Accountability</answer>
+        <answer fraction="0">Accessibility</answer>
+        <answer fraction="0">Awareness</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What does “Explainability” in FATE refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does “Explainability” in FATE refer to?</text>
+        </questiontext>
+        <answer fraction="0">How data is collected</answer>
+        <answer fraction="0">How data is used</answer>
+        <answer fraction="100.00">Users’ understanding of explanations</answer>
+        <answer fraction="0">Data security</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the term for data that is NOT numerical?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the term for data that is NOT numerical?</text>
+        </questiontext>
+        <answer fraction="0">Quantitative data</answer>
+        <answer fraction="100.00">Qualitative data</answer>
+        <answer fraction="0">Encoded data</answer>
+        <answer fraction="0">Structured data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>Sensors in self-driving cars collect what type of data?</text>
+        </name>
+        <questiontext format="html">
+            <text>Sensors in self-driving cars collect what type of data?</text>
+        </questiontext>
+        <answer fraction="0">Financial data</answer>
+        <answer fraction="100.00">Environmental data</answer>
+        <answer fraction="0">Medical data</answer>
+        <answer fraction="0">User purchase history</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>When anonymizing data, the goal is to:</text>
+        </name>
+        <questiontext format="html">
+            <text>When anonymizing data, the goal is to:</text>
+        </questiontext>
+        <answer fraction="0">Compress the data size</answer>
+        <answer fraction="0">Improve data accuracy</answer>
+        <answer fraction="100.00">Protect individual identities</answer>
+        <answer fraction="0">Enhance data visualization</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the role of data governance in managing data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the role of data governance in managing data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Defines data collection methods</answer>
+        <answer fraction="100.00">Ensures data security and privacy</answer>
+        <answer fraction="0">Analyzes data for trends</answer>
+        <answer fraction="0">Creates data visualizations</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>Machine learning algorithms are trained on large amounts of data. What is a potential drawback of this?</text>
+        </name>
+        <questiontext format="html">
+            <text>Machine learning algorithms are trained on large amounts of data. What is a potential drawback of this?</text>
+        </questiontext>
+        <answer fraction="0">Difficulty in data storage</answer>
+        <answer fraction="0">Increased processing time</answer>
+        <answer fraction="100.00">Perpetuation of existing biases</answer>
+        <answer fraction="0">Limited application in specific fields</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>Net neutrality refers to:</text>
+        </name>
+        <questiontext format="html">
+            <text>Net neutrality refers to:</text>
+        </questiontext>
+        <answer fraction="0">Equal access to data analysis tools</answer>
+        <answer fraction="100.00">Unrestricted internet browsing</answer>
+        <answer fraction="0">Ethical use of data in research</answer>
+        <answer fraction="0">Standardized data formats</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>Artificial intelligence (AI) can be used to analyze data at scale for what purpose?</text>
+        </name>
+        <questiontext format="html">
+            <text>Artificial intelligence (AI) can be used to analyze data at scale for what purpose?</text>
+        </questiontext>
+        <answer fraction="0">Data visualization design</answer>
+        <answer fraction="0">Identifying data quality issues</answer>
+        <answer fraction="100.00">Extracting insights and making predictions</answer>
+        <answer fraction="0">Managing data storage infrastructure</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>Data at scale can be a valuable tool for scientific research. What is a challenge researchers may face?</text>
+        </name>
+        <questiontext format="html">
+            <text>Data at scale can be a valuable tool for scientific research. What is a challenge researchers may face?</text>
+        </questiontext>
+        <answer fraction="0">Limited access to data storage</answer>
+        <answer fraction="100.00">Difficulty in interpreting complex results</answer>
+        <answer fraction="0">Lack of user-friendly data visualization tools</answer>
+        <answer fraction="0">Inability to collect data in real-time</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>Citizen science projects often rely on volunteers to collect data. What is a potential limitation of this approach?</text>
+        </name>
+        <questiontext format="html">
+            <text>Citizen science projects often rely on volunteers to collect data. What is a potential limitation of this approach?</text>
+        </questiontext>
+        <answer fraction="0">High cost of data collection</answer>
+        <answer fraction="100.00">Inconsistency in data quality</answer>
+        <answer fraction="0">Difficulty in scaling up the project</answer>
+        <answer fraction="0">Lack of qualified researchers to analyze data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>What everyday activities generate data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What everyday activities generate data?</text>
+        </questiontext>
+        <answer fraction="0">Watching television</answer>
+        <answer fraction="0">Checking social media</answer>
+        <answer fraction="100.00">Using public transportation</answer>
+        <answer fraction="0">Writing a letter</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the two concerns about data collection?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the two concerns about data collection?</text>
+        </questiontext>
+        <answer fraction="0">Data accuracy and cost of storage</answer>
+        <answer fraction="100.00">Privacy violations and fairness of data use</answer>
+        <answer fraction="0">Data security and user interface design</answer>
+        <answer fraction="0">Data quality and processing time</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some of the positive applications of data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some of the positive applications of data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Targeted advertising and social media manipulation</answer>
+        <answer fraction="100.00">Improving healthcare, city planning, and scientific research</answer>
+        <answer fraction="0">Increasing government surveillance and censorship</answer>
+        <answer fraction="0">Simplifying data analysis for beginners</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What distinguishes data at scale from other forms of data collection?</text>
+        </name>
+        <questiontext format="html">
+            <text>What distinguishes data at scale from other forms of data collection?</text>
+        </questiontext>
+        <answer fraction="0">The type of data being collected (text vs. images)</answer>
+        <answer fraction="100.00">The volume and variety of data collected</answer>
+        <answer fraction="0">The purpose of data collection (research vs. marketing)</answer>
+        <answer fraction="0">The tools used to collect the data (manual vs. digital)</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>How data at scale can be beneficial for research?</text>
+        </name>
+        <questiontext format="html">
+            <text>How data at scale can be beneficial for research?</text>
+        </questiontext>
+        <answer fraction="0">By providing access to personal opinions and beliefs</answer>
+        <answer fraction="100.00">By allowing researchers to conduct experiments on large populations</answer>
+        <answer fraction="0">By replacing the need for traditional research methods</answer>
+        <answer fraction="0">By making scientific data more difficult to understand</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Rafa -->
+    <!-- Pregunta 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the main goals of the chapter on data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the main goals of the chapter on data at scale?</text>
+        </questiontext>
+        <answer fraction="0">To provide an overview of potential impacts of data at scale on society</answer>
+        <answer fraction="0">To introduce key methods for collecting data at scale</answer>
+        <answer fraction="0">To discuss how data at scale becomes meaningful</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one example of a personal assistant mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one example of a personal assistant mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Siri</answer>
+        <answer fraction="0">Cortana</answer>
+        <answer fraction="0">Alexa</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 3 -->
+    <question type="multichoice">
+        <name>
+            <text>How is data at scale described in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>How is data at scale described in the text?</text>
+        </questiontext>
+        <answer fraction="0">As databases of numbers</answer>
+        <answer fraction="0">As images of people, things, and places</answer>
+        <answer fraction="0">As environmentally sensed data</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a concern mentioned in the text regarding data collected about individuals?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a concern mentioned in the text regarding data collected about individuals?</text>
+        </questiontext>
+        <answer fraction="0">How it improves services provided by society</answer>
+        <answer fraction="0">How it can be tracked back to individuals</answer>
+        <answer fraction="0">How it reduces traffic congestion</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the potential impact of data at scale in improving applications?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the potential impact of data at scale in improving applications?</text>
+        </questiontext>
+        <answer fraction="0">Improving city planning</answer>
+        <answer fraction="0">Enhancing machine learning algorithms</answer>
+        <answer fraction="0">Providing insights into human behavior</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between qualitative and quantitative data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between qualitative and quantitative data?</text>
+        </questiontext>
+        <answer fraction="0">Qualitative data is descriptive; quantitative data is numerical</answer>
+        <answer fraction="0">Qualitative data is numerical; quantitative data is descriptive</answer>
+        <answer fraction="0">Qualitative data is complex; quantitative data is simple</answer>
+        <answer fraction="100.00">Qualitative data is simple; quantitative data is complex</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 7 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale be collected, used, and communicated?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale be collected, used, and communicated?</text>
+        </questiontext>
+        <answer fraction="0">Using manual methods only</answer>
+        <answer fraction="0">Using simple tools only</answer>
+        <answer fraction="0">Using a wide variety of ways</answer>
+        <answer fraction="100.00">Using complex algorithms only</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some potential uses of data at scale mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some potential uses of data at scale mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Improving healthcare</answer>
+        <answer fraction="0">Enhancing city planning</answer>
+        <answer fraction="0">Analyzing human behavior</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 9 -->
+    <question type="multichoice">
+        <name>
+            <text>How does data at scale impact research according to the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does data at scale impact research according to the text?</text>
+        </questiontext>
+        <answer fraction="0">It limits the scope of research</answer>
+        <answer fraction="0">It enables new kinds of research</answer>
+        <answer fraction="0">It reduces the need for data analysis</answer>
+        <answer fraction="100.00">It increases biases in research</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one concern mentioned in the text regarding data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one concern mentioned in the text regarding data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Privacy violations</answer>
+        <answer fraction="0">Transparency in decision-making</answer>
+        <answer fraction="0">Fairness in data analysis</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the importance of data visualization in data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the importance of data visualization in data at scale?</text>
+        </questiontext>
+        <answer fraction="0">It simplifies the analysis process</answer>
+        <answer fraction="0">It limits the types of conclusions that can be drawn</answer>
+        <answer fraction="0">It makes the data more complex</answer>
+        <answer fraction="100.00">It aids in understanding and exploring the data</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 12 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale inform new interventions?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale inform new interventions?</text>
+        </questiontext>
+        <answer fraction="0">By analyzing small data sets</answer>
+        <answer fraction="0">By focusing on qualitative data only</answer>
+        <answer fraction="0">By using machine learning and machine vision algorithms</answer>
+        <answer fraction="100.00">By avoiding data visualization techniques</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some examples of data sources mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some examples of data sources mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Social media messages</answer>
+        <answer fraction="0">CCTV footage</answer>
+        <answer fraction="0">Smartphone Wi-Fi signals</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What is one potential impact of data at scale on society?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is one potential impact of data at scale on society?</text>
+        </questiontext>
+        <answer fraction="0">Reducing the need for data gathering</answer>
+        <answer fraction="0">Increasing biases in data analysis</answer>
+        <answer fraction="0">Informing new interventions</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 15 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale be used to inform technology interventions?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale be used to inform technology interventions?</text>
+        </questiontext>
+        <answer fraction="0">By analyzing data from facial expressions</answer>
+        <answer fraction="0">By analyzing data from smartphone Wi-Fi signals</answer>
+        <answer fraction="0">By analyzing data from CCTV footage</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the importance of data at scale in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the importance of data at scale in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Provides an overview of the impacts of data on society</answer>
+        <answer fraction="0">Introduces key methods for data collection</answer>
+        <answer fraction="0">Allows for deeper analysis of data</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+            <single>true</single>
+            <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What types of data can be collected at scale according to the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What types of data can be collected at scale according to the text?</text>
+        </questiontext>
+        <answer fraction="0">Numbers</answer>
+        <answer fraction="0">Images of people, things, and places</answer>
+        <answer fraction="0">Environmental data</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What concern is mentioned in the text regarding data collected about individuals?</text>
+        </name>
+        <questiontext format="html">
+            <text>What concern is mentioned in the text regarding data collected about individuals?</text>
+        </questiontext>
+        <answer fraction="0">How it improves the services provided by society</answer>
+        <answer fraction="0">How it can be tracked back to individuals</answer>
+        <answer fraction="0">How it reduces traffic congestion</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the potential impact of data at scale on improving applications mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the potential impact of data at scale on improving applications mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Improving urban planning</answer>
+        <answer fraction="0">Enhancing machine learning algorithms</answer>
+        <answer fraction="0">Providing insights into human behavior</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 20 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the difference between qualitative and quantitative data?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the difference between qualitative and quantitative data?</text>
+        </questiontext>
+        <answer fraction="0">Qualitative data is descriptive; quantitative data is numerical</answer>
+        <answer fraction="0">Qualitative data is numerical; quantitative data is descriptive</answer>
+        <answer fraction="0">Qualitative data is complex; quantitative data is simple</answer>
+        <answer fraction="100.00">Qualitative data is simple; quantitative data is complex</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 21 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale be collected, used, and communicated?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale be collected, used, and communicated?</text>
+        </questiontext>
+        <answer fraction="0">Using only manual methods</answer>
+        <answer fraction="0">Using only simple tools</answer>
+        <answer fraction="0">Using a wide variety of ways</answer>
+        <answer fraction="100.00">Using only complex algorithms</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some potential uses of data at scale mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some potential uses of data at scale mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Improving healthcare</answer>
+        <answer fraction="0">Enhancing urban planning</answer>
+        <answer fraction="0">Analyzing human behavior</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 23 -->
+    <question type="multichoice">
+        <name>
+            <text>How does data at scale impact research according to the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>How does data at scale impact research according to the text?</text>
+        </questiontext>
+        <answer fraction="0">Limits the scope of research</answer>
+        <answer fraction="0">Enables new types of research</answer>
+        <answer fraction="0">Reduces the need for data analysis</answer>
+        <answer fraction="100.00">Increases biases in research</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a concern mentioned in the text regarding data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a concern mentioned in the text regarding data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Privacy violations</answer>
+        <answer fraction="0">Transparency in decision-making</answer>
+        <answer fraction="0">Fairness in data analysis</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the importance of data visualization in data at scale?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the importance of data visualization in data at scale?</text>
+        </questiontext>
+        <answer fraction="0">Simplifies the analysis process</answer>
+        <answer fraction="0">Limits the types of conclusions that can be drawn</answer>
+        <answer fraction="0">Makes the data more complex</answer>
+        <answer fraction="100.00">Aids in understanding and exploring the data</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 26 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale inform new interventions?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale inform new interventions?</text>
+        </questiontext>
+        <answer fraction="0">By analyzing small datasets</answer>
+        <answer fraction="0">By focusing only on qualitative data</answer>
+        <answer fraction="0">By using machine learning and computer vision algorithms</answer>
+        <answer fraction="100.00">By avoiding data visualization techniques</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some examples of data sources mentioned in the text?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some examples of data sources mentioned in the text?</text>
+        </questiontext>
+        <answer fraction="0">Social media messages</answer>
+        <answer fraction="0">Recordings of conversations</answer>
+        <answer fraction="0">Smartphone Wi-Fi signals</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential impact of data at scale on society?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential impact of data at scale on society?</text>
+        </questiontext>
+        <answer fraction="0">Reducing the need for data collection</answer>
+        <answer fraction="0">Increasing biases in data analysis</answer>
+        <answer fraction="0">Informing new interventions</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 29 -->
+    <question type="multichoice">
+        <name>
+            <text>How can data at scale be used to inform technological interventions?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can data at scale be used to inform technological interventions?</text>
+        </questiontext>
+        <answer fraction="0">By analyzing data from facial expressions</answer>
+        <answer fraction="0">By analyzing data from smartphone Wi-Fi signals</answer>
+        <answer fraction="0">By analyzing data from CCTV footage</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Pregunta 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the importance of data at scale in interaction design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the importance of data at scale in interaction design?</text>
+        </questiontext>
+        <answer fraction="0">Provides an overview of the impacts of data on society</answer>
+        <answer fraction="0">Introduces key methods for data collection</answer>
+        <answer fraction="0">Allows for deeper analysis of data</answer>
+        <answer fraction="100.00">All of the above</answer>
+        <shuffleanswers>0</shuffleanswers>
+          <single>true</single>
+          <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

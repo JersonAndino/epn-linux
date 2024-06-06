@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><plist version="1.0">
+<dict><key>CFBundleDocumentTypes</key><array><dict><key>CFBundleTypeOSTypes</key><array><string>MM</string></array><key>CFBundleTypeIconFile</key><string>FreeMindWindowIconModern-MM.icns</string><key>CFBundleTypeName</key><string>Mindmap</string><key>CFBundleTypeExtensions</key><array><string>mm</string></array><key>CFBundleTypeRole</key><string>Editor</string></dict></array><key>NSHighResolutionCapable</key><true/>
+<key>CFBundleDevelopmentRegion</key>
+<string>English</string>
+<key>CFBundleExecutable</key>
+<string>JavaAppLauncher</string>
+<key>CFBundleIconFile</key>
+<string>FreeMindWindowIconModern.icns</string>
+<key>CFBundleIdentifier</key>
+<string>freemind.main.FreeMind</string>
+<key>CFBundleDisplayName</key>
+<string>FreeMind</string>
+<key>CFBundleInfoDictionaryVersion</key>
+<string>6.0</string>
+<key>CFBundleName</key>
+<string>FreeMind</string>
+<key>CFBundlePackageType</key>
+<string>APPL</string>
+<key>CFBundleShortVersionString</key>
+<string>1.0.0 (build: 0)</string>
+<key>CFBundleSignature</key>
+<string>????</string>
+<key>CFBundleVersion</key>
+<string>1</string>
+<key>NSHumanReadableCopyright</key>
+<string>FreeMind 1.0.0 (build: 0) application (c) 2009</string>
+<key>JVMRuntime</key>
+<string>jdk1.7.0_25.jdk</string>
+<key>JVMMainClassName</key>
+<string>freemind.main.FreeMindStarter</string>
+<key>JVMOptions</key>
+<array>
+<string>-Xms64m</string>
+<string>-Xmx512m</string>
+<string>-Xss8M</string>
+<string>-Dapple.laf.useScreenMenuBar=true</string>
+</array>
+<key>JVMArguments</key>
+<array>
+</array>
+</dict>
+</plist>

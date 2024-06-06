@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing involves recording what of users?</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing involves recording what of users?</text>
+        </questiontext>
+        <answer fraction="0">Frustration</answer>
+        <answer fraction="100.00">Performance</answer>
+        <answer fraction="0">Sleep patterns</answer>
+        <answer fraction="0">Dreams</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of setting is used for usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of setting is used for usability testing?</text>
+        </questiontext>
+        <answer fraction="0">Real world locations</answer>
+        <answer fraction="100.00">Controlled environments</answer>
+        <answer fraction="0">Online forums</answer>
+        <answer fraction="0">Chat rooms</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>Tobii Glasses are an example of what kind of equipment?</text>
+        </name>
+        <questiontext format="html">
+            <text>Tobii Glasses are an example of what kind of equipment?</text>
+        </questiontext>
+        <answer fraction="0">Usability testing software</answer>
+        <answer fraction="100.00">Mobile eye-tracking system</answer>
+        <answer fraction="0">Interview recording device</answer>
+        <answer fraction="0">Brainwave scanner</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an informed consent form used for in usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an informed consent form used for in usability testing?</text>
+        </questiontext>
+        <answer fraction="0">To collect user payment information</answer>
+        <answer fraction="100.00">To explain the study and participant rights</answer>
+        <answer fraction="0">To gather user demographics</answer>
+        <answer fraction="0">To record user consent on video</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>How many participants are typically chosen for a usability test?</text>
+        </name>
+        <questiontext format="html">
+            <text>How many participants are typically chosen for a usability test?</text>
+        </questiontext>
+        <answer fraction="0">2-4</answer>
+        <answer fraction="100.00">5-10</answer>
+        <answer fraction="0">11-15</answer>
+        <answer fraction="0">More than 20</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main difference between usability testing and experiments?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main difference between usability testing and experiments?</text>
+        </questiontext>
+        <answer fraction="100.00">Usability testing uses fewer participants.</answer>
+        <answer fraction="0">Experiments are conducted in natural settings.</answer>
+        <answer fraction="0">Usability testing is less ethical.</answer>
+        <answer fraction="0">Experiments do not collect performance data.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>How are variables controlled in an experiment?</text>
+        </name>
+        <questiontext format="html">
+            <text>How are variables controlled in an experiment?</text>
+        </questiontext>
+        <answer fraction="0">By asking participants to control their emotions</answer>
+        <answer fraction="100.00">By keeping some factors constant while manipulating others.</answer>
+        <answer fraction="0">By letting participants freely explore the system.</answer>
+        <answer fraction="0">There is no control in experiments.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>Field studies are conducted in what kind of settings?</text>
+        </name>
+        <questiontext format="html">
+            <text>Field studies are conducted in what kind of settings?</text>
+        </questiontext>
+        <answer fraction="0">Artificial labs</answer>
+        <answer fraction="100.00">Natural environments</answer>
+        <answer fraction="0">Online surveys</answer>
+        <answer fraction="0">Focus groups</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What was the primary goal of the Painpad field study?</text>
+        </name>
+        <questiontext format="html">
+            <text>What was the primary goal of the Painpad field study?</text>
+        </questiontext>
+        <answer fraction="0">To test a new pain medication</answer>
+        <answer fraction="100.00">To evaluate Painpad use in a hospital setting</answer>
+        <answer fraction="0">To compare Painpad to other pain monitoring devices</answer>
+        <answer fraction="0">To assess the overall effectiveness of pain monitoring</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of data was collected in the Painpad field study?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of data was collected in the Painpad field study?</text>
+        </questiontext>
+        <answer fraction="0">Only user satisfaction surveys</answer>
+        <answer fraction="0">Only pain scores from nurses</answer>
+        <answer fraction="100.00">User satisfaction, compliance, and pain data</answer>
+        <answer fraction="0">Brain activity scans of the patients</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing helps identify what kind of errors?</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing helps identify what kind of errors?</text>
+        </questiontext>
+        <answer fraction="0">Spelling mistakes in text documents</answer>
+        <answer fraction="100.00">User interface design flaws</answer>
+        <answer fraction="0">Network connectivity issues</answer>
+        <answer fraction="0">Hardware malfunctions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>According to the passage, what are some limitations of usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>According to the passage, what are some limitations of usability testing?</text>
+        </questiontext>
+        <answer fraction="0">It is expensive and time-consuming.</answer>
+        <answer fraction="0">It cannot be replicated.</answer>
+        <answer fraction="100.00">It only tests a small number of users.</answer>
+        <answer fraction="0">It cannot be conducted remotely.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>Field studies can be used to achieve which of the following?</text>
+        </name>
+        <questiontext format="html">
+            <text>Field studies can be used to achieve which of the following?</text>
+        </questiontext>
+        <answer fraction="0">Develop a new advertising campaign</answer>
+        <answer fraction="0">Identify opportunities for new technologies</answer>
+        <answer fraction="0">Recruit participants for usability testing</answer>
+        <answer fraction="100.00">Write a user manual</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential drawback of field studies, especially for studies involving new technologies?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential drawback of field studies, especially for studies involving new technologies?</text>
+        </questiontext>
+        <answer fraction="0">The data collection process is expensive.</answer>
+        <answer fraction="0">Participants may not be comfortable using the technology in public.</answer>
+        <answer fraction="100.00">The researcher cannot control all the variables.</answer>
+        <answer fraction="0">The findings may be irrelevant to real-world use.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What ethical consideration is important in usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What ethical consideration is important in usability testing?</text>
+        </questiontext>
+        <answer fraction="0">Users should be paid a high fee for their participation.</answer>
+        <answer fraction="0">Users should be offered the product for free after the study.</answer>
+        <answer fraction="100.00">Users should be informed about the study procedures and their rights.</answer>
+        <answer fraction="0">Users should be deceived about the purpose of the study.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>Usability testing can be used to evaluate what aspects of a website?</text>
+        </name>
+        <questiontext format="html">
+            <text>Usability testing can be used to evaluate what aspects of a website?</text>
+        </questiontext>
+        <answer fraction="100.00">The visual design and aesthetics</answer>
+        <answer fraction="0">The effectiveness of online advertising</answer>
+        <answer fraction="0">The website's ranking in search engines</answer>
+        <answer fraction="0">The security of user data</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What type of data collection method is NOT typically used in usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What type of data collection method is NOT typically used in usability testing?</text>
+        </questiontext>
+        <answer fraction="0">Eye-tracking</answer>
+        <answer fraction="0">Interviews</answer>
+        <answer fraction="100.00">A/B testing</answer>
+        <answer fraction="0">User satisfaction questionnaires</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>When might a researcher choose to conduct a within-subjects design experiment?</text>
+        </name>
+        <questiontext format="html">
+            <text>When might a researcher choose to conduct a within-subjects design experiment?</text>
+        </questiontext>
+        <answer fraction="0">To compare two different websites</answer>
+        <answer fraction="0">To test the effect of learning on task performance</answer>
+        <answer fraction="0">To investigate user preferences for different colors</answer>
+        <answer fraction="100.00">To evaluate usability with a diverse range of users</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>Field studies are a good option for researchers who want to understand:</text>
+        </name>
+        <questiontext format="html">
+            <text>Field studies are a good option for researchers who want to understand:</text>
+        </questiontext>
+        <answer fraction="0">How users react to a prototype in a controlled environment</answer>
+        <answer fraction="100.00">How technology is used in real-world contexts</answer>
+        <answer fraction="0">The ideal number of features to include in a new product</answer>
+        <answer fraction="0">The long-term effects of technology use on user behavior</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>Privacy is a concern in some field studies. How can researchers mitigate this concern?</text>
+        </name>
+        <questiontext format="html">
+            <text>Privacy is a concern in some field studies. How can researchers mitigate this concern?</text>
+        </questiontext>
+        <answer fraction="0">By offering participants a large financial reward.</answer>
+        <answer fraction="100.00">By collecting data anonymously whenever possible.</answer>
+        <answer fraction="0">By requiring participants to wear identifying badges.</answer>
+        <answer fraction="0">By sharing all collected data publicly.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main benefit of using remote usability testing tools?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main benefit of using remote usability testing tools?</text>
+        </questiontext>
+        <answer fraction="0">They are more accurate than in-person testing.</answer>
+        <answer fraction="100.00">They allow for testing with a wider range of participants.</answer>
+        <answer fraction="0">They provide a more controlled testing environment.</answer>
+        <answer fraction="0">They are always less expensive than in-person testing.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>Experiments can be used to determine the impact of which of the following on user performance?</text>
+        </name>
+        <questiontext format="html">
+            <text>Experiments can be used to determine the impact of which of the following on user performance?</text>
+        </questiontext>
+        <answer fraction="0">The overall economic climate</answer>
+        <answer fraction="100.00">The user's mood or emotional state</answer>
+        <answer fraction="0">Recent news events</answer>
+        <answer fraction="0">Global weather patterns</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>Field studies can help designers to make what kind of decisions?</text>
+        </name>
+        <questiontext format="html">
+            <text>Field studies can help designers to make what kind of decisions?</text>
+        </questiontext>
+        <answer fraction="0">How much to charge for a new product</answer>
+        <answer fraction="0">How to best market a new product</answer>
+        <answer fraction="100.00">What features to include in a new product design</answer>
+        <answer fraction="0">Where to manufacture a new product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What are some potential drawbacks of using mobile eye-tracking equipment in usability testing?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are some potential drawbacks of using mobile eye-tracking equipment in usability testing?</text>
+        </questiontext>
+        <answer fraction="100.00">The equipment can be uncomfortable for participants to wear.</answer>
+        <answer fraction="0">The data analysis process is very time-consuming.</answer>
+        <answer fraction="0">It cannot track eye movements on small screens.</answer>
+        <answer fraction="0">It is only suitable for testing websites.</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What information is typically included in usability testing reports?</text>
+        </name>
+        <questiontext format="html">
+            <text>What information is typically included in usability testing reports?</text>
+        </questiontext>
+        <answer fraction="0">User demographics only</answer>
+        <answer fraction="100.00">Detailed descriptions of user errors</answer>
+        <answer fraction="0">Marketing recommendations for the product</answer>
+        <answer fraction="0">Code snippets for implementing design changes</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>When designing a usability test, what factors should be considered?</text>
+        </name>
+        <questiontext format="html">
+            <text>When designing a usability test, what factors should be considered?</text>
+        </questiontext>
+        <answer fraction="0">The time of day the test is conducted</answer>
+        <answer fraction="100.00">The participant's familiarity with the product</answer>
+        <answer fraction="0">The weather conditions on the day of testing</answer>
+        <answer fraction="0">The participant's political views</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>What can field studies be used to evaluate?</text>
+        </name>
+        <questiontext format="html">
+            <text>What can field studies be used to evaluate?</text>
+        </questiontext>
+        <answer fraction="100.00">Effectiveness of training programs</answer>
+        <answer fraction="0">Usability of a product in a controlled lab setting</answer>
+        <answer fraction="0">Cost-effectiveness of a new technology</answer>
+        <answer fraction="0">Long-term safety of a medical device</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>When conducting a field study, what should researchers strive to do?</text>
+        </name>
+        <questiontext format="html">
+            <text>When conducting a field study, what should researchers strive to do?</text>
+        </questiontext>
+        <answer fraction="100.00">Minimize disruption to the participants' routines</answer>
+        <answer fraction="0">Introduce new tasks and activities for participants to complete</answer>
+        <answer fraction="0">Collect as much data as possible from each participant</answer>
+        <answer fraction="0">Emphasize the importance of the study to the participants</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the experiments designed for?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the experiments designed for?</text>
+        </questiontext>
+        <answer fraction="0">Improve existing products</answer>
+        <answer fraction="100.00">Test a hypothesis about user behavior</answer>
+        <answer fraction="0">Gather user feedback on prototypes</answer>
+        <answer fraction="0">Understand user needs in a natural setting</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What do usability tests focus on?</text>
+        </name>
+        <questiontext format="html">
+            <text>What do usability tests focus on?</text>
+        </questiontext>
+        <answer fraction="0">User opinions and emotions</answer>
+        <answer fraction="100.00">User performance and task completion</answer>
+        <answer fraction="0">User demographics and background</answer>
+        <answer fraction="0">User creativity and innovation</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>

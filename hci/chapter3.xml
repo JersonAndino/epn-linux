@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of conceptualizing design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of conceptualizing design?</text>
+        </questiontext>
+        <answer fraction="0">To implement the proposed product</answer>
+        <answer fraction="100.00">To analyze the feasibility of the proposed product</answer>
+        <answer fraction="0">To market the proposed product</answer>
+        <answer fraction="0">To develop the physical components of the product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 2 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to write down assumptions and claims in the design process?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to write down assumptions and claims in the design process?</text>
+        </questiontext>
+        <answer fraction="0">To confuse the design team</answer>
+        <answer fraction="0">To create unnecessary documentation</answer>
+        <answer fraction="100.00">To defend and support design ideas</answer>
+        <answer fraction="0">To hide potential problems</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 3 -->
+    <question type="multichoice">
+        <name>
+            <text>What is an assumption in the context of design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is an assumption in the context of design?</text>
+        </questiontext>
+        <answer fraction="0">A proven fact</answer>
+        <answer fraction="100.00">Something taken for granted needing further investigation</answer>
+        <answer fraction="0">An established theory</answer>
+        <answer fraction="0">A universally accepted concept</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 4 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a claim in the context of design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a claim in the context of design?</text>
+        </questiontext>
+        <answer fraction="0">A fact with no room for questioning</answer>
+        <answer fraction="0">A hypothesis</answer>
+        <answer fraction="100.00">Stating something to be true when it is still open to question</answer>
+        <answer fraction="0">A universally acknowledged truth</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 5 -->
+    <question type="multichoice">
+        <name>
+            <text>What problem is addressed in the activity involving robot waiters?</text>
+        </name>
+        <questiontext format="html">
+            <text>What problem is addressed in the activity involving robot waiters?</text>
+        </questiontext>
+        <answer fraction="0">Lack of customer interest</answer>
+        <answer fraction="100.00">Difficulty in recruiting good wait staff</answer>
+        <answer fraction="0">High costs of employing human wait staff</answer>
+        <answer fraction="0">Inefficiency of the existing ordering system</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 6 -->
+    <question type="multichoice">
+        <name>
+            <text>How can conceptualizing design benefit design teams in terms of common ground?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can conceptualizing design benefit design teams in terms of common ground?</text>
+        </questiontext>
+        <answer fraction="0">Narrowing focus</answer>
+        <answer fraction="100.00">Establishing commonly agreed terms</answer>
+        <answer fraction="0">Ignoring conceptual models</answer>
+        <answer fraction="0">Avoiding specific questions</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 7 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a conceptual model?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a conceptual model?</text>
+        </questiontext>
+        <answer fraction="0">A detailed product prototype</answer>
+        <answer fraction="100.00">A high-level description of how a system is organized and operates</answer>
+        <answer fraction="0">A physical representation of a design concept</answer>
+        <answer fraction="0">A marketing strategy for a product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 8 -->
+    <question type="multichoice">
+        <name>
+            <text>What do metaphors and analogies help users understand in a conceptual model?</text>
+        </name>
+        <questiontext format="html">
+            <text>What do metaphors and analogies help users understand in a conceptual model?</text>
+        </questiontext>
+        <answer fraction="0">The physical components of a system</answer>
+        <answer fraction="100.00">How to use a product for an activity</answer>
+        <answer fraction="0">The marketing strategy of a product</answer>
+        <answer fraction="0">The manufacturing process of a product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 9 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the card metaphor known for?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the card metaphor known for?</text>
+        </questiontext>
+        <answer fraction="0">Its unfamiliar form factor</answer>
+        <answer fraction="0">Its inability to structure content</answer>
+        <answer fraction="0">Being difficult to flick through</answer>
+        <answer fraction="100.00">Structuring content into meaningful chunks</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 10 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential disadvantage of interface metaphors?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential disadvantage of interface metaphors?</text>
+        </questiontext>
+        <answer fraction="0">Making learning new systems difficult</answer>
+        <answer fraction="0">Helping users understand the underlying conceptual model</answer>
+        <answer fraction="100.00">Limiting designers' imagination</answer>
+        <answer fraction="0">Allowing for greater accessibility to a diversity of users</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 11 -->
+    <question type="multichoice">
+        <name>
+            <text>What does the term "Direct Manipulation" refer to?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does the term "Direct Manipulation" refer to?</text>
+        </questiontext>
+        <answer fraction="0">Manipulating physical objects in the real world</answer>
+        <answer fraction="0">Indirect control of a system</answer>
+        <answer fraction="0">Complex syntax for issuing commands</answer>
+        <answer fraction="100.00">Rapid reversible actions with immediate feedback</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 12 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a disadvantage of direct manipulation?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a disadvantage of direct manipulation?</text>
+        </questiontext>
+        <answer fraction="100.00">Slow cursor movement using a mouse or touchpad</answer>
+        <answer fraction="0">Rapid reversible actions with immediate feedback</answer>
+        <answer fraction="0">All tasks can be described by objects</answer>
+        <answer fraction="0">Users experiencing less anxiety</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 13 -->
+    <question type="multichoice">
+        <name>
+            <text>What does exploring as an interaction type involve?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does exploring as an interaction type involve?</text>
+        </questiontext>
+        <answer fraction="0">Dragging, selecting, opening, and closing virtual objects</answer>
+        <answer fraction="100.00">Moving through virtual or physical environments</answer>
+        <answer fraction="0">Initiating interaction and choosing whether to respond</answer>
+        <answer fraction="0">Instructing the system what to do</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 14 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the core property of Direct Manipulation according to Ben Shneiderman?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the core property of Direct Manipulation according to Ben Shneiderman?</text>
+        </questiontext>
+        <answer fraction="0">Complex syntax for issuing commands</answer>
+        <answer fraction="100.00">Rapid reversible actions with immediate feedback</answer>
+        <answer fraction="0">Slow learning curve for novices</answer>
+        <answer fraction="0">Rarely needed error messages</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 15 -->
+    <question type="multichoice">
+        <name>
+            <text>What is responding as an interaction type?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is responding as an interaction type?</text>
+        </questiontext>
+        <answer fraction="0">Interacting with objects in a virtual or physical space</answer>
+        <answer fraction="0">Instructing the system what to do</answer>
+        <answer fraction="0">Having a conversation with a system</answer>
+        <answer fraction="100.00">System-initiated alerts to the user</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 16 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a potential con of system-initiated notifications?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a potential con of system-initiated notifications?</text>
+        </questiontext>
+        <answer fraction="0">They are always accurate</answer>
+        <answer fraction="100.00">They can get tiresome if too many or incorrect</answer>
+        <answer fraction="0">Users have complete control over them</answer>
+        <answer fraction="0">They are never frustrating</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 17 -->
+    <question type="multichoice">
+        <name>
+            <text>What does a paradigm provide for conceptual models?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does a paradigm provide for conceptual models?</text>
+        </questiontext>
+        <answer fraction="0">A shared conceptual model</answer>
+        <answer fraction="100.00">A general approach adopted by a community for research</answer>
+        <answer fraction="0">A specific set of user interface styles</answer>
+        <answer fraction="0">A physical representation of a product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 18 -->
+    <question type="multichoice">
+        <name>
+            <text>What are visions in the context of design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are visions in the context of design?</text>
+        </questiontext>
+        <answer fraction="0">Concrete scenarios of current technologies</answer>
+        <answer fraction="100.00">Driving forces that frame research and development</answer>
+        <answer fraction="0">Detailed explanations of design phenomena</answer>
+        <answer fraction="0">Established theories in HCI</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 19 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of a theory in design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of a theory in design?</text>
+        </questiontext>
+        <answer fraction="0">To predict user behavior with certainty</answer>
+        <answer fraction="100.00">To explain a phenomenon and guide research</answer>
+        <answer fraction="0">To create abstract models</answer>
+        <answer fraction="0">To provide concrete scenarios of future technologies</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 20 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a model in HCI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a model in HCI?</text>
+        </questiontext>
+        <answer fraction="0">A detailed physical representation of a product</answer>
+        <answer fraction="100.00">A simplification of an HCI phenomenon</answer>
+        <answer fraction="0">A complex theory without practical applications</answer>
+        <answer fraction="0">A framework for analyzing user experiences</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 21 -->
+    <question type="multichoice">
+        <name>
+            <text>What is a framework in HCI?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is a framework in HCI?</text>
+        </questiontext>
+        <answer fraction="100.00">A set of interrelated concepts and specific questions</answer>
+        <answer fraction="0">A detailed physical representation of a product</answer>
+        <answer fraction="0">A paradigm used for research purposes</answer>
+        <answer fraction="0">A visual representation of user interfaces</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 22 -->
+    <question type="multichoice">
+        <name>
+            <text>What is Don Norman's framework in HCI about?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is Don Norman's framework in HCI about?</text>
+        </questiontext>
+        <answer fraction="0">The relationship between designer’s fashion and user understanding</answer>
+        <answer fraction="100.00">The relationship between the design of a conceptual model and user understanding</answer>
+        <answer fraction="0">The relationship between user preferences and system image</answer>
+        <answer fraction="0">The relationship between design processes and marketing strategies</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 23 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main purpose of conceptualizing design?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main purpose of conceptualizing design?</text>
+        </questiontext>
+        <answer fraction="0">To develop physical components</answer>
+        <answer fraction="100.00">To analyze feasibility</answer>
+        <answer fraction="0">To market the product</answer>
+        <answer fraction="0">To implement the proposed product</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 24 -->
+    <question type="multichoice">
+        <name>
+            <text>What does a conceptual model provide?</text>
+        </name>
+        <questiontext format="html">
+            <text>What does a conceptual model provide?</text>
+        </questiontext>
+        <answer fraction="0">A detailed physical representation of a product</answer>
+        <answer fraction="100.00">A high-level description of how a system is organized and operates</answer>
+        <answer fraction="0">A set of interrelated concepts and specific questions</answer>
+        <answer fraction="0">A driving force that frames research and development</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 25 -->
+    <question type="multichoice">
+        <name>
+            <text>What are the components of a conceptual model?</text>
+        </name>
+        <questiontext format="html">
+            <text>What are the components of a conceptual model?</text>
+        </questiontext>
+        <answer fraction="100.00">Metaphors and analogies</answer>
+        <answer fraction="0">Assumptions and claims</answer>
+        <answer fraction="0">Paradigms and visions</answer>
+        <answer fraction="0">Icons and buttons</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 26 -->
+    <question type="multichoice">
+        <name>
+            <text>How can metaphors and analogies benefit users in a conceptual model?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can metaphors and analogies benefit users in a conceptual model?</text>
+        </questiontext>
+        <answer fraction="0">By creating confusion</answer>
+        <answer fraction="0">By making learning new systems difficult</answer>
+        <answer fraction="100.00">By helping users understand the underlying conceptual model</answer>
+        <answer fraction="0">By limiting designers' imagination</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 27 -->
+    <question type="multichoice">
+        <name>
+            <text>How can assumptions and claims be helpful during the early stages of a design project?</text>
+        </name>
+        <questiontext format="html">
+            <text>How can assumptions and claims be helpful during the early stages of a design project?</text>
+        </questiontext>
+        <answer fraction="0">By complicating the design process</answer>
+        <answer fraction="100.00">By identifying problems with existing products</answer>
+        <answer fraction="0">By discouraging the reconsideration of assumptions</answer>
+        <answer fraction="0">By limiting the exploration of new ideas</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 28 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the purpose of asking questions, reconsidering assumptions, and articulating concerns during the ideation process?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the purpose of asking questions, reconsidering assumptions, and articulating concerns during the ideation process?</text>
+        </questiontext>
+        <answer fraction="0">To slow down the design process</answer>
+        <answer fraction="0">To hinder the development of conceptual models</answer>
+        <answer fraction="100.00">To identify and address potential issues</answer>
+        <answer fraction="0">To discourage collaboration within design teams</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 29 -->
+    <question type="multichoice">
+        <name>
+            <text>Why is it important to work through assumptions during the initial stages of a design project?</text>
+        </name>
+        <questiontext format="html">
+            <text>Why is it important to work through assumptions during the initial stages of a design project?</text>
+        </questiontext>
+        <answer fraction="0">To limit creativity</answer>
+        <answer fraction="100.00">To identify unknown factors</answer>
+        <answer fraction="0">To avoid user feedback</answer>
+        <answer fraction="0">To speed up the development process</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+    <!-- Question 30 -->
+    <question type="multichoice">
+        <name>
+            <text>What is the main benefit of exploring as an interaction type?</text>
+        </name>
+        <questiontext format="html">
+            <text>What is the main benefit of exploring as an interaction type?</text>
+        </questiontext>
+        <answer fraction="0">Efficient execution of repetitive tasks</answer>
+        <answer fraction="100.00">Enhanced user comfort and ease</answer>
+        <answer fraction="0">Quick and efficient interaction</answer>
+        <answer fraction="0">Better support for novice users</answer>
+        <shuffleanswers>0</shuffleanswers>
+        <single>true</single>
+        <answernumbering>abc</answernumbering>
+    </question>
+
+</quiz>
